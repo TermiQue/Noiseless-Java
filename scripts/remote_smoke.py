@@ -58,7 +58,7 @@ else:
     vocab=api('POST','/api/v1/vocabulary/add',{'file':file,'word':'Book'},token); vocab=api('POST','/api/v1/vocabulary/add',{'file':file,'word':'book'},token); check('vocabulary normalization and source deduplication',len(vocab['words'])==1 and len(vocab['words'][0]['sources'])==1)
     upload=api('POST','/api/v1/files',{'name':'remote-notes.txt','mime':'text/plain','data':base64.b64encode(b'noiseless remote attachment').decode()},token)
     api('GET','/api/v1/files/'+upload['id'],token=other,expected=404); check('attachment upload and isolation',api('GET','/api/v1/files/'+upload['id'],token=token,raw=True)==b'noiseless remote attachment')
-    check('bundled offline lexicon on Linux',api('GET','/api/v1/lexicon?word=reading',token=token)['source']=='offline')
+    check('bundled offline lexicon',api('GET','/api/v1/lexicon?word=reading',token=token)['source']=='offline')
     settings=api('GET','/api/v1/ai/settings',token=token); check('explicit mock model configured',settings['models']==['mock-noiseless'])
     chat=api('POST','/api/v1/chats',{'file':file,'revision':2},token); cid=chat['id']; result=job({'kind':'chat','sessionId':cid,'text':'分析第一段'},token); check('streamed Markdown chat', '模拟模型' in result['text'])
     api('GET','/api/v1/chats/'+cid,token=other,expected=404)

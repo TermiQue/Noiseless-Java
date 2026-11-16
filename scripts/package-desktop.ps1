@@ -20,6 +20,7 @@ try {
     [xml]$pom = Get-Content -LiteralPath (Join-Path $base 'pom.xml') -Raw
     & $jpackage --type app-image --name Noiseless --app-version $pom.project.version --vendor Noiseless `
         --input (Join-Path $staging 'input') --main-jar noiseless.jar --main-class io.noiseless.Main `
+        --jlink-options '--strip-debug --no-man-pages --no-header-files' `
         --java-options '--enable-native-access=ALL-UNNAMED' --dest (Join-Path $staging 'output')
     if ($LASTEXITCODE -ne 0) { throw 'jpackage failed.' }
     New-Item -ItemType Directory -Path $native -Force | Out-Null
