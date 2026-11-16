@@ -53,17 +53,26 @@ try {
     $desktopHome = Join-Path $temporary 'desktop home'
     New-Item -ItemType Directory -Path $desktopHome | Out-Null
     # Each java-options line is one JVM argument; cfg values are not shell-quoted.
-    [IO.File]::AppendAllText($cfg, "`r`njava-options=-Duser.home=$desktopHome`r`n", (New-Object Text.UTF8Encoding($false)))
+    $cfgText = [IO.File]::ReadAllText($cfg)
+    if (-not $cfgText.Contains('[JavaOptions]')) { throw 'Missing JavaOptions section in launcher config.' }
+    [IO.File]::WriteAllText($cfg, $cfgText.Replace('[JavaOptions]', "[JavaOptions]`r`njava-options=-Duser.home=$desktopHome"), (New-Object Text.UTF8Encoding($false)))
     $desktop = Start-Process -FilePath (Join-Path $app 'Noiseless.exe') -PassThru
     $ready = $false
     for ($attempt = 0; $attempt -lt 120; $attempt++) {
         $desktop.Refresh()
         if ($desktop.HasExited) { throw "Native desktop exited early: $($desktop.ExitCode)" }
-        if ($desktop.MainWindowHandle -ne 0 -and $desktop.MainWindowTitle -like '*Noiseless*' -and
+        # jpackage restarts itself in a child process after setting its DLL search path.
+        $candidates = @($desktop) + @(Get-CimInstance Win32_Process -Filter "ParentProcessId = $($desktop.Id)" |
+            ForEach-Object { Get-Process -Id $_.ProcessId -ErrorAction SilentlyContinue })
+        $window = @($candidates | Where-Object { $_.MainWindowHandle -ne 0 -and $_.MainWindowTitle -like '*Noiseless*' })
+        if ($window.Count -gt 0 -and
             (Test-Path (Join-Path $desktopHome '.noiseless-java\local-account.json'))) { $ready = $true; break }
         Start-Sleep -Milliseconds 500
     }
-    if (-not $ready) { throw 'Native desktop window or isolated data did not initialize.' }
+    if (-not $ready) {
+        Write-Output "Launcher PID: $($desktop.Id); window candidates: $($candidates.Count); isolated credentials: $(Test-Path (Join-Path $desktopHome '.noiseless-java\local-account.json'))"
+        throw 'Native desktop window or isolated data did not initialize.'
+    }
     @{ nativeLauncher = $true; visibleWindow = $true; isolatedHome = $true; realAiCalls = 0 } |
         ConvertTo-Json | Set-Content -Encoding UTF8 -Path (Join-Path $report 'desktop.json')
     Write-Output 'Packaged Windows backend, persistence and native desktop startup passed.'

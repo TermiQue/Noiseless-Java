@@ -50,6 +50,6 @@ class Handler(BaseHTTPRequestHandler):
             for start in range(0,len(text),12):
                 chunk={'choices':[{'delta':{'content':text[start:start+12]}}]}; self.wfile.write(('data: '+json.dumps(chunk,ensure_ascii=False)+'\n\n').encode()); self.wfile.flush(); time.sleep(delay)
             self.wfile.write(b'data: {"choices":[{"delta":{},"finish_reason":"stop"}]}\n\ndata: [DONE]\n\n'); self.wfile.flush()
-        except (BrokenPipeError,ConnectionResetError): pass
+        except ConnectionError: pass  # Includes Windows' ConnectionAbortedError after cancellation.
 
 if __name__=='__main__': ThreadingHTTPServer(('127.0.0.1',int(os.environ.get('MOCK_PORT','18089'))),Handler).serve_forever()
