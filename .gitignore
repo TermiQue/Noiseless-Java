@@ -1,0 +1,16 @@
+target/
+data/
+.env
+*.db
+*.db-shm
+*.db-wal
+.cache/
+backups/
+
+__pycache__/
+*.pyc
+
+.DS_Store
+ai-master.key
+*.db.key
+server.env

@@ -1,0 +1,40 @@
+{
+  "folders": [
+    {
+      "id": "db332e229eb54881bd9ec9aff375be9e",
+      "name": "25-12-1"
+    },
+    {
+      "id": "06495a44514a4bd3af778178f61bb8f1",
+      "name": "25-12-2"
+    }
+  ],
+  "articles": {
+    "Passage_One_Drug_Timing.article.json": {
+      "tags": [],
+      "folder": "db332e229eb54881bd9ec9aff375be9e"
+    },
+    "Passage_Two_Retirement.article.json": {
+      "folder": "db332e229eb54881bd9ec9aff375be9e"
+    },
+    "Passage_One_Healthy_Eating.article.json": {
+      "folder": "06495a44514a4bd3af778178f61bb8f1"
+    },
+    "Passage_Two_Children_Dreams.article.json": {
+      "folder": "06495a44514a4bd3af778178f61bb8f1"
+    }
+  },
+  "order": [
+    "Passage_One.article.json",
+    "Passage_One_Drug_Timing.article.json",
+    "Passage_Two_Retirement.article.json",
+    "Passage_Two.article.json",
+    "cloze.article.json",
+    "listening.article.json",
+    "matching.article.json",
+    "translation.article.json",
+    "writing.article.json",
+    "Passage_One_Healthy_Eating.article.json",
+    "Passage_Two_Children_Dreams.article.json"
+  ]
+}

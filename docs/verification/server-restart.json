@@ -1,0 +1,12 @@
+{
+  "passed": 6,
+  "checks": [
+    "health",
+    "account survives restart",
+    "article survives restart",
+    "attachment survives restart",
+    "vocabulary survives restart",
+    "chat survives restart"
+  ],
+  "real_ai_calls": 0
+}

@@ -1,0 +1,28 @@
+{
+  "format": "noiseless-1",
+  "id": "example-writing",
+  "type": "writing",
+  "title": "The Value of Daily Reading",
+  "subtitle": "写作示例",
+  "source": "题型演示 · 非真题",
+  "paragraphs": [
+    {
+      "en": "Write an essay on the value of daily reading. Explain why it matters and suggest one practical way to develop the habit. You should write at least 120 words but no more than 180 words.",
+      "zh": "围绕日常阅读的价值写一篇文章。解释其重要性，并提出一种养成阅读习惯的可行方法。字数不少于 120 词，不超过 180 词。"
+    }
+  ],
+  "dictionary": {},
+  "phrases": [],
+  "questions": [
+    {
+      "number": 1,
+      "type": "writing",
+      "en": "Write your essay below.",
+      "zh": "在下方完成作文。",
+      "answer": "Daily reading is a simple habit that can make a meaningful difference to our lives. By spending time with books, we discover ideas beyond our everyday experience and learn to see the world from different perspectives.\n\nFor students, reading also develops useful skills. It introduces new vocabulary in context and shows how writers organize their arguments. These benefits grow gradually, so regular practice matters more than occasional effort.\n\nOne practical way to begin is to set aside ten minutes before bed. Choose a book that you find interesting and keep it within reach. Instead of aiming to finish many pages, focus on understanding a small part well. Over time, this modest routine can become a lasting source of knowledge and enjoyment.",
+      "explanation": "自查要点：回应阅读的价值与可行方法；结构清晰，段落有主旨；论据具体；检查时态、拼写、主谓一致和字数。范文仅作参考，当前版本不自动评分。",
+      "evidence": ""
+    }
+  ],
+  "instructions": "本示例仅用于说明写作题型。先写作，再查看参考范文与自查要点。"
+}

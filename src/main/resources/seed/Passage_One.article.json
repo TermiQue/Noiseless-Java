@@ -1,0 +1,2450 @@
+{
+  "format": "bilingual-reader-1",
+  "id": "passage-one",
+  "title": "Passage One",
+  "subtitle": "Z 世代与可重复使用水瓶",
+  "paragraphs": [
+    {
+      "en": "If you thought a reusable water bottle was a plain, boring container—brought out of the cupboard only for long hikes—then you would be wrong. For Gen Z, a water bottle is both a necessity and a fashion statement. Social media are flooded with videos of tumblers (保温杯). The tag #WaterTok has 2.5 billion views on TikTok.",
+      "zh": "如果你以为可重复使用的水瓶只是一个朴素、乏味的容器——只有长途徒步时才会从橱柜里拿出来——那你就错了。对 Z 世代而言，水瓶既是生活必需品，也是一种时尚宣言。社交媒体上充斥着关于保温杯的视频。TikTok 上的 #WaterTok 话题标签已有 25 亿次浏览量。"
+    },
+    {
+      "en": "Youngsters connect their water bottles “to their clothing and to their lifestyle”, says Matt Navarro, global president of Stanley 1913, a leading brand. They decorate their cups with all kinds of accessories, including stickers and keychains. Some buy straps, snack trays and backpacks for their water bottles.",
+      "zh": "“年轻人将自己的水瓶与穿着、生活方式联系起来，”知名品牌 Stanley 1913 的全球总裁马特·纳瓦罗说。他们用各种配饰装饰杯子，包括贴纸和钥匙扣。有些人还专门为水瓶购买背带、零食托盘和背包。"
+    },
+    {
+      "en": "To cater to market demand, many companies have launched water bottles in all sorts of colors. Meanwhile, they have released collections with pop singers or movie stars. Notably, on July 14th, Stanley announced a new range with Lionel Messi, a famous Argentine footballer. Once released, this collection received a warm response from the market and was highly favored by consumers.",
+      "zh": "为迎合市场需求，许多公司推出了各种颜色的水瓶。与此同时，它们还与流行歌手或电影明星合作推出联名系列。值得注意的是，7 月 14 日，Stanley 宣布与阿根廷著名足球运动员莱昂内尔·梅西合作推出新系列。该系列一经发布便获得了热烈的市场反响，深受消费者青睐。"
+    },
+    {
+      "en": "The young people’s fondness for “self-care” helps explain the flood of interest, as many believe that water is the secret to glowing skin and mental sharpness. This has led to people drinking more, a trend called “hydration inflation”. Stanley’s most popular cup holds 1,200 millilitres of life-sustaining liquid. The over-the-top promotion is satisfying brands’ thirst for profit: the value of sales of portable water bottles in America reached $4 billion in the year ending in May 2025; some 270 million containers were sold in the country, up from 240 million two years ago.",
+      "zh": "年轻人对“自我关怀”的热衷有助于解释这股热潮，因为许多人相信，喝水是让皮肤焕发光彩、头脑保持敏锐的秘诀。这促使人们喝更多的水，形成了被称为“补水通胀”的趋势。Stanley 最受欢迎的杯子能装下 1,200 毫升维持生命所需的液体。这样夸张的营销正满足品牌对利润的渴望：截至 2025 年 5 月的一年里，美国便携式水瓶的销售额达到 40 亿美元；美国售出了约 2.7 亿个此类容器，而两年前为 2.4 亿个。"
+    },
+    {
+      "en": "Drinking fashions ebb (衰退) and flow. In the late 1970s bottled water became the cool thing in America, notes James Salzman, the author of a book about drinking water. Luxury brands sprang up; by the 2000s celebrities were naming their favourites. Rumours spread that singer Mariah Carey bathed in French mineral water. (She actually takes her baths in milk.) Backed by high-profile endorsement, the products saw a dramatic rise in sales.",
+      "zh": "饮水风尚总是潮起潮落。关于饮用水的一本书的作者詹姆斯·萨尔兹曼指出，20 世纪 70 年代末，瓶装水在美国开始成为时髦之物。奢侈品牌纷纷涌现；到了 21 世纪头十年，名人开始公开自己最喜欢的品牌。有传言说，歌手玛丽亚·凯莉用法国矿泉水洗澡。（实际上，她用牛奶泡澡。）在知名人士代言的推动下，这类产品的销量大幅增长。"
+    },
+    {
+      "en": "Gen Z is an eco-conscious group. Yet the reusable-cup trend is more about style than sustainability.",
+      "zh": "Z 世代是一个具有环保意识的群体。然而，可重复使用水杯的流行更多关乎时尚风格，而不是可持续发展。"
+    }
+  ],
+  "dictionary": {
+    "#watertok": {
+      "pos": "专有名词",
+      "ipa": "ˈwɔːtɚ tɑːk",
+      "meaning": "TikTok 上关于喝水、水杯的主题标签",
+      "context": "文中指水杯相关的热门话题",
+      "pattern": "#WaterTok has 2.5 billion views"
+    },
+    "1,200": {
+      "pos": "数词",
+      "ipa": "",
+      "meaning": "一千二百",
+      "context": "杯子容量为 1,200 毫升",
+      "pattern": "1,200 millilitres"
+    },
+    "14th": {
+      "pos": "序数词",
+      "ipa": "ˌfɔrˈtiːnθ",
+      "meaning": "第十四",
+      "context": "7 月 14 日",
+      "pattern": "July 14th"
+    },
+    "1913": {
+      "pos": "数词/名称",
+      "ipa": "ˌnaɪnˈtiːn θɜrˈtiːn",
+      "meaning": "一千九百一十三",
+      "context": "品牌名称 Stanley 1913 的一部分",
+      "pattern": "Stanley 1913"
+    },
+    "1970s": {
+      "pos": "年代",
+      "ipa": "ˌnaɪnˈtiːn ˈsɛvəntiz",
+      "meaning": "20 世纪 70 年代",
+      "context": "20 世纪 70 年代末",
+      "pattern": "the late 1970s"
+    },
+    "2.5": {
+      "pos": "数词",
+      "ipa": "",
+      "meaning": "二点五",
+      "context": "2.5 billion 表示 25 亿",
+      "pattern": "2.5 billion views"
+    },
+    "2000s": {
+      "pos": "年代",
+      "ipa": "ˈtuː ˈθaʊzəndz",
+      "meaning": "21 世纪头十年",
+      "context": "2000 年代",
+      "pattern": "by the 2000s"
+    },
+    "2025": {
+      "pos": "年份",
+      "ipa": "ˈtwɛnti ˈtwɛnti faɪv",
+      "meaning": "二〇二五年",
+      "context": "2025 年 5 月",
+      "pattern": "May 2025"
+    },
+    "240": {
+      "pos": "数词",
+      "ipa": "",
+      "meaning": "二百四十",
+      "context": "240 million 表示 2.4 亿",
+      "pattern": "240 million"
+    },
+    "270": {
+      "pos": "数词",
+      "ipa": "",
+      "meaning": "二百七十",
+      "context": "270 million 表示 2.7 亿",
+      "pattern": "270 million"
+    },
+    "4": {
+      "pos": "数词",
+      "ipa": "",
+      "meaning": "四",
+      "context": "$4 billion 表示 40 亿美元",
+      "pattern": "$4 billion"
+    },
+    "a": {
+      "pos": "冠词",
+      "ipa": "ˈeɪ",
+      "meaning": "一；一个；某个",
+      "context": "修饰单数可数名词，表泛指",
+      "pattern": "a water bottle"
+    },
+    "about": {
+      "pos": "介词/副词",
+      "ipa": "ɐbˈaʊt",
+      "meaning": "关于；大约；在……周围",
+      "context": "关于；关乎",
+      "pattern": "more about style"
+    },
+    "accessories": {
+      "pos": "名词·复数",
+      "ipa": "ɐksˈɛsɚɹiz",
+      "meaning": "配件；饰品；附件",
+      "context": "装饰水杯的各种配饰",
+      "pattern": "all kinds of accessories"
+    },
+    "actually": {
+      "pos": "副词",
+      "ipa": "ˈæktʃuːəli",
+      "meaning": "实际上；事实上",
+      "context": "澄清流言：“实际上”",
+      "pattern": "She actually takes her baths in milk"
+    },
+    "ago": {
+      "pos": "副词",
+      "ipa": "ɐɡˈoʊ",
+      "meaning": "以前；之前",
+      "context": "与过去时间连用",
+      "pattern": "two years ago"
+    },
+    "all": {
+      "pos": "限定词/代词",
+      "ipa": "ˈɔːl",
+      "meaning": "全部；所有；一切",
+      "context": "各种；所有",
+      "pattern": "all sorts of"
+    },
+    "america": {
+      "pos": "专有名词",
+      "ipa": "ɐmˈɛɹɪkə",
+      "meaning": "美国；美洲",
+      "context": "美国",
+      "pattern": "in America"
+    },
+    "among": {
+      "pos": "介词",
+      "meaning": "在……之中；在……之间",
+      "context": "在多种水瓶之中",
+      "pattern": "among different bottles",
+      "ipa": "ɐmˈʌŋ"
+    },
+    "an": {
+      "pos": "冠词",
+      "ipa": "ˈæn",
+      "meaning": "一个；一（元音音素前）",
+      "context": "用于泛指",
+      "pattern": "an eco-conscious group"
+    },
+    "and": {
+      "pos": "连词",
+      "ipa": "ˈænd",
+      "meaning": "和；并且；而且",
+      "context": "连接并列成分",
+      "pattern": "fashion and sustainability"
+    },
+    "announced": {
+      "pos": "动词·过去式",
+      "ipa": "ɐnˈaʊnst",
+      "meaning": "宣布；公布；通告",
+      "context": "宣布推出新系列",
+      "pattern": "announced a new range"
+    },
+    "appearance": {
+      "pos": "名词",
+      "meaning": "外貌；外观；出现",
+      "context": "人的容貌、外表",
+      "pattern": "appearance and mind",
+      "ipa": "ɐpˈɪɹəns"
+    },
+    "are": {
+      "pos": "系动词/助动词",
+      "ipa": "ˈɑːɹ",
+      "meaning": "是；处于；正在",
+      "context": "be 的复数/第二人称现在式",
+      "pattern": "are flooded with"
+    },
+    "argentine": {
+      "pos": "形容词",
+      "ipa": "ˈɑːɹdʒəntˌaɪn",
+      "meaning": "阿根廷的",
+      "context": "修饰足球运动员",
+      "pattern": "Argentine footballer"
+    },
+    "as": {
+      "pos": "连词/介词/副词",
+      "ipa": "ˈæz",
+      "meaning": "因为；当……时；作为；像",
+      "context": "这里作“因为”，解释缘由",
+      "pattern": "as many believe that"
+    },
+    "author": {
+      "pos": "名词",
+      "ipa": "ˈɔːθɚ",
+      "meaning": "作者；著者",
+      "context": "书籍的作者",
+      "pattern": "the author of a book"
+    },
+    "available": {
+      "pos": "形容词",
+      "meaning": "可得到的；可使用的；有空的",
+      "context": "容易买到的",
+      "pattern": "easily available",
+      "ipa": "ɐvˈeɪləbəl"
+    },
+    "awareness": {
+      "pos": "名词",
+      "meaning": "意识；知晓；认识",
+      "context": "环保意识",
+      "pattern": "environmental awareness",
+      "ipa": "ɐwˈɛɹnəs"
+    },
+    "backed": {
+      "pos": "动词·过去分词",
+      "ipa": "bˈækt",
+      "meaning": "支持；资助；作后盾",
+      "context": "受……推动/支持",
+      "pattern": "backed by endorsement"
+    },
+    "backpacks": {
+      "pos": "名词·复数",
+      "ipa": "bˈækpæks",
+      "meaning": "背包；双肩包",
+      "context": "为水瓶准备的背包",
+      "pattern": "straps and backpacks"
+    },
+    "bathe": {
+      "pos": "动词",
+      "meaning": "洗澡；沐浴；浸泡",
+      "context": "用矿泉水洗澡",
+      "pattern": "bathe in mineral water",
+      "ipa": "bˈeɪð"
+    },
+    "bathed": {
+      "pos": "动词·过去式",
+      "ipa": "bˈeɪðd",
+      "meaning": "洗澡；沐浴；浸泡",
+      "context": "传言中曾用矿泉水洗澡",
+      "pattern": "bathed in French mineral water"
+    },
+    "bathing": {
+      "pos": "动名词",
+      "meaning": "洗澡；沐浴",
+      "context": "用于沐浴",
+      "pattern": "for bathing",
+      "ipa": "bˈeɪðɪŋ"
+    },
+    "baths": {
+      "pos": "名词·复数",
+      "ipa": "bˈæθs",
+      "meaning": "洗澡；泡澡；浴缸",
+      "context": "泡澡这件事",
+      "pattern": "take a bath"
+    },
+    "be": {
+      "pos": "动词",
+      "ipa": "bˈiː",
+      "meaning": "是；成为；存在",
+      "context": "be 动词原形",
+      "pattern": "would be wrong"
+    },
+    "became": {
+      "pos": "动词·过去式",
+      "ipa": "bɪkˈeɪm",
+      "meaning": "变成；成为",
+      "context": "变得流行、时髦",
+      "pattern": "became the cool thing"
+    },
+    "because": {
+      "pos": "连词",
+      "meaning": "因为；由于",
+      "context": "引出原因",
+      "pattern": "because they believe",
+      "ipa": "bɪkˈʌz"
+    },
+    "become": {
+      "pos": "动词·过去分词/原形",
+      "meaning": "成为；变成",
+      "context": "已经成为潮流",
+      "pattern": "have become a trend",
+      "ipa": "bɪkˈʌm"
+    },
+    "believe": {
+      "pos": "动词",
+      "ipa": "bɪlˈiːv",
+      "meaning": "相信；认为",
+      "context": "相信喝水有益",
+      "pattern": "believe that"
+    },
+    "benefits": {
+      "pos": "动词·第三人称单数/名词",
+      "meaning": "有益于；使受益；好处",
+      "context": "有利于外貌和精神状态",
+      "pattern": "benefit one's appearance",
+      "ipa": "bˈɛnɪfˌɪts"
+    },
+    "bestsellers": {
+      "pos": "名词·复数",
+      "meaning": "畅销商品；畅销书",
+      "context": "畅销的水杯商品",
+      "pattern": "bestsellers’ prices",
+      "ipa": "bɛstsˈɛlɚz"
+    },
+    "bestsellers’": {
+      "pos": "名词·复数所有格",
+      "meaning": "畅销商品；畅销书",
+      "context": "表示“畅销商品的”，在原文选项中作定语",
+      "pattern": "bestsellers’ prices",
+      "ipa": "bɛstsˈɛlɚz"
+    },
+    "billion": {
+      "pos": "数词",
+      "ipa": "bˈɪliən",
+      "meaning": "十亿",
+      "context": "2.5 billion = 25 亿；4 billion = 40 亿",
+      "pattern": "2.5 billion views"
+    },
+    "book": {
+      "pos": "名词/动词",
+      "ipa": "bˈʊk",
+      "meaning": "书；预订",
+      "context": "一本关于饮水的书",
+      "pattern": "the author of a book"
+    },
+    "boring": {
+      "pos": "形容词",
+      "ipa": "bˈoːɹɪŋ",
+      "meaning": "无聊的；乏味的",
+      "context": "平淡无趣的",
+      "pattern": "plain, boring container"
+    },
+    "both": {
+      "pos": "限定词/代词/连词",
+      "ipa": "bˈoʊθ",
+      "meaning": "两者都；既……又……",
+      "context": "既是……也是……",
+      "pattern": "both a necessity and a fashion statement"
+    },
+    "bottle": {
+      "pos": "名词/动词",
+      "ipa": "bˈɑːɾəl",
+      "meaning": "瓶子；装瓶",
+      "context": "水瓶",
+      "pattern": "a water bottle"
+    },
+    "bottled": {
+      "pos": "形容词/动词·过去分词",
+      "ipa": "bˈɑːɾəld",
+      "meaning": "瓶装的；装瓶的",
+      "context": "瓶装水",
+      "pattern": "bottled water"
+    },
+    "bottles": {
+      "pos": "名词·复数",
+      "ipa": "bˈɑːɾəlz",
+      "meaning": "瓶子；水瓶",
+      "context": "可重复使用的水瓶",
+      "pattern": "water bottles"
+    },
+    "brand": {
+      "pos": "名词",
+      "ipa": "bɹˈænd",
+      "meaning": "品牌；商标；类型",
+      "context": "水杯品牌",
+      "pattern": "a leading brand"
+    },
+    "brands": {
+      "pos": "名词·复数",
+      "ipa": "bɹˈændz",
+      "meaning": "品牌",
+      "context": "售卖水杯或瓶装水的品牌",
+      "pattern": "luxury brands"
+    },
+    "brands’": {
+      "pos": "名词·复数所有格",
+      "ipa": "bɹˈændz",
+      "meaning": "品牌",
+      "context": "表示“品牌的”，在原文选项中作定语",
+      "pattern": "luxury brands"
+    },
+    "brought": {
+      "pos": "动词·过去分词",
+      "ipa": "bɹˈɔːt",
+      "meaning": "带来；拿出；引起",
+      "context": "从橱柜中取出",
+      "pattern": "brought out of the cupboard"
+    },
+    "buy": {
+      "pos": "动词",
+      "ipa": "bˈaɪ",
+      "meaning": "买；购买",
+      "context": "购买水杯配饰",
+      "pattern": "buy straps"
+    },
+    "by": {
+      "pos": "介词",
+      "ipa": "bˈaɪ",
+      "meaning": "由；通过；到……为止",
+      "context": "用于被动句或时间界限",
+      "pattern": "by consumers"
+    },
+    "called": {
+      "pos": "动词·过去分词",
+      "ipa": "kˈɔːld",
+      "meaning": "叫作；称为",
+      "context": "被称为“补水通胀”",
+      "pattern": "a trend called"
+    },
+    "campaigns": {
+      "pos": "名词·复数",
+      "meaning": "活动；运动；宣传活动",
+      "context": "健康宣传活动",
+      "pattern": "health promotion campaigns",
+      "ipa": "kæmpˈeɪnz"
+    },
+    "can": {
+      "pos": "情态动词",
+      "meaning": "能够；可能；可以",
+      "context": "表示能力或可能性",
+      "pattern": "can be concluded",
+      "ipa": "kˈæn"
+    },
+    "capacity": {
+      "pos": "名词",
+      "meaning": "容量；容积；能力",
+      "context": "水杯的装水容量",
+      "pattern": "larger capacity",
+      "ipa": "kəpˈæsɪɾi"
+    },
+    "carey": {
+      "pos": "专有名词",
+      "ipa": "kˈɛɹi",
+      "meaning": "凯莉（姓氏）",
+      "context": "歌手玛丽亚·凯莉的姓",
+      "pattern": "Mariah Carey"
+    },
+    "cater": {
+      "pos": "动词",
+      "ipa": "kˈeɪɾɚ",
+      "meaning": "满足（需要）；迎合；提供餐饮服务",
+      "context": "迎合市场需求",
+      "pattern": "cater to market demand"
+    },
+    "celebrities": {
+      "pos": "名词·复数",
+      "ipa": "səlˈɛbɹɪɾiz",
+      "meaning": "名人；明星",
+      "context": "影响消费趋势的明星",
+      "pattern": "influenced by celebrities"
+    },
+    "cheap": {
+      "pos": "形容词",
+      "meaning": "便宜的；廉价的",
+      "context": "价格便宜的",
+      "pattern": "cheap and easily available",
+      "ipa": "tʃˈiːp"
+    },
+    "clothing": {
+      "pos": "名词",
+      "ipa": "klˈoʊðɪŋ",
+      "meaning": "衣服；服装",
+      "context": "个人的穿衣风格",
+      "pattern": "clothing and lifestyle"
+    },
+    "collection": {
+      "pos": "名词",
+      "ipa": "kəlˈɛkʃən",
+      "meaning": "系列产品；收藏；收集",
+      "context": "品牌推出的联名系列",
+      "pattern": "this collection"
+    },
+    "collections": {
+      "pos": "名词·复数",
+      "ipa": "kəlˈɛkʃənz",
+      "meaning": "系列产品；收藏品",
+      "context": "与明星合作的产品系列",
+      "pattern": "released collections"
+    },
+    "colors": {
+      "pos": "名词·复数",
+      "ipa": "kˈʌlɚz",
+      "meaning": "颜色；色彩",
+      "context": "各式各样的颜色",
+      "pattern": "various colors"
+    },
+    "companies": {
+      "pos": "名词·复数",
+      "ipa": "kˈʌmpəniz",
+      "meaning": "公司；企业",
+      "context": "生产水瓶的企业",
+      "pattern": "many companies"
+    },
+    "concluded": {
+      "pos": "动词·过去分词",
+      "meaning": "总结；得出结论；结束",
+      "context": "可以得出结论",
+      "pattern": "be concluded about",
+      "ipa": "kənklˈuːdᵻd"
+    },
+    "connect": {
+      "pos": "动词",
+      "ipa": "kənˈɛkt",
+      "meaning": "联系；连接；联结",
+      "context": "将水杯与生活方式联系起来",
+      "pattern": "connect A to B"
+    },
+    "consumers": {
+      "pos": "名词·复数",
+      "ipa": "kənsˈuːmɚz",
+      "meaning": "消费者；顾客",
+      "context": "购买产品的消费者",
+      "pattern": "favored by consumers"
+    },
+    "container": {
+      "pos": "名词",
+      "ipa": "kəntˈeɪnɚ",
+      "meaning": "容器；集装箱",
+      "context": "用于装水的容器",
+      "pattern": "a plain container"
+    },
+    "containers": {
+      "pos": "名词·复数",
+      "ipa": "kəntˈeɪnɚz",
+      "meaning": "容器；瓶罐",
+      "context": "售出的便携式水瓶",
+      "pattern": "million containers"
+    },
+    "cool": {
+      "pos": "形容词",
+      "ipa": "kˈuːl",
+      "meaning": "酷的；时髦的；凉爽的",
+      "context": "流行时髦的",
+      "pattern": "the cool thing"
+    },
+    "cooperate": {
+      "pos": "动词",
+      "meaning": "合作；协作",
+      "context": "与名人合作",
+      "pattern": "cooperate with celebrities",
+      "ipa": "koʊˈɑːpɚɹˌeɪt"
+    },
+    "country": {
+      "pos": "名词",
+      "ipa": "kˈʌntɹi",
+      "meaning": "国家；乡村",
+      "context": "这里指美国",
+      "pattern": "in the country"
+    },
+    "cup": {
+      "pos": "名词",
+      "ipa": "kˈʌp",
+      "meaning": "杯子；奖杯",
+      "context": "水杯/保温杯",
+      "pattern": "popular cup"
+    },
+    "cupboard": {
+      "pos": "名词",
+      "ipa": "kˈʌbəd",
+      "meaning": "橱柜；碗柜",
+      "context": "存放水瓶的橱柜",
+      "pattern": "out of the cupboard"
+    },
+    "cups": {
+      "pos": "名词·复数",
+      "ipa": "kˈʌps",
+      "meaning": "杯子；水杯",
+      "context": "装饰或购买的杯子",
+      "pattern": "decorate their cups"
+    },
+    "cut": {
+      "pos": "动词",
+      "meaning": "削减；切；剪",
+      "context": "降低价格",
+      "pattern": "cut prices",
+      "ipa": "kˈʌt"
+    },
+    "daily": {
+      "pos": "副词/形容词",
+      "meaning": "每天；日常的",
+      "context": "每天多喝水",
+      "pattern": "drink water daily",
+      "ipa": "dˈeɪli"
+    },
+    "decorate": {
+      "pos": "动词",
+      "ipa": "dˈɛkɚɹˌeɪt",
+      "meaning": "装饰；点缀",
+      "context": "用配饰装饰杯子",
+      "pattern": "decorate their cups"
+    },
+    "decoration": {
+      "pos": "名词",
+      "meaning": "装饰；装饰品",
+      "context": "水瓶的装饰",
+      "pattern": "decoration of water bottles",
+      "ipa": "dˌɛkɚɹˈeɪʃən"
+    },
+    "decreasing": {
+      "pos": "动词·现在分词",
+      "meaning": "减少；下降；衰退",
+      "context": "受欢迎程度下降",
+      "pattern": "decreasing in popularity",
+      "ipa": "dˈiːkɹiːsɪŋ"
+    },
+    "demand": {
+      "pos": "名词/动词",
+      "ipa": "dɪmˈænd",
+      "meaning": "需求；要求；需要",
+      "context": "市场需求",
+      "pattern": "market demand"
+    },
+    "different": {
+      "pos": "形容词",
+      "meaning": "不同的；各种各样的",
+      "context": "不同种类的",
+      "pattern": "different bottles",
+      "ipa": "dˈɪfɹənt"
+    },
+    "do": {
+      "pos": "助动词/动词",
+      "meaning": "做；实施；（疑问句助动词）",
+      "context": "在题干中构成疑问句",
+      "pattern": "How do companies respond",
+      "ipa": "dˈuː"
+    },
+    "does": {
+      "pos": "助动词/动词",
+      "meaning": "做；（第三人称单数疑问/否定助动词）",
+      "context": "在疑问句中辅助提问",
+      "pattern": "What does the example illustrate",
+      "ipa": "dˈʌz"
+    },
+    "dramatic": {
+      "pos": "形容词",
+      "ipa": "dɹəmˈæɾɪk",
+      "meaning": "显著的；剧烈的；戏剧性的",
+      "context": "销售额大幅增长的",
+      "pattern": "a dramatic rise"
+    },
+    "drink": {
+      "pos": "动词/名词",
+      "meaning": "喝；饮料",
+      "context": "饮水",
+      "pattern": "drink more water",
+      "ipa": "dɹˈɪŋk"
+    },
+    "drinking": {
+      "pos": "动名词/现在分词",
+      "ipa": "dɹˈɪŋkɪŋ",
+      "meaning": "喝；饮用",
+      "context": "喝水行为；饮水方式",
+      "pattern": "drinking water"
+    },
+    "driven": {
+      "pos": "动词·过去分词",
+      "meaning": "驱动；推动；驾驶",
+      "context": "受环保意识推动",
+      "pattern": "driven by environmental awareness",
+      "ipa": "dɹˈɪvən"
+    },
+    "dull": {
+      "pos": "形容词",
+      "meaning": "乏味的；暗淡的；迟钝的",
+      "context": "缺乏趣味的",
+      "pattern": "dull and unnecessary",
+      "ipa": "dˈʌl"
+    },
+    "easily": {
+      "pos": "副词",
+      "meaning": "容易地；轻松地",
+      "context": "容易得到/买到",
+      "pattern": "easily available",
+      "ipa": "ˈiːzɪli"
+    },
+    "ebb": {
+      "pos": "动词/名词",
+      "ipa": "ˈɛb",
+      "meaning": "衰退；退潮；减弱",
+      "context": "潮流衰退；与 flow 构成固定搭配",
+      "pattern": "ebb and flow"
+    },
+    "eco-conscious": {
+      "pos": "形容词",
+      "ipa": "ˈiːkoʊ kˈɑːnʃəs",
+      "meaning": "有生态环保意识的",
+      "context": "具有环保意识的",
+      "pattern": "an eco-conscious group"
+    },
+    "effective": {
+      "pos": "形容词",
+      "meaning": "有效的；起作用的",
+      "context": "更有效的（选项中的说法）",
+      "pattern": "more effective than",
+      "ipa": "ɪfˈɛktɪv"
+    },
+    "encourages": {
+      "pos": "动词·第三人称单数",
+      "meaning": "鼓励；促进；激励",
+      "context": "鼓励人们喝水",
+      "pattern": "encourages people to drink",
+      "ipa": "ɛnkˈɜːɹɪdʒɪz"
+    },
+    "ending": {
+      "pos": "动名词/现在分词",
+      "ipa": "ˈɛndɪŋ",
+      "meaning": "结束；终止；结尾",
+      "context": "截至某月的一个年度",
+      "pattern": "the year ending in May"
+    },
+    "endorsement": {
+      "pos": "名词",
+      "ipa": "ɛndˈoːɹsmənt",
+      "meaning": "代言；支持；认可",
+      "context": "名人代言",
+      "pattern": "high-profile endorsement"
+    },
+    "environmental": {
+      "pos": "形容词",
+      "meaning": "环境的；环保的",
+      "context": "环境保护方面的",
+      "pattern": "environmental sustainability",
+      "ipa": "ɛnvˌaɪɹənmˈɛntəl"
+    },
+    "exaggerated": {
+      "pos": "形容词/过去分词",
+      "meaning": "被夸大的；夸张的",
+      "context": "饮水潮流可能被过度渲染",
+      "pattern": "can be exaggerated",
+      "ipa": "ɛɡzˈædʒɚɹˌeɪɾᵻd"
+    },
+    "example": {
+      "pos": "名词",
+      "meaning": "例子；实例；榜样",
+      "context": "玛丽亚·凯莉的事例",
+      "pattern": "the example of Mariah Carey",
+      "ipa": "ɛɡzˈæmpəl"
+    },
+    "explain": {
+      "pos": "动词",
+      "ipa": "ɛksplˈeɪn",
+      "meaning": "解释；说明",
+      "context": "解释人们的兴趣",
+      "pattern": "help explain"
+    },
+    "famous": {
+      "pos": "形容词",
+      "ipa": "fˈeɪməs",
+      "meaning": "著名的；出名的",
+      "context": "著名足球运动员",
+      "pattern": "a famous footballer"
+    },
+    "fashion": {
+      "pos": "名词",
+      "ipa": "fˈæʃən",
+      "meaning": "时尚；流行；方式",
+      "context": "时尚、风格",
+      "pattern": "fashion statement"
+    },
+    "fashions": {
+      "pos": "名词·复数",
+      "ipa": "fˈæʃənz",
+      "meaning": "潮流；风尚；时装",
+      "context": "饮水风尚",
+      "pattern": "drinking fashions"
+    },
+    "favored": {
+      "pos": "动词·过去分词/形容词",
+      "ipa": "fˈeɪvɚd",
+      "meaning": "受到青睐的；支持的",
+      "context": "深受消费者喜爱",
+      "pattern": "highly favored by consumers"
+    },
+    "favourites": {
+      "pos": "名词·复数（英式）",
+      "ipa": "ˈfeɪvərɪts",
+      "meaning": "最喜欢的事物；心头好",
+      "context": "名人钟爱的矿泉水品牌",
+      "pattern": "naming their favourites"
+    },
+    "first": {
+      "pos": "序数词/形容词",
+      "meaning": "第一；最初的",
+      "context": "文章第一段",
+      "pattern": "the first paragraph",
+      "ipa": "fˈɜːst"
+    },
+    "flood": {
+      "pos": "名词/动词",
+      "ipa": "flˈʌd",
+      "meaning": "洪水；大量涌现；涌入",
+      "context": "兴趣/关注度激增",
+      "pattern": "a flood of interest"
+    },
+    "flooded": {
+      "pos": "动词·过去分词",
+      "ipa": "flˈʌdᵻd",
+      "meaning": "淹没；充满；大量涌现",
+      "context": "社交媒体上充斥着",
+      "pattern": "are flooded with"
+    },
+    "flow": {
+      "pos": "动词/名词",
+      "ipa": "flˈoʊ",
+      "meaning": "流动；潮流；流量",
+      "context": "潮流兴起；与 ebb 对应",
+      "pattern": "ebb and flow"
+    },
+    "fondness": {
+      "pos": "名词",
+      "ipa": "fˈɑːndnəs",
+      "meaning": "喜爱；钟爱；偏爱",
+      "context": "年轻人对自我关怀的热衷",
+      "pattern": "fondness for self-care"
+    },
+    "footballer": {
+      "pos": "名词（英式）",
+      "ipa": "ˈfʊtbɔːlər",
+      "meaning": "足球运动员",
+      "context": "阿根廷足球运动员",
+      "pattern": "an Argentine footballer"
+    },
+    "for": {
+      "pos": "介词/连词",
+      "ipa": "fˈɔːɹ",
+      "meaning": "为了；对于；因为；持续",
+      "context": "根据上下文表示目的或对象",
+      "pattern": "for Gen Z"
+    },
+    "free": {
+      "pos": "形容词/副词",
+      "meaning": "免费的；自由的；空闲的",
+      "context": "免费配件",
+      "pattern": "free accessories",
+      "ipa": "fɹˈiː"
+    },
+    "french": {
+      "pos": "形容词/名词",
+      "ipa": "fɹˈɛntʃ",
+      "meaning": "法国的；法语",
+      "context": "法国矿泉水",
+      "pattern": "French mineral water"
+    },
+    "from": {
+      "pos": "介词",
+      "ipa": "fɹˈʌm",
+      "meaning": "从；来自；因为",
+      "context": "来源、起点或比较基准",
+      "pattern": "from the market"
+    },
+    "gen": {
+      "pos": "名词（专有表达）",
+      "ipa": "dʒˈɛn",
+      "meaning": "一代人（generation 的缩写）",
+      "context": "Gen Z 指 Z 世代",
+      "pattern": "Gen Z"
+    },
+    "global": {
+      "pos": "形容词",
+      "ipa": "ɡlˈoʊbəl",
+      "meaning": "全球的；世界性的",
+      "context": "品牌全球总裁",
+      "pattern": "global president"
+    },
+    "glow": {
+      "pos": "动词/名词",
+      "meaning": "发光；容光焕发；光彩",
+      "context": "让皮肤焕发光彩",
+      "pattern": "make the skin glow",
+      "ipa": "ɡlˈoʊ"
+    },
+    "glowing": {
+      "pos": "形容词/现在分词",
+      "ipa": "ɡlˈoʊɪŋ",
+      "meaning": "发光的；容光焕发的",
+      "context": "健康有光泽的肌肤",
+      "pattern": "glowing skin"
+    },
+    "government": {
+      "pos": "名词",
+      "meaning": "政府；行政机构",
+      "context": "政府鼓励行为的选项说法",
+      "pattern": "the government encourages",
+      "ipa": "ɡˈʌvɚnmənt"
+    },
+    "group": {
+      "pos": "名词",
+      "ipa": "ɡɹˈuːp",
+      "meaning": "群体；组；团体",
+      "context": "Z 世代这一群体",
+      "pattern": "an eco-conscious group"
+    },
+    "has": {
+      "pos": "助动词/动词",
+      "ipa": "hˈæz",
+      "meaning": "有；已经（have 第三人称单数）",
+      "context": "与过去分词构成现在完成时",
+      "pattern": "has led to"
+    },
+    "have": {
+      "pos": "动词/助动词",
+      "ipa": "hˈæv",
+      "meaning": "有；拥有；已经",
+      "context": "构成现在完成时",
+      "pattern": "have launched"
+    },
+    "health": {
+      "pos": "名词",
+      "meaning": "健康；卫生",
+      "context": "身体健康",
+      "pattern": "for health",
+      "ipa": "hˈɛlθ"
+    },
+    "help": {
+      "pos": "动词/名词",
+      "meaning": "帮助；有助于",
+      "context": "帮助皮肤焕发光彩",
+      "pattern": "help the skin glow",
+      "ipa": "hˈɛlp"
+    },
+    "helps": {
+      "pos": "动词·第三人称单数",
+      "ipa": "hˈɛlps",
+      "meaning": "帮助；有助于",
+      "context": "有助于解释热潮",
+      "pattern": "helps explain"
+    },
+    "her": {
+      "pos": "代词/限定词",
+      "ipa": "hˈɜː",
+      "meaning": "她的；她（宾格）",
+      "context": "指歌手玛丽亚·凯莉",
+      "pattern": "her baths"
+    },
+    "high-profile": {
+      "pos": "形容词",
+      "ipa": "hˈaɪ pɹˈoʊfaɪl",
+      "meaning": "高调的；知名的；受瞩目的",
+      "context": "知名人士的（代言）",
+      "pattern": "high-profile endorsement"
+    },
+    "highly": {
+      "pos": "副词",
+      "ipa": "hˈaɪli",
+      "meaning": "高度地；非常；很",
+      "context": "深受消费者喜爱",
+      "pattern": "highly favored"
+    },
+    "hikes": {
+      "pos": "名词·复数",
+      "ipa": "hˈaɪks",
+      "meaning": "徒步旅行；远足",
+      "context": "长途徒步",
+      "pattern": "long hikes"
+    },
+    "holds": {
+      "pos": "动词·第三人称单数",
+      "ipa": "hˈoʊldz",
+      "meaning": "容纳；拿着；持有",
+      "context": "杯子可以装下 1,200 毫升",
+      "pattern": "holds 1,200 millilitres"
+    },
+    "how": {
+      "pos": "疑问副词",
+      "meaning": "如何；怎样；多么",
+      "context": "询问方式",
+      "pattern": "How do companies respond",
+      "ipa": "hˈaʊ"
+    },
+    "hydration": {
+      "pos": "名词",
+      "ipa": "haɪdɹˈeɪʃən",
+      "meaning": "补水；水合作用；水分供给",
+      "context": "补水热潮中的“补水”",
+      "pattern": "hydration inflation"
+    },
+    "if": {
+      "pos": "连词",
+      "ipa": "ˈɪf",
+      "meaning": "如果；是否",
+      "context": "引导假设条件",
+      "pattern": "If you thought"
+    },
+    "illustrate": {
+      "pos": "动词",
+      "meaning": "说明；阐明；举例说明；配图",
+      "context": "事例说明某种现象",
+      "pattern": "illustrate about drinking fashions",
+      "ipa": "ˈɪləstɹˌeɪt"
+    },
+    "in": {
+      "pos": "介词/副词",
+      "ipa": "ˈɪn",
+      "meaning": "在……里；处于；以……方式",
+      "context": "表示时间、地点或状态",
+      "pattern": "in America"
+    },
+    "including": {
+      "pos": "介词/现在分词",
+      "ipa": "ɪnklˈuːdɪŋ",
+      "meaning": "包括；包含",
+      "context": "列举配饰",
+      "pattern": "including stickers and keychains"
+    },
+    "inflation": {
+      "pos": "名词",
+      "ipa": "ɪnflˈeɪʃən",
+      "meaning": "通货膨胀；膨胀；过度增加",
+      "context": "指饮水量和补水消费不断“膨胀”",
+      "pattern": "hydration inflation"
+    },
+    "influenced": {
+      "pos": "动词·过去分词",
+      "meaning": "受到影响的；影响；左右",
+      "context": "饮水潮流受名人影响",
+      "pattern": "influenced by celebrities",
+      "ipa": "ˈɪnfluːənst"
+    },
+    "interest": {
+      "pos": "名词",
+      "ipa": "ˈɪntɹəst",
+      "meaning": "兴趣；关注；利息",
+      "context": "对水瓶和喝水的关注热潮",
+      "pattern": "a flood of interest"
+    },
+    "interested": {
+      "pos": "形容词",
+      "meaning": "感兴趣的；关注的",
+      "context": "热衷于多喝水",
+      "pattern": "be interested in",
+      "ipa": "ˈɪntɹəstᵻd"
+    },
+    "is": {
+      "pos": "系动词/助动词",
+      "ipa": "ˈɪz",
+      "meaning": "是；存在；处于",
+      "context": "be 动词第三人称单数现在式",
+      "pattern": "is both a necessity and a fashion statement"
+    },
+    "it": {
+      "pos": "代词",
+      "meaning": "它；这；那",
+      "context": "指代水、趋势或事物（随上下文变化）",
+      "pattern": "it benefits their appearance",
+      "ipa": "ˈɪt"
+    },
+    "james": {
+      "pos": "专有名词",
+      "ipa": "dʒˈeɪmz",
+      "meaning": "詹姆斯（男性名）",
+      "context": "作家詹姆斯·萨尔兹曼的名",
+      "pattern": "James Salzman"
+    },
+    "july": {
+      "pos": "名词",
+      "ipa": "dʒuːlˈaɪ",
+      "meaning": "七月",
+      "context": "7 月 14 日",
+      "pattern": "July 14th"
+    },
+    "keychains": {
+      "pos": "名词·复数",
+      "ipa": "ˈkiːtʃeɪnz",
+      "meaning": "钥匙扣；钥匙链",
+      "context": "用于装饰水杯的钥匙扣",
+      "pattern": "stickers and keychains"
+    },
+    "kinds": {
+      "pos": "名词·复数",
+      "ipa": "kˈaɪndz",
+      "meaning": "种类；类别",
+      "context": "各种各样的",
+      "pattern": "all kinds of"
+    },
+    "lacks": {
+      "pos": "动词·第三人称单数",
+      "meaning": "缺乏；没有",
+      "context": "缺少二级市场（选项说法）",
+      "pattern": "lacks a secondary market",
+      "ipa": "lˈæks"
+    },
+    "larger": {
+      "pos": "形容词·比较级",
+      "meaning": "更大的；较大的",
+      "context": "容量更大的",
+      "pattern": "larger capacity",
+      "ipa": "lˈɑːɹdʒɚ"
+    },
+    "late": {
+      "pos": "形容词/副词",
+      "ipa": "lˈeɪt",
+      "meaning": "晚的；迟的；后期的",
+      "context": "某年代的末期",
+      "pattern": "the late 1970s"
+    },
+    "launched": {
+      "pos": "动词·过去分词",
+      "ipa": "lˈɑːntʃt",
+      "meaning": "推出；发布；发射",
+      "context": "推出多种颜色的水瓶",
+      "pattern": "launched water bottles"
+    },
+    "leading": {
+      "pos": "形容词/现在分词",
+      "ipa": "lˈiːdɪŋ",
+      "meaning": "领先的；主要的；带领",
+      "context": "知名/领先品牌",
+      "pattern": "a leading brand"
+    },
+    "learn": {
+      "pos": "动词",
+      "meaning": "学习；获知；了解到",
+      "context": "从段落中了解到信息",
+      "pattern": "What do we learn",
+      "ipa": "lˈɜːn"
+    },
+    "led": {
+      "pos": "动词·过去分词",
+      "ipa": "lˈɛd",
+      "meaning": "带领；导致",
+      "context": "导致饮水量增加",
+      "pattern": "has led to"
+    },
+    "life-sustaining": {
+      "pos": "形容词",
+      "ipa": "lˈaɪf səstˈeɪnɪŋ",
+      "meaning": "维持生命的",
+      "context": "用于修饰液体（即水）",
+      "pattern": "life-sustaining liquid"
+    },
+    "lifestyle": {
+      "pos": "名词",
+      "ipa": "lˈaɪfstaɪl",
+      "meaning": "生活方式",
+      "context": "个人生活方式与水瓶的关联",
+      "pattern": "clothing and lifestyle"
+    },
+    "like": {
+      "pos": "介词/动词",
+      "meaning": "像；例如；喜欢",
+      "context": "例如（选项中列举产品）",
+      "pattern": "like their tumblers",
+      "ipa": "lˈaɪk"
+    },
+    "limited-edition": {
+      "pos": "形容词",
+      "meaning": "限量版的",
+      "context": "限量款水杯",
+      "pattern": "limited-edition cups",
+      "ipa": "lˈɪmɪɾᵻd ɪdˈɪʃən"
+    },
+    "lionel": {
+      "pos": "专有名词",
+      "ipa": "lˈaɪənəl",
+      "meaning": "莱昂内尔（男性名）",
+      "context": "球星莱昂内尔·梅西的名",
+      "pattern": "Lionel Messi"
+    },
+    "liquid": {
+      "pos": "名词/形容词",
+      "ipa": "lˈɪkwɪd",
+      "meaning": "液体；液态的",
+      "context": "盛在水杯中的水",
+      "pattern": "life-sustaining liquid"
+    },
+    "long": {
+      "pos": "形容词/副词",
+      "ipa": "lˈɑːŋ",
+      "meaning": "长的；长时间；长距离的",
+      "context": "长途徒步",
+      "pattern": "long hikes"
+    },
+    "luxury": {
+      "pos": "名词/形容词",
+      "ipa": "lˈʌkʃɚɹi",
+      "meaning": "奢华；奢侈品；豪华的",
+      "context": "高档瓶装水品牌",
+      "pattern": "luxury brands"
+    },
+    "make": {
+      "pos": "动词",
+      "meaning": "制作；使得；造成",
+      "context": "生产不同颜色的水瓶",
+      "pattern": "make bottles",
+      "ipa": "mˈeɪk"
+    },
+    "many": {
+      "pos": "限定词/代词",
+      "ipa": "mˈɛni",
+      "meaning": "许多；大量",
+      "context": "许多公司/年轻人",
+      "pattern": "many companies"
+    },
+    "mariah": {
+      "pos": "专有名词",
+      "ipa": "mæɹˈaɪə",
+      "meaning": "玛丽亚（女性名）",
+      "context": "歌手玛丽亚·凯莉的名",
+      "pattern": "Mariah Carey"
+    },
+    "market": {
+      "pos": "名词/动词",
+      "ipa": "mˈɑːɹkɪt",
+      "meaning": "市场；销售市场；营销",
+      "context": "水瓶消费市场",
+      "pattern": "market demand"
+    },
+    "matt": {
+      "pos": "专有名词",
+      "ipa": "mˈæt",
+      "meaning": "马特（男性名）",
+      "context": "Stanley 全球总裁马特·纳瓦罗",
+      "pattern": "Matt Navarro"
+    },
+    "may": {
+      "pos": "名词/情态动词",
+      "ipa": "mˈeɪ",
+      "meaning": "五月；可能；可以",
+      "context": "本处是月份“五月”",
+      "pattern": "May 2025"
+    },
+    "meanwhile": {
+      "pos": "副词",
+      "ipa": "mˈiːnwaɪl",
+      "meaning": "与此同时；另一方面",
+      "context": "连接品牌推出产品的两种做法",
+      "pattern": "Meanwhile, they have released"
+    },
+    "media": {
+      "pos": "名词·复数或集合名词",
+      "ipa": "mˈiːdiːə",
+      "meaning": "媒体；媒介",
+      "context": "社交媒体平台",
+      "pattern": "social media"
+    },
+    "mental": {
+      "pos": "形容词",
+      "ipa": "mˈɛntəl",
+      "meaning": "精神的；心理的；智力的",
+      "context": "思维与精神状态的",
+      "pattern": "mental sharpness"
+    },
+    "messi": {
+      "pos": "专有名词",
+      "ipa": "ˈmɛsi",
+      "meaning": "梅西（姓氏）",
+      "context": "足球运动员莱昂内尔·梅西",
+      "pattern": "Lionel Messi"
+    },
+    "milk": {
+      "pos": "名词",
+      "ipa": "mˈɪlk",
+      "meaning": "牛奶；乳汁",
+      "context": "玛丽亚·凯莉实际使用的沐浴液体",
+      "pattern": "baths in milk"
+    },
+    "millilitres": {
+      "pos": "名词·复数（英式）",
+      "ipa": "mˈɪlɪlˌiːɾɚz",
+      "meaning": "毫升（mL）",
+      "context": "水杯的容量单位",
+      "pattern": "1,200 millilitres"
+    },
+    "million": {
+      "pos": "数词",
+      "ipa": "mˈɪliən",
+      "meaning": "一百万",
+      "context": "270 million = 2.7 亿",
+      "pattern": "270 million containers"
+    },
+    "mind": {
+      "pos": "名词",
+      "meaning": "头脑；心理；思想",
+      "context": "精神状态或思维能力",
+      "pattern": "appearance and mind",
+      "ipa": "mˈaɪnd"
+    },
+    "mineral": {
+      "pos": "形容词/名词",
+      "ipa": "mˈɪnɚɹəl",
+      "meaning": "矿物的；矿物质",
+      "context": "矿泉水",
+      "pattern": "mineral water"
+    },
+    "more": {
+      "pos": "限定词/副词/形容词",
+      "ipa": "mˈoːɹ",
+      "meaning": "更多的；更加",
+      "context": "喝更多水；相较更偏重",
+      "pattern": "drink more water"
+    },
+    "most": {
+      "pos": "形容词/副词",
+      "ipa": "mˈoʊst",
+      "meaning": "最多的；最；最大程度",
+      "context": "最受欢迎的",
+      "pattern": "most popular cup"
+    },
+    "movie": {
+      "pos": "名词",
+      "ipa": "mˈuːvi",
+      "meaning": "电影",
+      "context": "电影明星",
+      "pattern": "movie stars"
+    },
+    "naming": {
+      "pos": "动词·现在分词",
+      "ipa": "nˈeɪmɪŋ",
+      "meaning": "命名；说出名字；列举",
+      "context": "公开说出自己钟爱的品牌",
+      "pattern": "naming their favourites"
+    },
+    "national": {
+      "pos": "形容词",
+      "meaning": "国家的；全国性的",
+      "context": "全国性健康宣传活动",
+      "pattern": "national health campaigns",
+      "ipa": "nˈæʃənəl"
+    },
+    "navarro": {
+      "pos": "专有名词",
+      "ipa": "nævˈɑːɹɹoʊ",
+      "meaning": "纳瓦罗（姓氏）",
+      "context": "Matt Navarro，品牌高管",
+      "pattern": "Matt Navarro"
+    },
+    "necessity": {
+      "pos": "名词",
+      "ipa": "nəsˈɛsɪɾi",
+      "meaning": "必需品；必要性；必然性",
+      "context": "水瓶作为生活必需品",
+      "pattern": "both a necessity and a fashion statement"
+    },
+    "new": {
+      "pos": "形容词",
+      "ipa": "nˈuː",
+      "meaning": "新的；新出现的",
+      "context": "新的联名系列",
+      "pattern": "a new range"
+    },
+    "notably": {
+      "pos": "副词",
+      "ipa": "nˈoʊɾəbli",
+      "meaning": "尤其；值得注意的是",
+      "context": "引出品牌与梅西的合作事例",
+      "pattern": "Notably, on July 14th"
+    },
+    "notes": {
+      "pos": "动词·第三人称单数/名词",
+      "ipa": "nˈoʊts",
+      "meaning": "指出；提到；笔记",
+      "context": "作家指出历史上的趋势",
+      "pattern": "notes James Salzman"
+    },
+    "of": {
+      "pos": "介词",
+      "ipa": "ˈʌv",
+      "meaning": "……的；由……组成；关于",
+      "context": "表示所属、内容或部分关系",
+      "pattern": "the value of sales"
+    },
+    "on": {
+      "pos": "介词/副词",
+      "ipa": "ˈɑːn",
+      "meaning": "在……上；在某日；关于",
+      "context": "在 TikTok 上/在 7 月 14 日",
+      "pattern": "on TikTok"
+    },
+    "once": {
+      "pos": "连词/副词",
+      "ipa": "wˈʌns",
+      "meaning": "一旦；曾经；一次",
+      "context": "一经发布",
+      "pattern": "Once released"
+    },
+    "only": {
+      "pos": "副词/形容词",
+      "ipa": "ˈoʊnli",
+      "meaning": "仅仅；只有；唯一的",
+      "context": "仅在长途徒步时",
+      "pattern": "only for long hikes"
+    },
+    "or": {
+      "pos": "连词",
+      "ipa": "ˈɔːɹ",
+      "meaning": "或；或者；否则",
+      "context": "连接可选对象",
+      "pattern": "pop singers or movie stars"
+    },
+    "out": {
+      "pos": "副词/介词",
+      "ipa": "ˈaʊt",
+      "meaning": "向外；外面；不在",
+      "context": "与 brought 连用表示拿出来",
+      "pattern": "brought out of"
+    },
+    "over-the-top": {
+      "pos": "形容词",
+      "ipa": "ˌoʊvɚ ðə tˈɑːp",
+      "meaning": "夸张的；过头的；过火的",
+      "context": "夸张的营销推广",
+      "pattern": "over-the-top promotion"
+    },
+    "paragraph": {
+      "pos": "名词",
+      "meaning": "段落",
+      "context": "阅读文章第一段",
+      "pattern": "the first paragraph",
+      "ipa": "pˈæɹəɡɹˌæf"
+    },
+    "people": {
+      "pos": "名词·复数",
+      "ipa": "pˈiːpəl",
+      "meaning": "人们；大众",
+      "context": "年轻人/消费者",
+      "pattern": "young people"
+    },
+    "people’s": {
+      "pos": "名词·所有格",
+      "ipa": "pˈiːpəlz",
+      "meaning": "人们的；某些人的",
+      "context": "年轻人的喜爱／人们的徒步",
+      "pattern": "young people’s fondness"
+    },
+    "plain": {
+      "pos": "形容词",
+      "ipa": "plˈeɪn",
+      "meaning": "朴素的；普通的；平淡的",
+      "context": "普通而毫无新意的",
+      "pattern": "plain, boring container"
+    },
+    "pop": {
+      "pos": "形容词/名词",
+      "ipa": "pˈɑːp",
+      "meaning": "流行音乐的；流行文化",
+      "context": "流行歌手",
+      "pattern": "pop singers"
+    },
+    "popular": {
+      "pos": "形容词",
+      "ipa": "pˈɑːpjʊlɚ",
+      "meaning": "受欢迎的；流行的",
+      "context": "最受欢迎的杯子",
+      "pattern": "most popular cup"
+    },
+    "popularity": {
+      "pos": "名词",
+      "meaning": "流行；受欢迎程度",
+      "context": "产品的受欢迎程度",
+      "pattern": "decreasing in popularity",
+      "ipa": "pˌɑːpjʊlˈæɹɪɾi"
+    },
+    "portable": {
+      "pos": "形容词",
+      "ipa": "pˈoːɹɾəbəl",
+      "meaning": "便携式的；易携带的",
+      "context": "可以随身携带的水瓶",
+      "pattern": "portable water bottles"
+    },
+    "president": {
+      "pos": "名词",
+      "ipa": "pɹˈɛzɪdənt",
+      "meaning": "总裁；主席；总统",
+      "context": "品牌全球总裁",
+      "pattern": "global president"
+    },
+    "prices": {
+      "pos": "名词·复数",
+      "meaning": "价格；价钱",
+      "context": "畅销水杯的售价",
+      "pattern": "cut prices",
+      "ipa": "pɹˈaɪsɪz"
+    },
+    "primarily": {
+      "pos": "副词",
+      "meaning": "主要地；首先；根本上",
+      "context": "主要受到某原因推动",
+      "pattern": "primarily driven by",
+      "ipa": "pɹaɪmˈɛɹəli"
+    },
+    "produce": {
+      "pos": "动词",
+      "meaning": "生产；制造；产生",
+      "context": "制造水瓶",
+      "pattern": "produce bottles",
+      "ipa": "pɹədˈuːs"
+    },
+    "products": {
+      "pos": "名词·复数",
+      "ipa": "pɹˈɑːdʌkts",
+      "meaning": "产品；商品",
+      "context": "水杯或瓶装水产品",
+      "pattern": "the products saw a rise"
+    },
+    "profit": {
+      "pos": "名词",
+      "ipa": "pɹˈɑːfɪt",
+      "meaning": "利润；收益",
+      "context": "品牌想要获取的利润",
+      "pattern": "thirst for profit"
+    },
+    "promote": {
+      "pos": "动词",
+      "meaning": "促进；推广；推动",
+      "context": "推动瓶装水销量增长",
+      "pattern": "promote bottled water sales",
+      "ipa": "pɹəmˈoʊt"
+    },
+    "promotion": {
+      "pos": "名词",
+      "ipa": "pɹəmˈoʊʃən",
+      "meaning": "推广；促销；提升",
+      "context": "铺天盖地的宣传和推广",
+      "pattern": "over-the-top promotion"
+    },
+    "provide": {
+      "pos": "动词",
+      "meaning": "提供；供给；给予",
+      "context": "提供配饰",
+      "pattern": "provide free accessories",
+      "ipa": "pɹəvˈaɪd"
+    },
+    "range": {
+      "pos": "名词",
+      "ipa": "ɹˈeɪndʒ",
+      "meaning": "系列；范围；种类",
+      "context": "联名产品新系列",
+      "pattern": "a new range"
+    },
+    "reached": {
+      "pos": "动词·过去式",
+      "ipa": "ɹˈiːtʃt",
+      "meaning": "达到；到达；取得联系",
+      "context": "销售额达到某一数值",
+      "pattern": "sales reached $4 billion"
+    },
+    "received": {
+      "pos": "动词·过去式",
+      "ipa": "ɹɪsˈiːvd",
+      "meaning": "收到；获得；得到",
+      "context": "得到市场的热烈反响",
+      "pattern": "received a warm response"
+    },
+    "released": {
+      "pos": "动词·过去分词/过去式",
+      "ipa": "ɹɪlˈiːsd",
+      "meaning": "发布；推出；释放",
+      "context": "新产品推出上市",
+      "pattern": "Once released"
+    },
+    "respond": {
+      "pos": "动词",
+      "meaning": "回应；应对；作出反应",
+      "context": "公司如何满足市场需求",
+      "pattern": "respond to market demand",
+      "ipa": "ɹɪspˈɑːnd"
+    },
+    "response": {
+      "pos": "名词",
+      "ipa": "ɹɪspˈɑːns",
+      "meaning": "反应；回应；答复",
+      "context": "市场对产品的反馈",
+      "pattern": "a warm response"
+    },
+    "reusable": {
+      "pos": "形容词",
+      "ipa": "ɹiːjˈuːzəbəl",
+      "meaning": "可重复使用的",
+      "context": "可反复使用的水瓶",
+      "pattern": "reusable water bottle"
+    },
+    "reusable-cup": {
+      "pos": "形容词",
+      "ipa": "ɹiːjˈuːzəbəl kˈʌp",
+      "meaning": "可重复使用水杯的",
+      "context": "关于可重复使用水杯的潮流",
+      "pattern": "reusable-cup trend"
+    },
+    "rise": {
+      "pos": "名词/动词",
+      "ipa": "ɹˈaɪz",
+      "meaning": "上升；增长；起身",
+      "context": "销售显著增长",
+      "pattern": "a dramatic rise"
+    },
+    "rumours": {
+      "pos": "名词·复数（英式）",
+      "ipa": "ɹˈuːmɚz",
+      "meaning": "传闻；谣言",
+      "context": "名人用矿泉水洗澡的传闻",
+      "pattern": "Rumours spread"
+    },
+    "sales": {
+      "pos": "名词·复数",
+      "ipa": "sˈeɪlz",
+      "meaning": "销售额；销售活动；销量",
+      "context": "水瓶销售量和销售额",
+      "pattern": "the value of sales"
+    },
+    "salzman": {
+      "pos": "专有名词",
+      "ipa": "sˈæltsmən",
+      "meaning": "萨尔兹曼（姓氏）",
+      "context": "作家 James Salzman",
+      "pattern": "James Salzman"
+    },
+    "satisfying": {
+      "pos": "动词·现在分词",
+      "ipa": "sˈæɾɪsfˌaɪɪŋ",
+      "meaning": "使满足；使满意",
+      "context": "满足品牌对利润的渴望",
+      "pattern": "satisfying brands’ thirst"
+    },
+    "saw": {
+      "pos": "动词·过去式",
+      "ipa": "sˈɔː",
+      "meaning": "看见；见证；经历",
+      "context": "经历了销量大幅增长",
+      "pattern": "saw a dramatic rise"
+    },
+    "says": {
+      "pos": "动词·第三人称单数",
+      "ipa": "sˈɛz",
+      "meaning": "说；表示；写道",
+      "context": "引出人物的说法",
+      "pattern": "says Matt Navarro"
+    },
+    "secondary": {
+      "pos": "形容词",
+      "meaning": "次要的；第二的；二手的",
+      "context": "二级市场（转售市场）",
+      "pattern": "secondary market",
+      "ipa": "sˈɛkəndɚɹi"
+    },
+    "secret": {
+      "pos": "名词/形容词",
+      "ipa": "sˈiːkɹət",
+      "meaning": "秘诀；秘密；隐秘的",
+      "context": "健康肌肤和清醒头脑的秘诀",
+      "pattern": "the secret to glowing skin"
+    },
+    "self-care": {
+      "pos": "名词",
+      "ipa": "sˈɛlf kˈɛɹ",
+      "meaning": "自我关怀；自我照料",
+      "context": "注重身心健康和个人护理的观念",
+      "pattern": "fondness for self-care"
+    },
+    "seniors": {
+      "pos": "名词·复数",
+      "meaning": "年长者；老年人；高年级学生",
+      "context": "选项中指年长者",
+      "pattern": "for the seniors",
+      "ipa": "sˈiːnjɚz"
+    },
+    "sharpness": {
+      "pos": "名词",
+      "ipa": "ʃˈɑːɹpnəs",
+      "meaning": "敏锐；清晰；锋利",
+      "context": "思维敏捷、头脑清醒",
+      "pattern": "mental sharpness"
+    },
+    "she": {
+      "pos": "代词",
+      "ipa": "ʃˈiː",
+      "meaning": "她",
+      "context": "指玛丽亚·凯莉",
+      "pattern": "She actually takes her baths"
+    },
+    "singer": {
+      "pos": "名词",
+      "ipa": "sˈɪŋɚ",
+      "meaning": "歌手",
+      "context": "玛丽亚·凯莉",
+      "pattern": "singer Mariah Carey"
+    },
+    "singers": {
+      "pos": "名词·复数",
+      "ipa": "sˈɪŋɚz",
+      "meaning": "歌手",
+      "context": "流行音乐歌手",
+      "pattern": "pop singers"
+    },
+    "skin": {
+      "pos": "名词",
+      "ipa": "skˈɪn",
+      "meaning": "皮肤；表皮",
+      "context": "肤色/肌肤健康",
+      "pattern": "glowing skin"
+    },
+    "snack": {
+      "pos": "名词",
+      "ipa": "snˈæk",
+      "meaning": "零食；小吃",
+      "context": "零食托盘",
+      "pattern": "snack trays"
+    },
+    "so": {
+      "pos": "副词/连词",
+      "meaning": "如此；这么；所以",
+      "context": "如此感兴趣",
+      "pattern": "so interested in",
+      "ipa": "sˈoʊ"
+    },
+    "social": {
+      "pos": "形容词",
+      "ipa": "sˈoʊʃəl",
+      "meaning": "社会的；社交的",
+      "context": "社交媒体",
+      "pattern": "social media"
+    },
+    "sold": {
+      "pos": "动词·过去式/过去分词",
+      "ipa": "sˈoʊld",
+      "meaning": "出售；卖出",
+      "context": "水瓶的销售数量",
+      "pattern": "containers were sold"
+    },
+    "some": {
+      "pos": "限定词/代词",
+      "ipa": "sˈʌm",
+      "meaning": "一些；若干；大约",
+      "context": "一些年轻人或约某个数量",
+      "pattern": "some 270 million"
+    },
+    "sorts": {
+      "pos": "名词·复数",
+      "ipa": "sˈɔːɹts",
+      "meaning": "种类；类型",
+      "context": "各种各样的",
+      "pattern": "all sorts of"
+    },
+    "sprang": {
+      "pos": "动词·过去式",
+      "ipa": "spɹˈæŋ",
+      "meaning": "跳起；突然出现；涌现",
+      "context": "奢侈品牌迅速涌现",
+      "pattern": "sprang up"
+    },
+    "spread": {
+      "pos": "动词·过去式/原形",
+      "ipa": "spɹˈɛd",
+      "meaning": "传播；蔓延；展开",
+      "context": "流言传开",
+      "pattern": "Rumours spread"
+    },
+    "stanley": {
+      "pos": "专有名词",
+      "ipa": "stˈænli",
+      "meaning": "斯坦利（名称）",
+      "context": "Stanley 水杯品牌",
+      "pattern": "Stanley 1913"
+    },
+    "stanley’s": {
+      "pos": "专有名词·所有格",
+      "ipa": "stˈænliz",
+      "meaning": "Stanley 的",
+      "context": "该品牌旗下的最受欢迎水杯",
+      "pattern": "Stanley’s most popular cup"
+    },
+    "stars": {
+      "pos": "名词·复数",
+      "ipa": "stˈɑːɹz",
+      "meaning": "明星；星星",
+      "context": "电影明星",
+      "pattern": "movie stars"
+    },
+    "statement": {
+      "pos": "名词",
+      "ipa": "stˈeɪtmənt",
+      "meaning": "声明；表达；宣言",
+      "context": "表达个人风格的时尚宣言",
+      "pattern": "fashion statement"
+    },
+    "stickers": {
+      "pos": "名词·复数",
+      "ipa": "stˈɪkɚz",
+      "meaning": "贴纸；不干胶标签",
+      "context": "水杯装饰用贴纸",
+      "pattern": "stickers and keychains"
+    },
+    "straps": {
+      "pos": "名词·复数",
+      "ipa": "stɹˈæps",
+      "meaning": "背带；带子",
+      "context": "水瓶背带",
+      "pattern": "buy straps"
+    },
+    "style": {
+      "pos": "名词",
+      "ipa": "stˈaɪl",
+      "meaning": "风格；款式；时尚",
+      "context": "重视时尚风格",
+      "pattern": "more about style"
+    },
+    "sustainability": {
+      "pos": "名词",
+      "ipa": "səstˌeɪnəbˈɪlɪɾi",
+      "meaning": "可持续性；可持续发展",
+      "context": "环境可持续性",
+      "pattern": "environmental sustainability"
+    },
+    "tag": {
+      "pos": "名词/动词",
+      "ipa": "tˈæɡ",
+      "meaning": "标签；标记；标注",
+      "context": "TikTok 的话题标签",
+      "pattern": "the tag #WaterTok"
+    },
+    "takes": {
+      "pos": "动词·第三人称单数",
+      "ipa": "tˈeɪks",
+      "meaning": "拿；花费；进行",
+      "context": "泡澡的固定搭配 take a bath",
+      "pattern": "takes her baths"
+    },
+    "than": {
+      "pos": "连词/介词",
+      "ipa": "ðˈɐn",
+      "meaning": "比；较之；而不是",
+      "context": "用于比较句型",
+      "pattern": "more about style than sustainability"
+    },
+    "that": {
+      "pos": "连词/代词/限定词",
+      "ipa": "ðˈæt",
+      "meaning": "那；那个；……这一事实",
+      "context": "引导宾语从句或指代事物",
+      "pattern": "believe that"
+    },
+    "the": {
+      "pos": "定冠词",
+      "ipa": "ðˈə",
+      "meaning": "这；那；特指的人或事物",
+      "context": "用于特指已知事物",
+      "pattern": "the market demand"
+    },
+    "their": {
+      "pos": "物主限定词",
+      "ipa": "ðˈɛɹ",
+      "meaning": "他们的；她们的；它们的",
+      "context": "指年轻人或公司的所属事物",
+      "pattern": "their water bottles"
+    },
+    "then": {
+      "pos": "副词",
+      "ipa": "ðˈɛn",
+      "meaning": "然后；那么；当时",
+      "context": "如果……那就……",
+      "pattern": "then you would be wrong"
+    },
+    "they": {
+      "pos": "代词",
+      "ipa": "ðˈeɪ",
+      "meaning": "他们；她们；它们",
+      "context": "视上下文指公司或年轻人",
+      "pattern": "They decorate their cups"
+    },
+    "thing": {
+      "pos": "名词",
+      "ipa": "θˈɪŋ",
+      "meaning": "事情；东西；事物",
+      "context": "一件流行时髦的事情",
+      "pattern": "the cool thing"
+    },
+    "thirst": {
+      "pos": "名词/动词",
+      "ipa": "θˈɜːst",
+      "meaning": "口渴；渴望；渴求",
+      "context": "品牌对利润的渴望（比喻）",
+      "pattern": "thirst for profit"
+    },
+    "this": {
+      "pos": "代词/限定词",
+      "ipa": "ðˈɪs",
+      "meaning": "这个；这件事",
+      "context": "指代前文所述潮流",
+      "pattern": "This has led to"
+    },
+    "thought": {
+      "pos": "动词·过去式/名词",
+      "ipa": "θˈɔːt",
+      "meaning": "认为；想；思想",
+      "context": "以为水瓶普通无趣",
+      "pattern": "If you thought"
+    },
+    "tiktok": {
+      "pos": "专有名词",
+      "ipa": "ˈtɪk tɑːk",
+      "meaning": "TikTok 短视频平台",
+      "context": "水杯潮流传播的平台",
+      "pattern": "views on TikTok"
+    },
+    "to": {
+      "pos": "介词/不定式标记",
+      "ipa": "tˈuː",
+      "meaning": "到；向；为了；表示动词不定式",
+      "context": "连接动词或构成不定式",
+      "pattern": "cater to market demand"
+    },
+    "trays": {
+      "pos": "名词·复数",
+      "ipa": "tɹˈeɪz",
+      "meaning": "托盘；浅盘",
+      "context": "水瓶配件中的零食托盘",
+      "pattern": "snack trays"
+    },
+    "trend": {
+      "pos": "名词",
+      "ipa": "tɹˈɛnd",
+      "meaning": "趋势；潮流；流行风尚",
+      "context": "水杯热潮/补水潮流",
+      "pattern": "a trend called hydration inflation"
+    },
+    "trends": {
+      "pos": "名词·复数",
+      "meaning": "趋势；潮流",
+      "context": "饮水消费潮流",
+      "pattern": "drinking trends",
+      "ipa": "tɹˈɛndz"
+    },
+    "tumblers": {
+      "pos": "名词·复数",
+      "ipa": "tˈʌmblɚz",
+      "meaning": "保温杯；随行杯；（普通）平底杯",
+      "context": "视频中走红的保温杯",
+      "pattern": "videos of tumblers"
+    },
+    "two": {
+      "pos": "数词",
+      "ipa": "tˈuː",
+      "meaning": "二；两个",
+      "context": "两年前",
+      "pattern": "two years ago"
+    },
+    "unnecessary": {
+      "pos": "形容词",
+      "meaning": "不必要的；多余的",
+      "context": "并非必需品（选项说法）",
+      "pattern": "dull and unnecessary",
+      "ipa": "ʌnnˈɛsəsɚɹi"
+    },
+    "up": {
+      "pos": "副词/介词",
+      "ipa": "ˈʌp",
+      "meaning": "向上；出现；完成",
+      "context": "涌现；上升",
+      "pattern": "sprang up"
+    },
+    "urged": {
+      "pos": "动词·过去分词",
+      "meaning": "敦促；劝说；强烈要求",
+      "context": "被健康宣传活动敦促",
+      "pattern": "urged by campaigns",
+      "ipa": "ˈɜːdʒd"
+    },
+    "used": {
+      "pos": "动词·过去分词/形容词",
+      "meaning": "使用；用过的",
+      "context": "只被用于徒步（选项说法）",
+      "pattern": "only used for",
+      "ipa": "jˈuːzd"
+    },
+    "usually": {
+      "pos": "副词",
+      "meaning": "通常；一般",
+      "context": "名人通常这样做（选项说法）",
+      "pattern": "usually bathe in",
+      "ipa": "jˈuːʒuːəli"
+    },
+    "value": {
+      "pos": "名词",
+      "ipa": "vˈæljuː",
+      "meaning": "价值；金额；重要性",
+      "context": "销售额",
+      "pattern": "the value of sales"
+    },
+    "various": {
+      "pos": "形容词",
+      "meaning": "各种各样的；多种的",
+      "context": "多种颜色",
+      "pattern": "various colors",
+      "ipa": "vˈɛɹɪəs"
+    },
+    "videos": {
+      "pos": "名词·复数",
+      "ipa": "vˈɪdɪoʊz",
+      "meaning": "视频；录像",
+      "context": "社交媒体上的水杯视频",
+      "pattern": "videos of tumblers"
+    },
+    "views": {
+      "pos": "名词·复数",
+      "ipa": "vjˈuːz",
+      "meaning": "浏览量；观看次数；观点",
+      "context": "TikTok 观看次数",
+      "pattern": "2.5 billion views"
+    },
+    "warm": {
+      "pos": "形容词",
+      "ipa": "wˈɔːɹm",
+      "meaning": "温暖的；热情的；热烈的",
+      "context": "热烈的市场反响",
+      "pattern": "a warm response"
+    },
+    "was": {
+      "pos": "系动词/助动词·过去式",
+      "ipa": "wˈʌz",
+      "meaning": "是；处于；曾经",
+      "context": "be 的单数过去式",
+      "pattern": "was highly favored"
+    },
+    "water": {
+      "pos": "名词/动词",
+      "ipa": "wˈɔːɾɚ",
+      "meaning": "水；给……浇水",
+      "context": "饮用水；水瓶中的水",
+      "pattern": "water bottles"
+    },
+    "we": {
+      "pos": "代词",
+      "meaning": "我们",
+      "context": "题干中指答题者",
+      "pattern": "What do we learn",
+      "ipa": "wˈiː"
+    },
+    "were": {
+      "pos": "系动词/助动词·过去式",
+      "ipa": "wˈɜː",
+      "meaning": "是；处于；曾经",
+      "context": "be 的复数过去式",
+      "pattern": "were sold"
+    },
+    "what": {
+      "pos": "疑问代词",
+      "meaning": "什么；哪一种",
+      "context": "询问文章内容或结论",
+      "pattern": "What can be concluded",
+      "ipa": "wˈʌt"
+    },
+    "why": {
+      "pos": "疑问副词",
+      "meaning": "为什么；为何",
+      "context": "询问原因",
+      "pattern": "Why are young people",
+      "ipa": "wˈaɪ"
+    },
+    "will": {
+      "pos": "情态动词",
+      "meaning": "将；会；愿意",
+      "context": "预测将促进销售",
+      "pattern": "will promote",
+      "ipa": "wˈɪl"
+    },
+    "with": {
+      "pos": "介词",
+      "ipa": "wˈɪð",
+      "meaning": "和；用；具有；随着",
+      "context": "表示合作或手段",
+      "pattern": "cooperate with celebrities"
+    },
+    "would": {
+      "pos": "情态动词",
+      "ipa": "wˈʊd",
+      "meaning": "将会；会；愿意",
+      "context": "假设条件中的推测",
+      "pattern": "you would be wrong"
+    },
+    "wrong": {
+      "pos": "形容词/副词",
+      "ipa": "ɹˈɔŋ",
+      "meaning": "错误的；不对的",
+      "context": "你的想法是错的",
+      "pattern": "you would be wrong"
+    },
+    "year": {
+      "pos": "名词",
+      "ipa": "jˈɪɹ",
+      "meaning": "年；年度",
+      "context": "截至 2025 年 5 月的这一年度",
+      "pattern": "the year ending in May"
+    },
+    "years": {
+      "pos": "名词·复数",
+      "ipa": "jˈɪɹz",
+      "meaning": "年；岁",
+      "context": "两年前",
+      "pattern": "two years ago"
+    },
+    "yet": {
+      "pos": "连词/副词",
+      "ipa": "jˈɛt",
+      "meaning": "然而；但是；还",
+      "context": "引出转折，强调风格多于环保",
+      "pattern": "Yet the trend is more about style"
+    },
+    "you": {
+      "pos": "代词",
+      "ipa": "jˈuː",
+      "meaning": "你；你们",
+      "context": "文章开头的泛指读者",
+      "pattern": "If you thought"
+    },
+    "young": {
+      "pos": "形容词",
+      "ipa": "jˈʌŋ",
+      "meaning": "年轻的；年幼的",
+      "context": "年轻消费者",
+      "pattern": "young people"
+    },
+    "youngsters": {
+      "pos": "名词·复数",
+      "ipa": "jˈʌŋstɚz",
+      "meaning": "年轻人；青少年",
+      "context": "Z 世代的年轻人",
+      "pattern": "Youngsters connect their water bottles"
+    },
+    "z": {
+      "pos": "专有名词/字母",
+      "ipa": "zˈiː",
+      "meaning": "字母 Z；Z 世代",
+      "context": "Gen Z 指大约 1990 年代末至 2010 年代初出生的群体",
+      "pattern": "Gen Z"
+    }
+  },
+  "phrases": [
+    {
+      "en": "reusable water bottle",
+      "zh": "可重复使用的水瓶"
+    },
+    {
+      "en": "brought out of",
+      "zh": "从……拿出来"
+    },
+    {
+      "en": "fashion statement",
+      "zh": "时尚宣言"
+    },
+    {
+      "en": "social media",
+      "zh": "社交媒体"
+    },
+    {
+      "en": "flooded with",
+      "zh": "充斥着"
+    },
+    {
+      "en": "Gen Z",
+      "zh": "Z 世代"
+    },
+    {
+      "en": "all kinds of",
+      "zh": "各种各样的"
+    },
+    {
+      "en": "cater to market demand",
+      "zh": "迎合市场需求"
+    },
+    {
+      "en": "all sorts of",
+      "zh": "各式各样的"
+    },
+    {
+      "en": "released collections",
+      "zh": "推出系列产品"
+    },
+    {
+      "en": "pop singers",
+      "zh": "流行歌手"
+    },
+    {
+      "en": "movie stars",
+      "zh": "电影明星"
+    },
+    {
+      "en": "a new range",
+      "zh": "新产品系列"
+    },
+    {
+      "en": "warm response",
+      "zh": "热烈反响"
+    },
+    {
+      "en": "self-care",
+      "zh": "自我关怀"
+    },
+    {
+      "en": "fondness for",
+      "zh": "对……的喜爱"
+    },
+    {
+      "en": "glowing skin",
+      "zh": "容光焕发的肌肤"
+    },
+    {
+      "en": "mental sharpness",
+      "zh": "思维敏锐"
+    },
+    {
+      "en": "led to",
+      "zh": "导致"
+    },
+    {
+      "en": "hydration inflation",
+      "zh": "补水通胀；补水消费持续扩大"
+    },
+    {
+      "en": "life-sustaining liquid",
+      "zh": "维持生命的液体"
+    },
+    {
+      "en": "over-the-top promotion",
+      "zh": "夸张的营销"
+    },
+    {
+      "en": "thirst for profit",
+      "zh": "对利润的渴望"
+    },
+    {
+      "en": "portable water bottles",
+      "zh": "便携式水瓶"
+    },
+    {
+      "en": "in the year ending",
+      "zh": "截至某时的一年里"
+    },
+    {
+      "en": "up from",
+      "zh": "高于之前的……"
+    },
+    {
+      "en": "sprang up",
+      "zh": "迅速涌现"
+    },
+    {
+      "en": "high-profile endorsement",
+      "zh": "知名人士代言"
+    },
+    {
+      "en": "dramatic rise in sales",
+      "zh": "销量大幅增长"
+    },
+    {
+      "en": "eco-conscious group",
+      "zh": "具有环保意识的群体"
+    },
+    {
+      "en": "reusable-cup trend",
+      "zh": "可重复使用水杯的潮流"
+    },
+    {
+      "en": "more about style than sustainability",
+      "zh": "更多关乎风格而非可持续发展"
+    },
+    {
+      "en": "famous Argentine footballer",
+      "zh": "著名阿根廷足球运动员"
+    },
+    {
+      "en": "a leading brand",
+      "zh": "领先品牌"
+    },
+    {
+      "en": "released",
+      "zh": "发布；上市"
+    },
+    {
+      "en": "satisfying brands",
+      "zh": "满足品牌"
+    },
+    {
+      "en": "the value of sales",
+      "zh": "销售额"
+    }
+  ],
+  "questions": [
+    {
+      "number": 46,
+      "en": "What do we learn about water bottles from the first paragraph?",
+      "zh": "从第一段中我们了解到关于水瓶的什么信息？",
+      "options": [
+        {
+          "key": "A",
+          "en": "They are dull and unnecessary for Gen Z.",
+          "zh": "对于 Z 世代来说，水瓶既乏味又没有必要。"
+        },
+        {
+          "key": "B",
+          "en": "They are plain and boring for the seniors.",
+          "zh": "对于老年人来说，水瓶朴素而无趣。"
+        },
+        {
+          "key": "C",
+          "en": "They are only used for people’s long hikes.",
+          "zh": "水瓶只在人们长途徒步时才会使用。"
+        },
+        {
+          "key": "D",
+          "en": "They have become a trend on social media.",
+          "zh": "水瓶已经成为社交媒体上的一种流行趋势。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "第一段指出，Z 世代把水瓶视作时尚宣言，社交媒体上充斥着保温杯相关视频，#WaterTok 获得大量浏览。因此 D 符合文意；A、B、C 是文章开头被否定的旧印象。",
+      "evidence": "For Gen Z, a water bottle is both a necessity and a fashion statement. Social media are flooded with videos of tumblers (保温杯)."
+    },
+    {
+      "number": 47,
+      "en": "How do companies respond to the market demand for water bottles?",
+      "zh": "企业如何应对市场对水瓶的需求？",
+      "options": [
+        {
+          "key": "A",
+          "en": "They cut the bestsellers’ prices like their tumblers.",
+          "zh": "它们降低保温杯等畅销商品的价格。"
+        },
+        {
+          "key": "B",
+          "en": "They provide free accessories for the decoration of water bottles.",
+          "zh": "它们免费提供装饰水瓶的配饰。"
+        },
+        {
+          "key": "C",
+          "en": "They make bottles in various colors and cooperate with celebrities.",
+          "zh": "它们推出多种颜色的水瓶，并与名人合作。"
+        },
+        {
+          "key": "D",
+          "en": "They produce bottles with larger capacity to help the skin glow.",
+          "zh": "它们生产容量更大的水瓶，以帮助皮肤焕发光彩。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "第三段明确说企业推出各种颜色的水瓶，还与歌手、电影明星以及梅西等名人合作推出产品。文章未说降价、免费送配饰或靠增大容量改善皮肤。",
+      "evidence": "Many companies have launched water bottles in all sorts of colors. Meanwhile, they have released collections with pop singers or movie stars."
+    },
+    {
+      "number": 48,
+      "en": "Why are young people so interested in drinking more water?",
+      "zh": "为什么年轻人热衷于喝更多水？",
+      "options": [
+        {
+          "key": "A",
+          "en": "Because they believe it benefits their appearance and mind.",
+          "zh": "因为他们相信喝水对外貌和精神状态有好处。"
+        },
+        {
+          "key": "B",
+          "en": "Because French mineral water is cheap and easily available.",
+          "zh": "因为法国矿泉水便宜且容易买到。"
+        },
+        {
+          "key": "C",
+          "en": "Because they are urged by national health promotion campaigns.",
+          "zh": "因为全国性的健康宣传活动敦促他们多喝水。"
+        },
+        {
+          "key": "D",
+          "en": "Because the government encourages people to drink more water daily.",
+          "zh": "因为政府鼓励人们每天多喝水。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第四段指出年轻人相信水能让皮肤有光泽、思维更敏锐，因此开始喝更多的水；其他原因在文中并未出现。",
+      "evidence": "Many believe that water is the secret to glowing skin and mental sharpness. This has led to people drinking more."
+    },
+    {
+      "number": 49,
+      "en": "What does the example of Mariah Carey illustrate about drinking fashions?",
+      "zh": "玛丽亚·凯莉的例子说明了饮水风尚的什么特点？",
+      "options": [
+        {
+          "key": "A",
+          "en": "Celebrities usually bathe in mineral water for health.",
+          "zh": "名人通常为了健康而用矿泉水洗澡。"
+        },
+        {
+          "key": "B",
+          "en": "Drinking trends can be exaggerated and influenced by celebrities.",
+          "zh": "饮水潮流可能被夸大，也会受到名人影响。"
+        },
+        {
+          "key": "C",
+          "en": "Milk is more effective than mineral water for bathing.",
+          "zh": "牛奶比矿泉水更适合洗澡。"
+        },
+        {
+          "key": "D",
+          "en": "The trend of hydration inflation will promote bottled water sales.",
+          "zh": "“补水通胀”趋势会推动瓶装水销量。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "第五段用“凯莉用法国矿泉水泡澡”的传闻与实际用牛奶泡澡作对比，接着说明名人背书促进销量，反映饮水风潮易被夸张传播并受到名人影响。",
+      "evidence": "Rumours spread that singer Mariah Carey bathed in French mineral water. (She actually takes her baths in milk.) Backed by high-profile endorsement, the products saw a dramatic rise in sales."
+    },
+    {
+      "number": 50,
+      "en": "What can be concluded about the reusable-cup trend of Gen Z?",
+      "zh": "关于 Z 世代的可重复使用水杯潮流，可以得出什么结论？",
+      "options": [
+        {
+          "key": "A",
+          "en": "It is primarily driven by environmental awareness.",
+          "zh": "这一潮流主要受环保意识驱动。"
+        },
+        {
+          "key": "B",
+          "en": "It is more about fashion than environmental sustainability.",
+          "zh": "这一潮流更多与时尚有关，而非环境可持续性。"
+        },
+        {
+          "key": "C",
+          "en": "It lacks a secondary market for limited-edition cups.",
+          "zh": "限量版水杯缺乏二级交易市场。"
+        },
+        {
+          "key": "D",
+          "en": "It is decreasing in popularity among different bottles.",
+          "zh": "这一潮流在各种水瓶中正逐渐失去人气。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "末段直接作出总结：尽管 Z 世代具有环保意识，可重复使用水杯的流行仍更多是为了风格和时尚，而不是可持续发展。",
+      "evidence": "Yet the reusable-cup trend is more about style than sustainability."
+    }
+  ]
+}

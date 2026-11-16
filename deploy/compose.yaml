@@ -1,0 +1,40 @@
+services:
+  app:
+    build: ..
+    restart: unless-stopped
+    environment:
+      NOISELESS_REGISTRATION: ${NOISELESS_REGISTRATION:-true}
+      NOISELESS_AI_PROTOCOL: ${NOISELESS_AI_PROTOCOL:-chat}
+      NOISELESS_AI_BASE_URL: ${NOISELESS_AI_BASE_URL:-https://api.openai.com/v1}
+      NOISELESS_AI_API_KEY: ${NOISELESS_AI_API_KEY:-}
+      NOISELESS_AI_MODELS: ${NOISELESS_AI_MODELS:-}
+    volumes:
+      - noiseless-data:/data
+    ports:
+      - "127.0.0.1:8080:8080"
+    mem_limit: 1g
+    stop_grace_period: 30s
+    logging:
+      driver: json-file
+      options:
+        max-size: 10m
+        max-file: "3"
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    environment:
+      NOISELESS_DOMAIN: ${NOISELESS_DOMAIN:?Set NOISELESS_DOMAIN to your public domain}
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+    depends_on:
+      - app
+volumes:
+  noiseless-data:
+  caddy-data:
+  caddy-config:

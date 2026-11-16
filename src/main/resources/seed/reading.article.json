@@ -1,0 +1,69 @@
+{
+  "format": "noiseless-1",
+  "id": "example-reading",
+  "type": "reading",
+  "title": "A Small Reading Habit",
+  "subtitle": "阅读理解格式示例",
+  "source": "题型演示 · 非真题",
+  "paragraphs": [
+    {
+      "en": "Reading for ten minutes every day can help students build a lasting habit. A short, regular session is easier to maintain than an occasional long one.",
+      "zh": "每天阅读十分钟可以帮助学生养成持久的习惯。比起偶尔一次长时间阅读，短暂而规律的阅读更容易坚持。"
+    }
+  ],
+  "dictionary": {
+    "habit": {
+      "pos": "n.",
+      "ipa": "ˈhæbɪt",
+      "meaning": "习惯",
+      "context": "规律阅读的习惯",
+      "pattern": "build a lasting habit"
+    },
+    "maintain": {
+      "pos": "v.",
+      "ipa": "meɪnˈteɪn",
+      "meaning": "维持；保持",
+      "context": "坚持阅读习惯",
+      "pattern": "easier to maintain"
+    }
+  },
+  "phrases": [
+    {
+      "en": "build a lasting habit",
+      "zh": "养成持久的习惯"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "choice",
+      "en": "What does the passage suggest?",
+      "zh": "短文提出了什么建议？",
+      "answer": "B",
+      "explanation": "原文认为短暂而规律的阅读更容易坚持，因此选 B。",
+      "evidence": "A short, regular session is easier to maintain than an occasional long one.",
+      "options": [
+        {
+          "key": "A",
+          "en": "Read only before an examination.",
+          "zh": "只在考试前阅读。"
+        },
+        {
+          "key": "B",
+          "en": "Read for a short time regularly.",
+          "zh": "定期进行短时间阅读。"
+        },
+        {
+          "key": "C",
+          "en": "Avoid reading every day.",
+          "zh": "避免每天阅读。"
+        },
+        {
+          "key": "D",
+          "en": "Read only long books.",
+          "zh": "只读长篇书籍。"
+        }
+      ]
+    }
+  ]
+}

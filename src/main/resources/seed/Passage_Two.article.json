@@ -1,0 +1,2415 @@
+{
+  "format": "bilingual-reader-1",
+  "id": "passage-two",
+  "title": "Passage Two",
+  "subtitle": "社交媒体购物与购物成瘾",
+  "paragraphs": [
+    {
+      "en": "Have you browsed social media late at night, clicked on a brightly colored button and bought something you regretted? Are you hiding parcels from your family? Have you heard of oniomania (购买癖), or shopping addiction?",
+      "zh": "你是否曾在深夜浏览社交媒体，点了一个颜色鲜艳的按钮，买下后来让自己后悔的东西？你是否把包裹藏起来，不让家人发现？你听说过“购物癖”（oniomania），也就是购物成瘾吗？"
+    },
+    {
+      "en": "Retail is changing. Social media platforms such as TikTok are launching e-commerce features that blur the lines between shopping and entertainment. A whole industry is emerging around livestream shopping, where cheerful hosts turn buying things into a game, by means of quizzes and interactive demonstrations. Regulators and researchers are worried that such innovations are making it harder to resist the urge to spend. Lately a lot of academic papers have been published on shopping addiction.",
+      "zh": "零售业正在发生变化。TikTok 等社交媒体平台正在推出电子商务功能，模糊购物与娱乐之间的界限。围绕直播购物，一个完整的行业正在兴起：热情洋溢的主播通过问答游戏和互动演示，把买东西变成一种游戏。监管人员和研究者担忧，这类创新使人们更难抵制消费冲动。最近，已有大量关于购物成瘾的学术论文发表。"
+    },
+    {
+      "en": "The problem is not to be taken lightly. Unlike gambling, shopping is something everyone must do, which can make addiction trickier to identify and measure. But academic research covering several countries has suggested that around 5% of people suffer from oniomania. It is more than just the odd impulse purchase; it can ruin people’s relationships and leave them in debt. Avis Cardella, a former shopaholic (购物狂), describes the way she would make purchases as “absent-minded” and “out of control”.",
+      "zh": "这一问题不容轻视。与赌博不同，购物是每个人都必须进行的活动，这使购物成瘾更难识别和衡量。不过，覆盖多个国家的学术研究表明，大约 5% 的人患有购物癖。这不仅仅是偶尔的冲动购物；它会破坏人际关系，让人负债累累。曾经是购物狂的阿维斯·卡德拉形容自己过去买东西时“心不在焉”，而且“完全失控”。"
+    },
+    {
+      "en": "The features that make shopping easy and fun may also make it more addictive. Shopping has a detectable effect on the brain; it can lead to a surge then a decline in dopamine (多巴胺), a chemical associated with pleasure. “It’s not about the goods,” says Pamela Roberts, a psychotherapist. “It’s the excitement of the spend, the dopamine hit and afterwards the shame.”",
+      "zh": "那些让购物变得轻松有趣的功能，也可能使购物更容易令人上瘾。购物会对大脑产生可检测到的影响：它可能使与愉悦感有关的化学物质多巴胺先激增、后下降。“关键不在于买到的商品，”心理治疗师帕梅拉·罗伯茨说，“而在于花钱时的兴奋、多巴胺带来的快感，以及随后出现的羞愧。”"
+    },
+    {
+      "en": "Research suggests the sense of community on social platforms, where users share reviews and recommendations, can increase people’s stress and prompt them to spend. A paper published this year in the Journal of Business Research linked irresistible shopping online with a “fear of missing out”, which brands can exploit by showcasing idealised customer experiences or offering time-limited discounts. A paper by researchers in Asia points to “atmospheric cues” in livestreams, such as a host’s entertaining explanations or live chats, that can encourage people to buy.",
+      "zh": "研究表明，社交平台上用户分享评价和推荐所形成的社群感，可能增加人们的压力，并促使他们花钱。今年发表在《商业研究杂志》上的一篇论文发现，难以抗拒的网上购物冲动与“错失恐惧”有关。品牌可以展示理想化的顾客体验，或推出限时折扣，利用这种心理。亚洲研究者的另一篇论文则指出，直播中的“氛围线索”——例如主播生动有趣的讲解或实时聊天——也会鼓励人们购买商品。"
+    },
+    {
+      "en": "However, any regulatory efforts to reintroduce resistance into the shopping experience may be unpopular with consumers. And technological tricks won’t make addicts of everyone. As Mark Griffiths, an addiction expert at Nottingham Trent University, puts it: “There is a fine line between exploitation and enhancement.”",
+      "zh": "然而，任何试图重新为购物过程设置阻力的监管措施，都可能不受消费者欢迎。而技术上的种种手段也不会让每个人都成瘾。正如诺丁汉特伦特大学的成瘾问题专家马克·格里菲思所说：“利用消费者与改善消费体验之间，只有一线之隔。”"
+    }
+  ],
+  "questions": [
+    {
+      "number": 51,
+      "en": "What do we learn about oniomania from the first paragraph?",
+      "zh": "从第一段中，我们了解到关于购物癖的什么信息？",
+      "options": [
+        {
+          "key": "A",
+          "en": "It is a kind of gambling addiction that is hard to get rid of.",
+          "zh": "它是一种难以戒除的赌博成瘾。"
+        },
+        {
+          "key": "B",
+          "en": "It refers to the addiction to shopping that makes people regretful.",
+          "zh": "它指让人买完东西后感到后悔的购物成瘾。"
+        },
+        {
+          "key": "C",
+          "en": "It is a rare mental problem that only occurs in large extended families.",
+          "zh": "它是一种只发生在大家庭中的罕见精神问题。"
+        },
+        {
+          "key": "D",
+          "en": "It only happens when people shop in social media platforms.",
+          "zh": "它只会在人们通过社交媒体平台购物时发生。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "第一段以深夜冲动购物后后悔、向家人藏包裹等行为引出 oniomania，并明确说明它就是 shopping addiction（购物成瘾）。因此 B 最符合文意。",
+      "evidence": "…bought something you regretted? Are you hiding parcels from your family? Have you heard of oniomania (购买癖), or shopping addiction?"
+    },
+    {
+      "number": 52,
+      "en": "Why are regulators and researchers concerned about new retail forms?",
+      "zh": "为什么监管者和研究人员担忧新型零售形式？",
+      "options": [
+        {
+          "key": "A",
+          "en": "Because these forms make shopping more entertaining.",
+          "zh": "因为这些形式让购物更有娱乐性。"
+        },
+        {
+          "key": "B",
+          "en": "Because these forms provide interactive demonstrations frequently.",
+          "zh": "因为这些形式经常提供互动展示。"
+        },
+        {
+          "key": "C",
+          "en": "Because these forms reduce people’s desire to buy goods.",
+          "zh": "因为这些形式降低了人们购买商品的欲望。"
+        },
+        {
+          "key": "D",
+          "en": "Because these forms make it harder for people to control impulsive spending.",
+          "zh": "因为这些形式让人们更难控制冲动消费。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "第二段说，娱乐化、游戏化的购物创新让人们更难抵制花钱的冲动，D 正好概括了担忧的核心；A、B 只是形式上的特点，C 与原文相反。",
+      "evidence": "Regulators and researchers are worried that such innovations are making it harder to resist the urge to spend."
+    },
+    {
+      "number": 53,
+      "en": "What makes shopping addiction more difficult to identify than gambling addiction?",
+      "zh": "为什么购物成瘾比赌博成瘾更难识别？",
+      "options": [
+        {
+          "key": "A",
+          "en": "Shopping involves smaller amounts of money.",
+          "zh": "购物涉及的金额较少。"
+        },
+        {
+          "key": "B",
+          "en": "Shopping is a necessary activity for everyone.",
+          "zh": "购物是每个人都必须进行的活动。"
+        },
+        {
+          "key": "C",
+          "en": "Gambling addiction has clearer physical symptoms.",
+          "zh": "赌博成瘾有更明显的身体症状。"
+        },
+        {
+          "key": "D",
+          "en": "Fewer people admit to having a shopping addiction.",
+          "zh": "更少的人承认自己有购物成瘾问题。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "第三段明确指出“与赌博不同，购物是人人都必须做的事情”，因而更难界定哪些购物行为属于成瘾。",
+      "evidence": "Unlike gambling, shopping is something everyone must do, which can make addiction trickier to identify and measure."
+    },
+    {
+      "number": 54,
+      "en": "What is Pamela Roberts’ explanation for shopping addiction?",
+      "zh": "帕梅拉·罗伯茨如何解释购物成瘾？",
+      "options": [
+        {
+          "key": "A",
+          "en": "It is mainly about acquiring high-quality goods.",
+          "zh": "它主要是为了获得高质量的商品。"
+        },
+        {
+          "key": "B",
+          "en": "It satisfies people’s deep need for the idealised customer image.",
+          "zh": "它满足人们对理想化消费者形象的深层需求。"
+        },
+        {
+          "key": "C",
+          "en": "It provides a short-term pleasure followed by negative feelings.",
+          "zh": "它带来短暂的快感，随后出现负面情绪。"
+        },
+        {
+          "key": "D",
+          "en": "It helps people temporarily escape from real-life financial pressures.",
+          "zh": "它帮助人们暂时逃避现实中的经济压力。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "第四段说明购物会引发多巴胺先升后降，罗伯茨特别强调“花钱时兴奋—多巴胺快感—之后羞愧”的过程，与 C 的“先愉悦、后负面感受”一致。",
+      "evidence": "“It’s the excitement of the spend, the dopamine hit and afterwards the shame.”"
+    },
+    {
+      "number": 55,
+      "en": "What factor may push people to spend more on social platforms?",
+      "zh": "什么因素可能促使人们在社交平台上花更多钱？",
+      "options": [
+        {
+          "key": "A",
+          "en": "The sense of community that brings pressure on users.",
+          "zh": "给用户带来压力的社群归属感。"
+        },
+        {
+          "key": "B",
+          "en": "The lack of product reviews and recommendations on platforms.",
+          "zh": "平台上缺少商品评价和推荐。"
+        },
+        {
+          "key": "C",
+          "en": "The long-term discounts provided by famous brands.",
+          "zh": "知名品牌提供的长期折扣。"
+        },
+        {
+          "key": "D",
+          "en": "The boring atmosphere during the live-stream shopping process.",
+          "zh": "直播购物过程中乏味的气氛。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第五段开头直接指出，社交平台上的社群感会增加人们的压力并促使其消费，因此选 A。B 与“分享评论和推荐”相反；C 应是“限时折扣”；D 与主播营造的热闹氛围相反。",
+      "evidence": "The sense of community on social platforms, where users share reviews and recommendations, can increase people’s stress and prompt them to spend."
+    }
+  ],
+  "dictionary": {
+    "5": {
+      "pos": "数词",
+      "meaning": "五；数字五",
+      "context": "5% 表示百分之五",
+      "ipa": "",
+      "pattern": "that around 5% of people"
+    },
+    "a": {
+      "pos": "冠词",
+      "ipa": "ˈeɪ",
+      "meaning": "一；一个；某个",
+      "context": "一",
+      "pattern": "clicked on a brightly colored"
+    },
+    "about": {
+      "pos": "介词/副词",
+      "ipa": "ɐbˈaʊt",
+      "meaning": "关于；大约；在……周围",
+      "context": "关于",
+      "pattern": "It’s not about the goods"
+    },
+    "absent-minded": {
+      "pos": "adj.",
+      "meaning": "心不在焉的；漫不经心的",
+      "context": "形容购物时没有认真思考",
+      "ipa": "ˌæbsənt ˈmaɪndɪd",
+      "pattern": "purchases as “absent-minded” and “out"
+    },
+    "academic": {
+      "pos": "adj.",
+      "meaning": "学术的；教学的",
+      "context": "学术论文或学术研究",
+      "ipa": "ˌækʌdˈɛmɪk",
+      "pattern": "lot of academic papers have"
+    },
+    "acquiring": {
+      "pos": "v.-ing",
+      "meaning": "获得；购得；习得",
+      "context": "购买并获得商品",
+      "ipa": "ʌkwˈaɪɹɪŋ",
+      "pattern": "mainly about acquiring high-quality goods"
+    },
+    "activity": {
+      "pos": "n.",
+      "meaning": "活动；行动",
+      "context": "指购物这一必需活动",
+      "ipa": "æktˈɪvʌti",
+      "pattern": "a necessary activity for everyone"
+    },
+    "addiction": {
+      "pos": "n.",
+      "meaning": "成瘾；沉迷；瘾",
+      "context": "购物成瘾",
+      "ipa": "ʌdˈɪkʃʌn",
+      "pattern": "or shopping addiction"
+    },
+    "addictive": {
+      "pos": "adj.",
+      "meaning": "使人上瘾的",
+      "context": "使购物更容易令人沉迷",
+      "ipa": "ʌdˈɪktɪv",
+      "pattern": "it more addictive. Shopping has"
+    },
+    "addicts": {
+      "pos": "n. 复数",
+      "meaning": "成瘾者；上瘾的人",
+      "context": "受购物成瘾困扰的人",
+      "ipa": "ʌdˈɪkts",
+      "pattern": "won’t make addicts of everyone"
+    },
+    "admit": {
+      "pos": "v.",
+      "meaning": "承认；准许进入",
+      "context": "承认自己成瘾",
+      "ipa": "ʌdmˈɪt",
+      "pattern": "Fewer people admit to having"
+    },
+    "afterwards": {
+      "pos": "adv.",
+      "meaning": "后来；随后",
+      "context": "购物兴奋之后的羞愧",
+      "ipa": "ˈæftɝwɝdz",
+      "pattern": "hit and afterwards the shame"
+    },
+    "also": {
+      "pos": "adv.",
+      "meaning": "也；还；同样",
+      "context": "补充另外一种影响",
+      "ipa": "ˈɔlsoʊ",
+      "pattern": "fun may also make it"
+    },
+    "amounts": {
+      "pos": "n. 复数",
+      "meaning": "数量；金额",
+      "context": "购物花费的金额",
+      "ipa": "ʌmˈaʊnts",
+      "pattern": "involves smaller amounts of money"
+    },
+    "an": {
+      "pos": "冠词",
+      "ipa": "ˈæn",
+      "meaning": "一个；一（元音音素前）",
+      "context": "一个",
+      "pattern": "Mark Griffiths, an addiction expert"
+    },
+    "and": {
+      "pos": "连词",
+      "ipa": "ˈænd",
+      "meaning": "和；并且；而且",
+      "context": "和",
+      "pattern": "colored button and bought something"
+    },
+    "any": {
+      "pos": "det./pron.",
+      "meaning": "任何；一些；无论哪一个",
+      "context": "表示任意监管努力",
+      "ipa": "ˈɛni",
+      "pattern": "However, any regulatory efforts"
+    },
+    "are": {
+      "pos": "系动词/助动词",
+      "ipa": "ˈɑːɹ",
+      "meaning": "是；处于；正在",
+      "context": "是",
+      "pattern": "you regretted? Are you hiding"
+    },
+    "around": {
+      "pos": "prep./adv.",
+      "meaning": "大约；在周围",
+      "context": "大约 5%",
+      "ipa": "ɝˈaʊnd",
+      "pattern": "is emerging around livestream shopping"
+    },
+    "as": {
+      "pos": "连词/介词/副词",
+      "ipa": "ˈæz",
+      "meaning": "因为；当……时；作为；像",
+      "context": "因为",
+      "pattern": "platforms such as TikTok are"
+    },
+    "asia": {
+      "pos": "专有名词",
+      "meaning": "亚洲",
+      "context": "亚洲研究者",
+      "ipa": "ˈeɪʒʌ",
+      "pattern": "researchers in Asia points to"
+    },
+    "associated": {
+      "pos": "v.-ed/adj.",
+      "meaning": "相关的；联系在一起的",
+      "context": "与愉悦感相关",
+      "ipa": "ʌsˈoʊsiˌeɪtɪd",
+      "pattern": "a chemical associated with pleasure"
+    },
+    "at": {
+      "pos": "prep.",
+      "meaning": "在；于；以",
+      "context": "表示时间或地点",
+      "ipa": "ˈæt",
+      "pattern": "media late at night, clicked"
+    },
+    "atmosphere": {
+      "pos": "n.",
+      "meaning": "气氛；氛围；大气",
+      "context": "直播购物的气氛",
+      "ipa": "ˈætmʌsfˌɪɹ",
+      "pattern": "The boring atmosphere during the"
+    },
+    "atmospheric": {
+      "pos": "adj.",
+      "meaning": "氛围的；大气的",
+      "context": "直播中的氛围线索",
+      "ipa": "ˌætmʌsfˈɛɹɪk",
+      "pattern": "points to “atmospheric cues” in"
+    },
+    "avis": {
+      "pos": "人名",
+      "meaning": "阿维斯",
+      "context": "购物者 Avis Cardella 的名字",
+      "ipa": "ˈeɪvɪs",
+      "pattern": "in debt. Avis Cardella, a"
+    },
+    "be": {
+      "pos": "动词",
+      "ipa": "bˈiː",
+      "meaning": "是；成为；存在",
+      "context": "是",
+      "pattern": "not to be taken lightly"
+    },
+    "because": {
+      "pos": "连词",
+      "meaning": "因为；由于",
+      "context": "因为",
+      "pattern": "Because these forms",
+      "ipa": "bɪkˈʌz"
+    },
+    "been": {
+      "pos": "v. 过去分词",
+      "meaning": "be 的过去分词；已经",
+      "context": "构成现在完成时被动语态",
+      "ipa": "bˈɪn",
+      "pattern": "papers have been published on"
+    },
+    "between": {
+      "pos": "prep.",
+      "meaning": "在……之间",
+      "context": "两类事物之间",
+      "ipa": "bɪtwˈin",
+      "pattern": "the lines between shopping and"
+    },
+    "blur": {
+      "pos": "v.",
+      "meaning": "使模糊；模糊",
+      "context": "模糊购物与娱乐界限",
+      "ipa": "blˈɝ",
+      "pattern": "features that blur the lines"
+    },
+    "boring": {
+      "pos": "形容词",
+      "ipa": "bˈoːɹɪŋ",
+      "meaning": "无聊的；乏味的",
+      "context": "无聊的",
+      "pattern": "The boring atmosphere during"
+    },
+    "bought": {
+      "pos": "v. 过去式",
+      "meaning": "买；购买",
+      "context": "冲动买下商品",
+      "ipa": "bˈɑt",
+      "pattern": "button and bought something you"
+    },
+    "brain": {
+      "pos": "n.",
+      "meaning": "大脑；脑",
+      "context": "购物影响的大脑",
+      "ipa": "bɹˈeɪn",
+      "pattern": "on the brain; it can"
+    },
+    "brands": {
+      "pos": "名词·复数",
+      "ipa": "bɹˈændz",
+      "meaning": "品牌",
+      "context": "品牌",
+      "pattern": "out”, which brands can exploit"
+    },
+    "brightly": {
+      "pos": "adv.",
+      "meaning": "明亮地；鲜艳地",
+      "context": "颜色鲜艳地",
+      "ipa": "bɹˈaɪtli",
+      "pattern": "on a brightly colored button"
+    },
+    "brings": {
+      "pos": "v. 三单",
+      "meaning": "带来；引起",
+      "context": "给用户带来压力",
+      "ipa": "bɹˈɪŋz",
+      "pattern": "community that brings pressure on"
+    },
+    "browsed": {
+      "pos": "v. 过去式",
+      "meaning": "浏览；随意查看",
+      "context": "深夜浏览社交媒体",
+      "ipa": "bɹˈaʊzd",
+      "pattern": "Have you browsed social media"
+    },
+    "business": {
+      "pos": "n.",
+      "meaning": "商业；生意；企业",
+      "context": "期刊名称《商业研究杂志》",
+      "ipa": "bˈɪznʌs",
+      "pattern": "Journal of Business Research linked"
+    },
+    "but": {
+      "pos": "conj.",
+      "meaning": "但是；然而",
+      "context": "引出与前句相反的信息",
+      "ipa": "bˈʌt",
+      "pattern": "and measure. But academic research"
+    },
+    "button": {
+      "pos": "n.",
+      "meaning": "按钮；纽扣",
+      "context": "网页上的购物按钮",
+      "ipa": "bˈʌtʌn",
+      "pattern": "brightly colored button and bought"
+    },
+    "buy": {
+      "pos": "动词",
+      "ipa": "bˈaɪ",
+      "meaning": "买；购买",
+      "context": "买",
+      "pattern": "people to buy"
+    },
+    "buying": {
+      "pos": "v.-ing",
+      "meaning": "购买；买进",
+      "context": "购买东西的行为",
+      "ipa": "bˈaɪɪŋ",
+      "pattern": "hosts turn buying things into"
+    },
+    "by": {
+      "pos": "介词",
+      "ipa": "bˈaɪ",
+      "meaning": "由；通过；到……为止",
+      "context": "由",
+      "pattern": "a game, by means of"
+    },
+    "can": {
+      "pos": "情态动词",
+      "meaning": "能够；可能；可以",
+      "context": "能够",
+      "pattern": "do, which can make addiction",
+      "ipa": "kˈæn"
+    },
+    "cardella": {
+      "pos": "人名",
+      "meaning": "卡德拉",
+      "context": "前购物狂的姓氏",
+      "ipa": "kˌɑɹdˈɛlʌ",
+      "pattern": "debt. Avis Cardella, a former"
+    },
+    "changing": {
+      "pos": "v.-ing",
+      "meaning": "改变；变化",
+      "context": "零售业正在变化",
+      "ipa": "tʃˈeɪndʒɪŋ",
+      "pattern": "Retail is changing. Social media"
+    },
+    "chats": {
+      "pos": "n. 复数",
+      "meaning": "聊天；谈话",
+      "context": "直播中的实时互动聊天",
+      "ipa": "tʃˈæts",
+      "pattern": "or live chats, that can"
+    },
+    "cheerful": {
+      "pos": "adj.",
+      "meaning": "开朗的；愉快的；热情的",
+      "context": "热情活泼的主播",
+      "ipa": "tʃˈɪɹfʌl",
+      "pattern": "shopping, where cheerful hosts turn"
+    },
+    "chemical": {
+      "pos": "n./adj.",
+      "meaning": "化学物质；化学的",
+      "context": "指多巴胺这种化学物质",
+      "ipa": "kˈɛmʌkʌl",
+      "pattern": "dopamine (多巴胺), a chemical associated with"
+    },
+    "clearer": {
+      "pos": "adj. 比较级",
+      "meaning": "更清楚的；更明显的",
+      "context": "更明显的生理症状",
+      "ipa": "klˈɪɹɝ",
+      "pattern": "addiction has clearer physical symptoms"
+    },
+    "clicked": {
+      "pos": "v. 过去式",
+      "meaning": "点击；按下",
+      "context": "点击购物按钮",
+      "ipa": "klˈɪkt",
+      "pattern": "at night, clicked on a"
+    },
+    "colored": {
+      "pos": "adj.",
+      "meaning": "有颜色的；彩色的",
+      "context": "色彩鲜艳的按钮",
+      "ipa": "kˈʌlɝd",
+      "pattern": "a brightly colored button and"
+    },
+    "community": {
+      "pos": "n.",
+      "meaning": "社区；社群；共同体",
+      "context": "社交平台上的社群感",
+      "ipa": "kʌmjˈunʌti",
+      "pattern": "sense of community on social"
+    },
+    "concerned": {
+      "pos": "adj.",
+      "meaning": "担心的；关切的",
+      "context": "监管者担忧新型零售",
+      "ipa": "kʌnsˈɝnd",
+      "pattern": "and researchers concerned about new"
+    },
+    "consumers": {
+      "pos": "名词·复数",
+      "ipa": "kənsˈuːmɚz",
+      "meaning": "消费者；顾客",
+      "context": "消费者",
+      "pattern": "unpopular with consumers. And technological"
+    },
+    "control": {
+      "pos": "n./v.",
+      "meaning": "控制；掌握；管理",
+      "context": "控制购物冲动；失控",
+      "ipa": "kʌntɹˈoʊl",
+      "pattern": "out of control"
+    },
+    "countries": {
+      "pos": "n. 复数",
+      "meaning": "国家",
+      "context": "研究覆盖的几个国家",
+      "ipa": "kˈʌntɹiz",
+      "pattern": "covering several countries has suggested"
+    },
+    "covering": {
+      "pos": "v.-ing",
+      "meaning": "覆盖；涉及；报道",
+      "context": "研究涵盖多个国家",
+      "ipa": "kˈʌvɝɪŋ",
+      "pattern": "academic research covering several countries"
+    },
+    "cues": {
+      "pos": "n. 复数",
+      "meaning": "提示；线索；暗示",
+      "context": "直播间诱导消费的氛围线索",
+      "ipa": "kjˈuz",
+      "pattern": "to “atmospheric cues” in livestreams"
+    },
+    "customer": {
+      "pos": "n.",
+      "meaning": "顾客；客户",
+      "context": "理想化顾客体验",
+      "ipa": "kˈʌstʌmɝ",
+      "pattern": "showcasing idealised customer experiences or"
+    },
+    "debt": {
+      "pos": "n.",
+      "meaning": "债务；负债",
+      "context": "陷入债务",
+      "ipa": "dˈɛt",
+      "pattern": "them in debt. Avis Cardella"
+    },
+    "decline": {
+      "pos": "n./v.",
+      "meaning": "下降；减少；衰退",
+      "context": "多巴胺水平下降",
+      "ipa": "dɪklˈaɪn",
+      "pattern": "then a decline in dopamine"
+    },
+    "deep": {
+      "pos": "adj.",
+      "meaning": "深的；强烈的；深层的",
+      "context": "深层心理需要",
+      "ipa": "dˈip",
+      "pattern": "satisfies people’s deep need for"
+    },
+    "demonstrations": {
+      "pos": "n. 复数",
+      "meaning": "演示；示范；展示",
+      "context": "直播中的互动演示",
+      "ipa": "dˌɛmʌnstɹˈeɪʃʌnz",
+      "pattern": "and interactive demonstrations. Regulators and"
+    },
+    "describes": {
+      "pos": "v. 三单",
+      "meaning": "描述；形容",
+      "context": "描述曾经的购物状态",
+      "ipa": "dɪskɹˈaɪbz",
+      "pattern": "former shopaholic (购物狂), describes the way"
+    },
+    "desire": {
+      "pos": "n./v.",
+      "meaning": "欲望；渴望；想要",
+      "context": "购买商品的欲望",
+      "ipa": "dɪzˈaɪɝ",
+      "pattern": "reduce people’s desire to buy"
+    },
+    "detectable": {
+      "pos": "adj.",
+      "meaning": "可察觉的；可检测到的",
+      "context": "可测得的大脑变化",
+      "ipa": "dɪtˈɛktʌbʌl",
+      "pattern": "has a detectable effect on"
+    },
+    "difficult": {
+      "pos": "adj.",
+      "meaning": "困难的；费力的",
+      "context": "识别购物成瘾很困难",
+      "ipa": "dˈɪfʌkʌlt",
+      "pattern": "addiction more difficult to identify"
+    },
+    "discounts": {
+      "pos": "n. 复数",
+      "meaning": "折扣；减价",
+      "context": "品牌提供的限时优惠",
+      "ipa": "dɪskˈaʊnts",
+      "pattern": "offering time-limited discounts. A paper"
+    },
+    "do": {
+      "pos": "助动词/动词",
+      "meaning": "做；实施；（疑问句助动词）",
+      "context": "做",
+      "pattern": "everyone must do, which can",
+      "ipa": "dˈuː"
+    },
+    "dopamine": {
+      "pos": "n.",
+      "meaning": "多巴胺",
+      "context": "与愉悦和奖励感有关的化学物质",
+      "ipa": "dˈɑpʌmˌaɪn",
+      "pattern": "decline in dopamine (多巴胺), a chemical"
+    },
+    "during": {
+      "pos": "prep.",
+      "meaning": "在……期间",
+      "context": "直播购物过程之中",
+      "ipa": "dˈʊɹɪŋ",
+      "pattern": "boring atmosphere during the live-stream"
+    },
+    "e-commerce": {
+      "pos": "n.",
+      "meaning": "电子商务；电商",
+      "context": "社交媒体的新购物功能",
+      "ipa": "ˈikˈɑmɝs",
+      "pattern": "are launching e-commerce features that"
+    },
+    "easy": {
+      "pos": "adj.",
+      "meaning": "容易的；轻松的",
+      "context": "购物操作方便",
+      "ipa": "ˈizi",
+      "pattern": "make shopping easy and fun"
+    },
+    "effect": {
+      "pos": "n.",
+      "meaning": "影响；效果；作用",
+      "context": "购物对大脑的影响",
+      "ipa": "ɪfˈɛkt",
+      "pattern": "a detectable effect on the"
+    },
+    "efforts": {
+      "pos": "n. 复数",
+      "meaning": "努力；尝试；举措",
+      "context": "监管举措",
+      "ipa": "ˈɛfɝts",
+      "pattern": "any regulatory efforts to reintroduce"
+    },
+    "emerging": {
+      "pos": "v.-ing",
+      "meaning": "出现；兴起；浮现",
+      "context": "直播购物行业正在兴起",
+      "ipa": "ɪmˈɝdʒɪŋ",
+      "pattern": "industry is emerging around livestream"
+    },
+    "encourage": {
+      "pos": "v.",
+      "meaning": "鼓励；促使；激励",
+      "context": "推动用户购买",
+      "ipa": "ɛnkˈɝɪdʒ",
+      "pattern": "that can encourage people to"
+    },
+    "enhancement": {
+      "pos": "n.",
+      "meaning": "增强；改进；提升",
+      "context": "改善购物体验",
+      "ipa": "ɛnhˈænsmʌnt",
+      "pattern": "exploitation and enhancement"
+    },
+    "entertaining": {
+      "pos": "adj.",
+      "meaning": "有趣的；娱乐性的",
+      "context": "主播生动有趣的讲解",
+      "ipa": "ˌɛntɝtˈeɪnɪŋ",
+      "pattern": "a host’s entertaining explanations or"
+    },
+    "entertainment": {
+      "pos": "n.",
+      "meaning": "娱乐；消遣",
+      "context": "购物与娱乐结合",
+      "ipa": "ˌɛntɝtˈeɪnmʌnt",
+      "pattern": "shopping and entertainment. A whole"
+    },
+    "escape": {
+      "pos": "v.",
+      "meaning": "逃离；逃避；摆脱",
+      "context": "暂时逃离现实压力",
+      "ipa": "ɪskˈeɪp",
+      "pattern": "people temporarily escape from real-life"
+    },
+    "everyone": {
+      "pos": "pron.",
+      "meaning": "每个人；人人",
+      "context": "每个人都必须购物",
+      "ipa": "ˈɛvɹiwˌʌn",
+      "pattern": "is something everyone must do"
+    },
+    "excitement": {
+      "pos": "n.",
+      "meaning": "兴奋；激动；刺激",
+      "context": "消费当下的兴奋感",
+      "ipa": "ɪksˈaɪtmʌnt",
+      "pattern": "It’s the excitement of the"
+    },
+    "experience": {
+      "pos": "n.",
+      "meaning": "经历；体验；经验",
+      "context": "购物体验",
+      "ipa": "ɪkspˈɪɹiʌns",
+      "pattern": "the shopping experience may be"
+    },
+    "experiences": {
+      "pos": "n. 复数",
+      "meaning": "经历；体验",
+      "context": "理想化顾客体验",
+      "ipa": "ɪkspˈɪɹiʌnsɪz",
+      "pattern": "idealised customer experiences or offering"
+    },
+    "expert": {
+      "pos": "n.",
+      "meaning": "专家；行家",
+      "context": "成瘾问题专家",
+      "ipa": "ˈɛkspɝt",
+      "pattern": "an addiction expert at Nottingham"
+    },
+    "explanation": {
+      "pos": "n.",
+      "meaning": "解释；说明",
+      "context": "心理治疗师对购物成瘾的解释",
+      "ipa": "ˌɛksplʌnˈeɪʃʌn",
+      "pattern": "Pamela Roberts’ explanation for shopping"
+    },
+    "explanations": {
+      "pos": "n. 复数",
+      "meaning": "解释；讲解",
+      "context": "直播主播的讲解",
+      "ipa": "ˌɛksplʌnˈeɪʃʌnz",
+      "pattern": "host’s entertaining explanations or live"
+    },
+    "exploit": {
+      "pos": "v.",
+      "meaning": "利用；剥削；开发",
+      "context": "品牌利用消费者的错失恐惧",
+      "ipa": "ˈɛksplˌɔɪt",
+      "pattern": "brands can exploit by showcasing"
+    },
+    "exploitation": {
+      "pos": "n.",
+      "meaning": "利用；剥削；占便宜",
+      "context": "对消费者心理的操纵利用",
+      "ipa": "ˌɛksplˌɔɪtˈeɪʃʌn",
+      "pattern": "line between exploitation and enhancement"
+    },
+    "extended": {
+      "pos": "adj.",
+      "meaning": "扩大的；延伸的；扩展的",
+      "context": "大家庭（extended family）",
+      "ipa": "ɪkstˈɛndʌd",
+      "pattern": "in large extended families"
+    },
+    "factor": {
+      "pos": "n.",
+      "meaning": "因素；要素",
+      "context": "促进消费的因素",
+      "ipa": "fˈæktɝ",
+      "pattern": "What factor may push"
+    },
+    "families": {
+      "pos": "n. 复数",
+      "meaning": "家庭；家人",
+      "context": "大家庭",
+      "ipa": "fˈæmʌliz",
+      "pattern": "large extended families"
+    },
+    "family": {
+      "pos": "n.",
+      "meaning": "家庭；家人",
+      "context": "向家人隐藏包裹",
+      "ipa": "fˈæmʌli",
+      "pattern": "from your family? Have you"
+    },
+    "famous": {
+      "pos": "形容词",
+      "ipa": "fˈeɪməs",
+      "meaning": "著名的；出名的",
+      "context": "著名的",
+      "pattern": "provided by famous brands"
+    },
+    "fear": {
+      "pos": "n./v.",
+      "meaning": "恐惧；担忧；害怕",
+      "context": "害怕错过优惠或社交体验",
+      "ipa": "fˈɪɹ",
+      "pattern": "with a “fear of missing"
+    },
+    "features": {
+      "pos": "n. 复数",
+      "meaning": "功能；特征；特色",
+      "context": "平台购物功能",
+      "ipa": "fˈitʃɝz",
+      "pattern": "launching e-commerce features that blur"
+    },
+    "feelings": {
+      "pos": "n. 复数",
+      "meaning": "感受；情绪",
+      "context": "购物后的负面情绪",
+      "ipa": "fˈilɪŋz",
+      "pattern": "by negative feelings"
+    },
+    "fewer": {
+      "pos": "det./adj.",
+      "meaning": "更少的（可数）",
+      "context": "更少的人",
+      "ipa": "fjˈuɝ",
+      "pattern": "Fewer people admit"
+    },
+    "financial": {
+      "pos": "adj.",
+      "meaning": "财务的；经济的；金融的",
+      "context": "现实经济压力",
+      "ipa": "fʌnˈænʃʌl",
+      "pattern": "from real-life financial pressures"
+    },
+    "fine": {
+      "pos": "adj.",
+      "meaning": "细微的；精细的；良好的",
+      "context": "微妙的界限",
+      "ipa": "fˈaɪn",
+      "pattern": "is a fine line between"
+    },
+    "first": {
+      "pos": "序数词/形容词",
+      "meaning": "第一；最初的",
+      "context": "第一",
+      "pattern": "from the first paragraph",
+      "ipa": "fˈɜːst"
+    },
+    "followed": {
+      "pos": "v. 过去分词",
+      "meaning": "跟随；接着发生",
+      "context": "快感之后出现负面情绪",
+      "ipa": "fˈɑloʊd",
+      "pattern": "short-term pleasure followed by negative"
+    },
+    "for": {
+      "pos": "介词/连词",
+      "ipa": "fˈɔːɹ",
+      "meaning": "为了；对于；因为；持续",
+      "context": "为了",
+      "pattern": "Roberts’ explanation for shopping addiction"
+    },
+    "former": {
+      "pos": "adj.",
+      "meaning": "以前的；前任的",
+      "context": "曾经的购物狂",
+      "ipa": "fˈɔɹmɝ",
+      "pattern": "Cardella, a former shopaholic (购物狂), describes"
+    },
+    "forms": {
+      "pos": "n. 复数",
+      "meaning": "形式；形态",
+      "context": "新型零售形式",
+      "ipa": "fˈɔɹmz",
+      "pattern": "new retail forms"
+    },
+    "frequently": {
+      "pos": "adv.",
+      "meaning": "频繁地；经常",
+      "context": "频繁展示商品",
+      "ipa": "fɹˈikwʌntli",
+      "pattern": "interactive demonstrations frequently"
+    },
+    "from": {
+      "pos": "介词",
+      "ipa": "fɹˈʌm",
+      "meaning": "从；来自；因为",
+      "context": "从",
+      "pattern": "hiding parcels from your family"
+    },
+    "fun": {
+      "pos": "n./adj.",
+      "meaning": "乐趣；有趣的",
+      "context": "让购物变得好玩",
+      "ipa": "fˈʌn",
+      "pattern": "easy and fun may also"
+    },
+    "gambling": {
+      "pos": "n.",
+      "meaning": "赌博",
+      "context": "与购物成瘾对比的赌博行为",
+      "ipa": "ɡˈæmbʌlɪŋ",
+      "pattern": "lightly. Unlike gambling, shopping is"
+    },
+    "game": {
+      "pos": "n.",
+      "meaning": "游戏；比赛",
+      "context": "把购物变成游戏",
+      "ipa": "ɡˈeɪm",
+      "pattern": "into a game, by means"
+    },
+    "get": {
+      "pos": "v.",
+      "meaning": "得到；获得；变得",
+      "context": "摆脱成瘾（get rid of）",
+      "ipa": "ɡˈɛt",
+      "pattern": "hard to get rid of"
+    },
+    "goods": {
+      "pos": "n. 复数",
+      "meaning": "货物；商品",
+      "context": "购买的物品并非成瘾核心",
+      "ipa": "ɡˈʊdz",
+      "pattern": "about the goods,” says Pamela"
+    },
+    "griffiths": {
+      "pos": "人名",
+      "meaning": "格里菲思",
+      "context": "专家 Mark Griffiths 的姓氏",
+      "ipa": "ɡɹˈɪfɪθs",
+      "pattern": "As Mark Griffiths, an addiction"
+    },
+    "happens": {
+      "pos": "v. 三单",
+      "meaning": "发生；碰巧",
+      "context": "购物成瘾发生",
+      "ipa": "hˈæpʌnz",
+      "pattern": "It only happens when people"
+    },
+    "hard": {
+      "pos": "adj./adv.",
+      "meaning": "艰难的；坚硬的；努力地",
+      "context": "难以戒除",
+      "ipa": "hˈɑɹd",
+      "pattern": "that is hard to get"
+    },
+    "harder": {
+      "pos": "adj. 比较级",
+      "meaning": "更难的",
+      "context": "更难抵制花钱冲动",
+      "ipa": "hˈɑɹdɝ",
+      "pattern": "making it harder to resist"
+    },
+    "has": {
+      "pos": "助动词/动词",
+      "ipa": "hˈæz",
+      "meaning": "有；已经（have 第三人称单数）",
+      "context": "有",
+      "pattern": "several countries has suggested that"
+    },
+    "have": {
+      "pos": "动词/助动词",
+      "ipa": "hˈæv",
+      "meaning": "有；拥有；已经",
+      "context": "有",
+      "pattern": "Have you browsed"
+    },
+    "having": {
+      "pos": "v.-ing",
+      "meaning": "有；拥有；经历",
+      "context": "承认有购物瘾",
+      "ipa": "hˈævɪŋ",
+      "pattern": "admit to having a shopping"
+    },
+    "heard": {
+      "pos": "v. 过去分词",
+      "meaning": "听见；听说",
+      "context": "是否听说过购物癖",
+      "ipa": "hˈɝd",
+      "pattern": "Have you heard of oniomania"
+    },
+    "helps": {
+      "pos": "动词·第三人称单数",
+      "ipa": "hˈɛlps",
+      "meaning": "帮助；有助于",
+      "context": "帮助",
+      "pattern": "It helps people temporarily"
+    },
+    "hiding": {
+      "pos": "v.-ing",
+      "meaning": "隐藏；躲藏",
+      "context": "向家人藏起包裹",
+      "ipa": "hˈaɪdɪŋ",
+      "pattern": "Are you hiding parcels from"
+    },
+    "high-quality": {
+      "pos": "adj.",
+      "meaning": "高质量的；优质的",
+      "context": "高品质商品",
+      "ipa": "hˌaɪkwˈɑlʌti",
+      "pattern": "about acquiring high-quality goods"
+    },
+    "hit": {
+      "pos": "n./v.",
+      "meaning": "冲击；一阵快感；击中",
+      "context": "多巴胺带来的强烈刺激",
+      "ipa": "hˈɪt",
+      "pattern": "the dopamine hit and afterwards"
+    },
+    "hosts": {
+      "pos": "n. 复数",
+      "meaning": "主持人；主播；主人",
+      "context": "直播带货的主播",
+      "ipa": "hˈoʊsts",
+      "pattern": "where cheerful hosts turn buying"
+    },
+    "host’s": {
+      "pos": "n. 所有格",
+      "meaning": "主播的；主持人的",
+      "context": "主播的讲解",
+      "ipa": "hˈoʊsts",
+      "pattern": "as a host’s entertaining explanations"
+    },
+    "however": {
+      "pos": "adv.",
+      "meaning": "然而；不过",
+      "context": "引出监管与消费体验的矛盾",
+      "ipa": "hˌaʊˈɛvɝ",
+      "pattern": "However, any regulatory"
+    },
+    "idealised": {
+      "pos": "adj.",
+      "meaning": "理想化的（英式拼写）",
+      "context": "品牌展示的理想化顾客体验",
+      "ipa": "aɪˈdɪəlaɪzd",
+      "pattern": "by showcasing idealised customer experiences"
+    },
+    "identify": {
+      "pos": "v.",
+      "meaning": "识别；确认；认出",
+      "context": "识别购物成瘾",
+      "ipa": "aɪdˈɛntʌfˌaɪ",
+      "pattern": "trickier to identify and measure"
+    },
+    "image": {
+      "pos": "n.",
+      "meaning": "形象；图像；印象",
+      "context": "理想化的消费者形象",
+      "ipa": "ˈɪmʌdʒ",
+      "pattern": "idealised customer image"
+    },
+    "impulse": {
+      "pos": "n.",
+      "meaning": "冲动；一时兴起",
+      "context": "冲动购物",
+      "ipa": "ˈɪmpʌls",
+      "pattern": "the odd impulse purchase; it"
+    },
+    "impulsive": {
+      "pos": "adj.",
+      "meaning": "冲动的；一时兴起的",
+      "context": "冲动性消费",
+      "ipa": "ˌɪmpˈʌlsɪv",
+      "pattern": "to control impulsive spending"
+    },
+    "in": {
+      "pos": "介词/副词",
+      "ipa": "ˈɪn",
+      "meaning": "在……里；处于；以……方式",
+      "context": "在……里",
+      "pattern": "leave them in debt. Avis"
+    },
+    "increase": {
+      "pos": "v.",
+      "meaning": "增加；提高",
+      "context": "增加购物压力",
+      "ipa": "ˌɪnkɹˈis",
+      "pattern": "recommendations, can increase people’s stress"
+    },
+    "industry": {
+      "pos": "n.",
+      "meaning": "行业；产业；工业",
+      "context": "直播购物产业",
+      "ipa": "ˈɪndʌstɹi",
+      "pattern": "A whole industry is emerging"
+    },
+    "innovations": {
+      "pos": "n. 复数",
+      "meaning": "创新；新方法",
+      "context": "创新购物功能",
+      "ipa": "ˌɪnʌvˈeɪʃʌnz",
+      "pattern": "that such innovations are making"
+    },
+    "interactive": {
+      "pos": "adj.",
+      "meaning": "互动的；交互式的",
+      "context": "主播与观众的互动演示",
+      "ipa": "ˌɪntɝˈæktɪv",
+      "pattern": "quizzes and interactive demonstrations. Regulators"
+    },
+    "into": {
+      "pos": "prep.",
+      "meaning": "进入；变成",
+      "context": "把购物变成游戏",
+      "ipa": "ˈɪntu",
+      "pattern": "buying things into a game"
+    },
+    "involves": {
+      "pos": "v. 三单",
+      "meaning": "包含；涉及；使参与",
+      "context": "涉及一定的花费",
+      "ipa": "ˌɪnvˈɑlvz",
+      "pattern": "Shopping involves smaller amounts"
+    },
+    "irresistible": {
+      "pos": "adj.",
+      "meaning": "无法抗拒的；极具诱惑力的",
+      "context": "难以克制的网购欲望",
+      "ipa": "ˌɪɹɪzˈɪstʌbʌl",
+      "pattern": "Research linked irresistible shopping online"
+    },
+    "is": {
+      "pos": "系动词/助动词",
+      "ipa": "ˈɪz",
+      "meaning": "是；存在；处于",
+      "context": "是",
+      "pattern": "Retail is changing. Social"
+    },
+    "it": {
+      "pos": "代词",
+      "meaning": "它；这；那",
+      "context": "它",
+      "pattern": "are making it harder to",
+      "ipa": "ˈɪt"
+    },
+    "it’s": {
+      "pos": "缩写",
+      "meaning": "it is／it has 的缩写",
+      "context": "引语中的“这是……”",
+      "ipa": "ˈɪts",
+      "pattern": "with pleasure. “It’s not about"
+    },
+    "journal": {
+      "pos": "n.",
+      "meaning": "期刊；杂志；日志",
+      "context": "学术期刊",
+      "ipa": "dʒˈɝnʌl",
+      "pattern": "in the Journal of Business"
+    },
+    "just": {
+      "pos": "adv.",
+      "meaning": "仅仅；只是；刚刚",
+      "context": "不仅是偶尔的冲动购物",
+      "ipa": "dʒˈʌst",
+      "pattern": "more than just the odd"
+    },
+    "kind": {
+      "pos": "n./adj.",
+      "meaning": "种类；类型；友善的",
+      "context": "某一种成瘾",
+      "ipa": "kˈaɪnd",
+      "pattern": "is a kind of gambling"
+    },
+    "lack": {
+      "pos": "n./v.",
+      "meaning": "缺乏；不足；没有",
+      "context": "缺少评价和推荐",
+      "ipa": "lˈæk",
+      "pattern": "The lack of product"
+    },
+    "large": {
+      "pos": "adj.",
+      "meaning": "大的；大量的",
+      "context": "大家庭",
+      "ipa": "lˈɑɹdʒ",
+      "pattern": "occurs in large extended families"
+    },
+    "late": {
+      "pos": "形容词/副词",
+      "ipa": "lˈeɪt",
+      "meaning": "晚的；迟的；后期的",
+      "context": "晚的",
+      "pattern": "social media late at night"
+    },
+    "lately": {
+      "pos": "adv.",
+      "meaning": "最近；近来",
+      "context": "最近发表了许多论文",
+      "ipa": "lˈeɪtli",
+      "pattern": "to spend. Lately a lot"
+    },
+    "launching": {
+      "pos": "v.-ing",
+      "meaning": "推出；发布；发起",
+      "context": "平台推出电商功能",
+      "ipa": "lˈɔntʃɪŋ",
+      "pattern": "TikTok are launching e-commerce features"
+    },
+    "lead": {
+      "pos": "v.",
+      "meaning": "导致；引领；带领",
+      "context": "导致多巴胺变化",
+      "ipa": "lˈɛd",
+      "pattern": "it can lead to a"
+    },
+    "learn": {
+      "pos": "动词",
+      "meaning": "学习；获知；了解到",
+      "context": "学习",
+      "pattern": "do we learn about oniomania",
+      "ipa": "lˈɜːn"
+    },
+    "leave": {
+      "pos": "v.",
+      "meaning": "使处于；留下；离开",
+      "context": "使人背负债务",
+      "ipa": "lˈiv",
+      "pattern": "relationships and leave them in"
+    },
+    "lightly": {
+      "pos": "adv.",
+      "meaning": "轻率地；轻微地",
+      "context": "不应轻视成瘾问题",
+      "ipa": "lˈaɪtli",
+      "pattern": "be taken lightly. Unlike gambling"
+    },
+    "line": {
+      "pos": "n.",
+      "meaning": "线；界限；分界",
+      "context": "微妙的界限",
+      "ipa": "lˈaɪn",
+      "pattern": "a fine line between exploitation"
+    },
+    "lines": {
+      "pos": "n. 复数",
+      "meaning": "线条；界线；边界",
+      "context": "购物与娱乐的边界",
+      "ipa": "lˈaɪnz",
+      "pattern": "blur the lines between shopping"
+    },
+    "linked": {
+      "pos": "v. 过去式",
+      "meaning": "联系；关联；连接",
+      "context": "研究把购物与错失恐惧联系起来",
+      "ipa": "lˈɪŋkt",
+      "pattern": "Business Research linked irresistible shopping"
+    },
+    "live": {
+      "pos": "adj./adv./v.",
+      "meaning": "直播的；现场直播地；生活",
+      "context": "实时聊天",
+      "ipa": "lˈaɪv",
+      "pattern": "explanations or live chats, that"
+    },
+    "live-stream": {
+      "pos": "adj.",
+      "meaning": "直播的",
+      "context": "直播购物过程",
+      "ipa": "ˈlaɪv striːm",
+      "pattern": "during the live-stream shopping process"
+    },
+    "livestream": {
+      "pos": "n./v.",
+      "meaning": "直播；网络直播",
+      "context": "直播购物",
+      "ipa": "ˈlaɪvstriːm",
+      "pattern": "emerging around livestream shopping, where"
+    },
+    "livestreams": {
+      "pos": "n. 复数",
+      "meaning": "直播节目；直播间",
+      "context": "购物直播中",
+      "ipa": "ˈlaɪvstriːmz",
+      "pattern": "cues” in livestreams, such as"
+    },
+    "long-term": {
+      "pos": "adj.",
+      "meaning": "长期的",
+      "context": "长期优惠（干扰选项）",
+      "ipa": "lˈɔŋtˈɝm",
+      "pattern": "The long-term discounts provided"
+    },
+    "lot": {
+      "pos": "n.",
+      "meaning": "许多；大量；一批",
+      "context": "大量学术论文",
+      "ipa": "lˈɑt",
+      "pattern": "Lately a lot of academic"
+    },
+    "mainly": {
+      "pos": "adv.",
+      "meaning": "主要地；大体上",
+      "context": "主要与商品有关（干扰选项）",
+      "ipa": "mˈeɪnli",
+      "pattern": "It is mainly about acquiring"
+    },
+    "make": {
+      "pos": "动词",
+      "meaning": "制作；使得；造成",
+      "context": "制作",
+      "pattern": "which can make addiction trickier",
+      "ipa": "mˈeɪk"
+    },
+    "makes": {
+      "pos": "v. 三单",
+      "meaning": "使；制造；导致",
+      "context": "使购物更难控制",
+      "ipa": "mˈeɪks",
+      "pattern": "What makes shopping addiction"
+    },
+    "making": {
+      "pos": "v.-ing",
+      "meaning": "使；制造；进行",
+      "context": "使得抵制消费更困难",
+      "ipa": "mˈeɪkɪŋ",
+      "pattern": "innovations are making it harder"
+    },
+    "mark": {
+      "pos": "人名/n.",
+      "meaning": "马克；标记",
+      "context": "专家 Mark Griffiths 的名",
+      "ipa": "mˈɑɹk",
+      "pattern": "everyone. As Mark Griffiths, an"
+    },
+    "may": {
+      "pos": "名词/情态动词",
+      "ipa": "mˈeɪ",
+      "meaning": "五月；可能；可以",
+      "context": "五月",
+      "pattern": "and fun may also make"
+    },
+    "means": {
+      "pos": "n. 复数",
+      "meaning": "方式；手段；方法",
+      "context": "通过某种方式",
+      "ipa": "mˈinz",
+      "pattern": "game, by means of quizzes"
+    },
+    "measure": {
+      "pos": "v./n.",
+      "meaning": "衡量；测量；措施",
+      "context": "衡量成瘾程度",
+      "ipa": "mˈɛʒɝ",
+      "pattern": "identify and measure. But academic"
+    },
+    "media": {
+      "pos": "名词·复数或集合名词",
+      "ipa": "mˈiːdiːə",
+      "meaning": "媒体；媒介",
+      "context": "媒体",
+      "pattern": "browsed social media late at"
+    },
+    "mental": {
+      "pos": "形容词",
+      "ipa": "mˈɛntəl",
+      "meaning": "精神的；心理的；智力的",
+      "context": "精神的",
+      "pattern": "a rare mental problem that"
+    },
+    "missing": {
+      "pos": "v.-ing/adj.",
+      "meaning": "错过；未得到的；缺失的",
+      "context": "怕错过机会（FOMO）",
+      "ipa": "mˈɪsɪŋ",
+      "pattern": "fear of missing out”, which"
+    },
+    "money": {
+      "pos": "n.",
+      "meaning": "金钱；钱款",
+      "context": "购物花费的钱",
+      "ipa": "mˈʌni",
+      "pattern": "amounts of money"
+    },
+    "more": {
+      "pos": "限定词/副词/形容词",
+      "ipa": "mˈoːɹ",
+      "meaning": "更多的；更加",
+      "context": "更多的",
+      "pattern": "It is more than just"
+    },
+    "must": {
+      "pos": "modal v.",
+      "meaning": "必须；一定",
+      "context": "人人必须购物",
+      "ipa": "mˈʌst",
+      "pattern": "something everyone must do, which"
+    },
+    "necessary": {
+      "pos": "adj.",
+      "meaning": "必要的；必需的",
+      "context": "日常不可缺少的活动",
+      "ipa": "nˈɛsʌsˌɛɹi",
+      "pattern": "is a necessary activity for"
+    },
+    "need": {
+      "pos": "n./v.",
+      "meaning": "需要；需求；必须",
+      "context": "心理上的需要",
+      "ipa": "nˈid",
+      "pattern": "people’s deep need for the"
+    },
+    "negative": {
+      "pos": "adj.",
+      "meaning": "负面的；消极的",
+      "context": "购物后出现的不良情绪",
+      "ipa": "nˈɛɡʌtɪv",
+      "pattern": "followed by negative feelings"
+    },
+    "new": {
+      "pos": "形容词",
+      "ipa": "nˈuː",
+      "meaning": "新的；新出现的",
+      "context": "新的",
+      "pattern": "concerned about new retail forms"
+    },
+    "night": {
+      "pos": "n.",
+      "meaning": "夜晚；夜间",
+      "context": "深夜浏览平台",
+      "ipa": "nˈaɪt",
+      "pattern": "late at night, clicked on"
+    },
+    "not": {
+      "pos": "adv.",
+      "meaning": "不；并非",
+      "context": "否定陈述",
+      "ipa": "nˈɑt",
+      "pattern": "problem is not to be"
+    },
+    "nottingham": {
+      "pos": "专有名词",
+      "meaning": "诺丁汉（英国城市）",
+      "context": "诺丁汉特伦特大学",
+      "ipa": "nˈɑtɪŋhˌæm",
+      "pattern": "expert at Nottingham Trent University"
+    },
+    "occurs": {
+      "pos": "v. 三单",
+      "meaning": "发生；出现",
+      "context": "某事发生",
+      "ipa": "ʌkˈɝz",
+      "pattern": "that only occurs in large"
+    },
+    "odd": {
+      "pos": "adj.",
+      "meaning": "偶尔的；零星的；奇怪的",
+      "context": "偶尔的冲动购买",
+      "ipa": "ˈɑd",
+      "pattern": "just the odd impulse purchase"
+    },
+    "of": {
+      "pos": "介词",
+      "ipa": "ˈʌv",
+      "meaning": "……的；由……组成；关于",
+      "context": "……的",
+      "pattern": "you heard of oniomania (购买癖), or"
+    },
+    "offering": {
+      "pos": "v.-ing",
+      "meaning": "提供；给予",
+      "context": "提供限时折扣",
+      "ipa": "ˈɔfɝɪŋ",
+      "pattern": "experiences or offering time-limited discounts"
+    },
+    "on": {
+      "pos": "介词/副词",
+      "ipa": "ˈɑːn",
+      "meaning": "在……上；在某日；关于",
+      "context": "在……上",
+      "pattern": "night, clicked on a brightly"
+    },
+    "oniomania": {
+      "pos": "n.",
+      "meaning": "购物癖；强迫性购物",
+      "context": "非理性购物成瘾问题",
+      "ipa": "",
+      "pattern": "heard of oniomania (购买癖), or shopping"
+    },
+    "online": {
+      "pos": "adv./adj.",
+      "meaning": "在线的；网上的",
+      "context": "网络购物",
+      "ipa": "ˈɔnlˌaɪn",
+      "pattern": "irresistible shopping online with a"
+    },
+    "only": {
+      "pos": "副词/形容词",
+      "ipa": "ˈoʊnli",
+      "meaning": "仅仅；只有；唯一的",
+      "context": "仅仅",
+      "pattern": "problem that only occurs in"
+    },
+    "or": {
+      "pos": "连词",
+      "ipa": "ˈɔːɹ",
+      "meaning": "或；或者；否则",
+      "context": "或",
+      "pattern": "of oniomania (购买癖), or shopping addiction"
+    },
+    "out": {
+      "pos": "副词/介词",
+      "ipa": "ˈaʊt",
+      "meaning": "向外；外面；不在",
+      "context": "向外",
+      "pattern": "absent-minded” and “out of control"
+    },
+    "pamela": {
+      "pos": "人名",
+      "meaning": "帕梅拉",
+      "context": "心理治疗师 Pamela Roberts 的名",
+      "ipa": "pˈæmʌlʌ",
+      "pattern": "goods,” says Pamela Roberts, a"
+    },
+    "paper": {
+      "pos": "n.",
+      "meaning": "论文；报纸；纸张",
+      "context": "一篇研究论文",
+      "ipa": "pˈeɪpɝ",
+      "pattern": "spend. A paper published this"
+    },
+    "papers": {
+      "pos": "n. 复数",
+      "meaning": "论文；报纸",
+      "context": "学术研究论文",
+      "ipa": "pˈeɪpɝz",
+      "pattern": "of academic papers have been"
+    },
+    "paragraph": {
+      "pos": "名词",
+      "meaning": "段落",
+      "context": "段落",
+      "pattern": "the first paragraph",
+      "ipa": "pˈæɹəɡɹˌæf"
+    },
+    "parcels": {
+      "pos": "n. 复数",
+      "meaning": "包裹；邮包",
+      "context": "购物快递包裹",
+      "ipa": "pˈɑɹsʌlz",
+      "pattern": "you hiding parcels from your"
+    },
+    "people": {
+      "pos": "名词·复数",
+      "ipa": "pˈiːpəl",
+      "meaning": "人们；大众",
+      "context": "人们",
+      "pattern": "5% of people suffer from"
+    },
+    "people’s": {
+      "pos": "名词·所有格",
+      "ipa": "pˈiːpəlz",
+      "meaning": "人们的；某些人的",
+      "context": "人们的",
+      "pattern": "can ruin people’s relationships and"
+    },
+    "physical": {
+      "pos": "adj.",
+      "meaning": "身体的；物理的",
+      "context": "身体症状（干扰选项）",
+      "ipa": "fˈɪzɪkʌl",
+      "pattern": "has clearer physical symptoms"
+    },
+    "platforms": {
+      "pos": "n. 复数",
+      "meaning": "平台；站台",
+      "context": "社交媒体平台",
+      "ipa": "plˈætfˌɔɹmz",
+      "pattern": "Social media platforms such as"
+    },
+    "pleasure": {
+      "pos": "n.",
+      "meaning": "快乐；愉悦；快感",
+      "context": "多巴胺相关的愉悦感",
+      "ipa": "plˈɛʒɝ",
+      "pattern": "associated with pleasure. “It’s not"
+    },
+    "points": {
+      "pos": "v. 三单/n.",
+      "meaning": "指出；指向；要点",
+      "context": "研究指出某种因素",
+      "ipa": "pˈɔɪnts",
+      "pattern": "in Asia points to “atmospheric"
+    },
+    "pressure": {
+      "pos": "n.",
+      "meaning": "压力；压迫",
+      "context": "社交平台带来的心理压力",
+      "ipa": "pɹˈɛʃɝ",
+      "pattern": "that brings pressure on users"
+    },
+    "pressures": {
+      "pos": "n. 复数",
+      "meaning": "压力；负担",
+      "context": "经济压力",
+      "ipa": "pɹˈɛʃɝz",
+      "pattern": "real-life financial pressures"
+    },
+    "problem": {
+      "pos": "n.",
+      "meaning": "问题；难题",
+      "context": "购物成瘾问题",
+      "ipa": "pɹˈɑblʌm",
+      "pattern": "The problem is not"
+    },
+    "process": {
+      "pos": "n.",
+      "meaning": "过程；程序",
+      "context": "直播购物的过程",
+      "ipa": "pɹˈɑsˌɛs",
+      "pattern": "live-stream shopping process"
+    },
+    "product": {
+      "pos": "n.",
+      "meaning": "产品；商品",
+      "context": "商品评价",
+      "ipa": "pɹˈɑdʌkt",
+      "pattern": "lack of product reviews and"
+    },
+    "prompt": {
+      "pos": "v.",
+      "meaning": "促使；推动；提示",
+      "context": "促使用户花钱",
+      "ipa": "pɹˈɑmpt",
+      "pattern": "stress and prompt them to"
+    },
+    "provide": {
+      "pos": "动词",
+      "meaning": "提供；供给；给予",
+      "context": "提供",
+      "pattern": "these forms provide interactive demonstrations",
+      "ipa": "pɹəvˈaɪd"
+    },
+    "provided": {
+      "pos": "v. 过去分词",
+      "meaning": "提供；给予",
+      "context": "品牌提供的折扣",
+      "ipa": "pɹʌvˈaɪdɪd",
+      "pattern": "long-term discounts provided by famous"
+    },
+    "provides": {
+      "pos": "v. 三单",
+      "meaning": "提供；供应",
+      "context": "带来短暂快乐",
+      "ipa": "pɹʌvˈaɪdz",
+      "pattern": "It provides a short-term"
+    },
+    "psychotherapist": {
+      "pos": "n.",
+      "meaning": "心理治疗师",
+      "context": "解释成瘾机制的治疗专家",
+      "ipa": "sˌaɪkʌθˈɛɹʌpɪst",
+      "pattern": "Roberts, a psychotherapist. “It’s the"
+    },
+    "published": {
+      "pos": "v. 过去分词",
+      "meaning": "发表；出版；发布",
+      "context": "学术论文发表",
+      "ipa": "pˈʌblɪʃt",
+      "pattern": "have been published on shopping"
+    },
+    "purchase": {
+      "pos": "n./v.",
+      "meaning": "购买；采购；购买行为",
+      "context": "冲动购买",
+      "ipa": "pˈɝtʃʌs",
+      "pattern": "odd impulse purchase; it can"
+    },
+    "purchases": {
+      "pos": "n. 复数/v.",
+      "meaning": "购买行为；采购",
+      "context": "购物行为",
+      "ipa": "pˈɝtʃʌsʌz",
+      "pattern": "would make purchases as “absent-minded"
+    },
+    "push": {
+      "pos": "v.",
+      "meaning": "促使；推动；推",
+      "context": "推动用户消费",
+      "ipa": "pˈʊʃ",
+      "pattern": "factor may push people to"
+    },
+    "puts": {
+      "pos": "v. 三单",
+      "meaning": "表达；陈述；放置",
+      "context": "如专家所说",
+      "ipa": "pˈʊts",
+      "pattern": "Trent University, puts it: “There"
+    },
+    "quizzes": {
+      "pos": "n. 复数",
+      "meaning": "小测验；问答游戏",
+      "context": "直播中的互动问答",
+      "ipa": "kwˈɪzɪz",
+      "pattern": "means of quizzes and interactive"
+    },
+    "rare": {
+      "pos": "adj.",
+      "meaning": "罕见的；稀有的",
+      "context": "罕见疾病（干扰选项）",
+      "ipa": "ɹˈɛɹ",
+      "pattern": "is a rare mental problem"
+    },
+    "real-life": {
+      "pos": "adj.",
+      "meaning": "现实生活中的",
+      "context": "现实世界的经济压力",
+      "ipa": "ɹˈillˌaɪf",
+      "pattern": "escape from real-life financial pressures"
+    },
+    "recommendations": {
+      "pos": "n. 复数",
+      "meaning": "推荐；建议",
+      "context": "用户分享购物建议",
+      "ipa": "ɹˌɛkʌmʌndˈeɪʃʌnz",
+      "pattern": "reviews and recommendations, can increase"
+    },
+    "reduce": {
+      "pos": "v.",
+      "meaning": "减少；降低",
+      "context": "降低购买欲望（干扰项）",
+      "ipa": "ɹʌdˈus",
+      "pattern": "these forms reduce people’s desire"
+    },
+    "refers": {
+      "pos": "v. 三单",
+      "meaning": "指的是；提及",
+      "context": "指购物成瘾",
+      "ipa": "ɹʌfˈɝz",
+      "pattern": "It refers to the"
+    },
+    "regretful": {
+      "pos": "adj.",
+      "meaning": "后悔的；遗憾的",
+      "context": "买后感到后悔",
+      "ipa": "ɹɪɡɹˈɛtfʌl",
+      "pattern": "makes people regretful"
+    },
+    "regretted": {
+      "pos": "v. 过去式",
+      "meaning": "后悔；懊悔",
+      "context": "对买下的东西感到后悔",
+      "ipa": "ɹɪɡɹˈɛtɪd",
+      "pattern": "something you regretted? Are you"
+    },
+    "regulators": {
+      "pos": "n. 复数",
+      "meaning": "监管者；监管机构",
+      "context": "关注消费成瘾的监管人员",
+      "ipa": "ɹˈɛɡjʌlˌeɪtɝz",
+      "pattern": "interactive demonstrations. Regulators and researchers"
+    },
+    "regulatory": {
+      "pos": "adj.",
+      "meaning": "监管的；管理的",
+      "context": "监管措施",
+      "ipa": "ɹˈɛɡjʌlʌtˌɔɹi",
+      "pattern": "However, any regulatory efforts to"
+    },
+    "reintroduce": {
+      "pos": "v.",
+      "meaning": "重新引入；再度采用",
+      "context": "重新设置购物障碍",
+      "ipa": "ɹˌiɪntɹʌdˈus",
+      "pattern": "efforts to reintroduce resistance into"
+    },
+    "relationships": {
+      "pos": "n. 复数",
+      "meaning": "关系；人际关系",
+      "context": "人际关系受成瘾破坏",
+      "ipa": "ɹilˈeɪʃʌnʃˌɪps",
+      "pattern": "ruin people’s relationships and leave"
+    },
+    "research": {
+      "pos": "n./v.",
+      "meaning": "研究；调查",
+      "context": "关于购物成瘾的研究",
+      "ipa": "ɹisˈɝtʃ",
+      "pattern": "But academic research covering several"
+    },
+    "researchers": {
+      "pos": "n. 复数",
+      "meaning": "研究人员；研究者",
+      "context": "研究购物行为的学者",
+      "ipa": "ɹˈisɝtʃɝz",
+      "pattern": "Regulators and researchers are worried"
+    },
+    "resist": {
+      "pos": "v.",
+      "meaning": "抵制；抗拒；忍住",
+      "context": "抵制花钱冲动",
+      "ipa": "ɹɪzˈɪst",
+      "pattern": "harder to resist the urge"
+    },
+    "resistance": {
+      "pos": "n.",
+      "meaning": "抵抗；阻力；抗拒",
+      "context": "购物过程中的消费阻力",
+      "ipa": "ɹɪzˈɪstʌns",
+      "pattern": "to reintroduce resistance into the"
+    },
+    "retail": {
+      "pos": "n./v.",
+      "meaning": "零售；零售业",
+      "context": "零售行业的变化",
+      "ipa": "ɹˈitˌeɪl",
+      "pattern": "Retail is changing"
+    },
+    "reviews": {
+      "pos": "n. 复数",
+      "meaning": "评论；评价；评测",
+      "context": "用户发布商品评价",
+      "ipa": "ɹivjˈuz",
+      "pattern": "users share reviews and recommendations"
+    },
+    "rid": {
+      "pos": "adj./v. 过去式",
+      "meaning": "摆脱；除掉",
+      "context": "摆脱购物成瘾",
+      "ipa": "ɹˈɪd",
+      "pattern": "to get rid of"
+    },
+    "roberts": {
+      "pos": "人名",
+      "meaning": "罗伯茨",
+      "context": "心理治疗师的姓氏",
+      "ipa": "ɹˈɑbɝts",
+      "pattern": "says Pamela Roberts, a psychotherapist"
+    },
+    "roberts’": {
+      "pos": "人名所有格",
+      "meaning": "罗伯茨的",
+      "context": "心理治疗师罗伯茨的解释",
+      "ipa": "ɹˈɑbɝts",
+      "pattern": "is Pamela Roberts’ explanation for"
+    },
+    "ruin": {
+      "pos": "v.",
+      "meaning": "毁坏；破坏；使破产",
+      "context": "破坏人际关系",
+      "ipa": "ɹˈuʌn",
+      "pattern": "it can ruin people’s relationships"
+    },
+    "satisfies": {
+      "pos": "v. 三单",
+      "meaning": "使满足；符合",
+      "context": "满足某种需求（选项说法）",
+      "ipa": "sˈætɪsfˌaɪz",
+      "pattern": "It satisfies people’s deep"
+    },
+    "says": {
+      "pos": "动词·第三人称单数",
+      "ipa": "sˈɛz",
+      "meaning": "说；表示；写道",
+      "context": "说",
+      "pattern": "the goods,” says Pamela Roberts"
+    },
+    "sense": {
+      "pos": "n.",
+      "meaning": "感觉；意识；意义",
+      "context": "社群归属感",
+      "ipa": "sˈɛns",
+      "pattern": "suggests the sense of community"
+    },
+    "several": {
+      "pos": "det./adj.",
+      "meaning": "几个；若干",
+      "context": "多个国家",
+      "ipa": "sˈɛvɹʌl",
+      "pattern": "research covering several countries has"
+    },
+    "shame": {
+      "pos": "n.",
+      "meaning": "羞愧；羞耻",
+      "context": "购物后的羞愧感",
+      "ipa": "ʃˈeɪm",
+      "pattern": "afterwards the shame"
+    },
+    "share": {
+      "pos": "v.",
+      "meaning": "分享；分担",
+      "context": "分享评价与推荐",
+      "ipa": "ʃˈɛɹ",
+      "pattern": "where users share reviews and"
+    },
+    "she": {
+      "pos": "代词",
+      "ipa": "ʃˈiː",
+      "meaning": "她",
+      "context": "她",
+      "pattern": "the way she would make"
+    },
+    "shop": {
+      "pos": "v./n.",
+      "meaning": "购物；商店",
+      "context": "在平台上购物",
+      "ipa": "ʃˈɑp",
+      "pattern": "when people shop in social"
+    },
+    "shopaholic": {
+      "pos": "n.",
+      "meaning": "购物狂；购物成瘾者",
+      "context": "曾经的购物狂",
+      "ipa": "ˌʃɑːpəˈhɔːlɪk",
+      "pattern": "a former shopaholic (购物狂), describes the"
+    },
+    "shopping": {
+      "pos": "n./v.-ing",
+      "meaning": "购物；购买商品",
+      "context": "购物成瘾和直播购物",
+      "ipa": "ʃˈɑpɪŋ",
+      "pattern": "oniomania (购买癖), or shopping addiction"
+    },
+    "short-term": {
+      "pos": "adj.",
+      "meaning": "短期的；短暂的",
+      "context": "短期快感",
+      "ipa": "ʃˌɔɹttˈɝm",
+      "pattern": "provides a short-term pleasure followed"
+    },
+    "showcasing": {
+      "pos": "v.-ing",
+      "meaning": "展示；突出呈现",
+      "context": "展示理想化顾客体验",
+      "ipa": "ʃˈoʊkeɪsɪŋ",
+      "pattern": "exploit by showcasing idealised customer"
+    },
+    "smaller": {
+      "pos": "adj. 比较级",
+      "meaning": "较小的；更少的",
+      "context": "购物金额较小（干扰项）",
+      "ipa": "smˈɔlɝ",
+      "pattern": "Shopping involves smaller amounts of"
+    },
+    "social": {
+      "pos": "形容词",
+      "ipa": "sˈoʊʃəl",
+      "meaning": "社会的；社交的",
+      "context": "社会的",
+      "pattern": "you browsed social media late"
+    },
+    "something": {
+      "pos": "pron.",
+      "meaning": "某事；某物；一些东西",
+      "context": "买下的某个物品",
+      "ipa": "sˈʌmθɪŋ",
+      "pattern": "and bought something you regretted"
+    },
+    "spend": {
+      "pos": "v./n.",
+      "meaning": "花钱；花费；支出",
+      "context": "购物支出、消费刺激",
+      "ipa": "spˈɛnd",
+      "pattern": "urge to spend. Lately a"
+    },
+    "spending": {
+      "pos": "n./v.-ing",
+      "meaning": "花费；开支；支出",
+      "context": "冲动消费",
+      "ipa": "spˈɛndɪŋ",
+      "pattern": "control impulsive spending"
+    },
+    "stress": {
+      "pos": "n.",
+      "meaning": "压力；紧张",
+      "context": "社交比较引发的压力",
+      "ipa": "stɹˈɛs",
+      "pattern": "increase people’s stress and prompt"
+    },
+    "such": {
+      "pos": "det./adj.",
+      "meaning": "这样的；如此的；例如",
+      "context": "这类创新或举例",
+      "ipa": "sˈʌtʃ",
+      "pattern": "media platforms such as TikTok"
+    },
+    "suffer": {
+      "pos": "v.",
+      "meaning": "遭受；忍受；患有",
+      "context": "患购物成瘾",
+      "ipa": "sˈʌfɝ",
+      "pattern": "of people suffer from oniomania"
+    },
+    "suggested": {
+      "pos": "v. 过去分词",
+      "meaning": "表明；暗示；建议",
+      "context": "学术研究表明",
+      "ipa": "sʌdʒˈɛstɪd",
+      "pattern": "countries has suggested that around"
+    },
+    "suggests": {
+      "pos": "v. 三单",
+      "meaning": "表明；暗示；建议",
+      "context": "研究显示某种关系",
+      "ipa": "sʌdʒˈɛsts",
+      "pattern": "Research suggests the sense"
+    },
+    "surge": {
+      "pos": "n./v.",
+      "meaning": "激增；猛增",
+      "context": "多巴胺水平激增",
+      "ipa": "sˈɝdʒ",
+      "pattern": "to a surge then a"
+    },
+    "symptoms": {
+      "pos": "n. 复数",
+      "meaning": "症状；征兆",
+      "context": "身体症状（选项说法）",
+      "ipa": "sˈɪmptʌmz",
+      "pattern": "clearer physical symptoms"
+    },
+    "taken": {
+      "pos": "v. 过去分词",
+      "meaning": "拿；采取；对待",
+      "context": "不应轻视问题",
+      "ipa": "tˈeɪkʌn",
+      "pattern": "to be taken lightly. Unlike"
+    },
+    "technological": {
+      "pos": "adj.",
+      "meaning": "技术的；科技的",
+      "context": "平台采用的技术手段",
+      "ipa": "tˌɛknʌlˈɑdʒɪkʌl",
+      "pattern": "consumers. And technological tricks won’t"
+    },
+    "temporarily": {
+      "pos": "adv.",
+      "meaning": "暂时地；短时间内",
+      "context": "暂时逃避压力",
+      "ipa": "tˌɛmpɝˈɛɹʌli",
+      "pattern": "helps people temporarily escape from"
+    },
+    "than": {
+      "pos": "连词/介词",
+      "ipa": "ðˈɐn",
+      "meaning": "比；较之；而不是",
+      "context": "比",
+      "pattern": "is more than just the"
+    },
+    "that": {
+      "pos": "连词/代词/限定词",
+      "ipa": "ðˈæt",
+      "meaning": "那；那个；……这一事实",
+      "context": "那",
+      "pattern": "e-commerce features that blur the"
+    },
+    "the": {
+      "pos": "定冠词",
+      "ipa": "ðˈə",
+      "meaning": "这；那；特指的人或事物",
+      "context": "这",
+      "pattern": "that blur the lines between"
+    },
+    "them": {
+      "pos": "pron.",
+      "meaning": "他们；她们；它们",
+      "context": "指购物者或消费者",
+      "ipa": "ðˈɛm",
+      "pattern": "and leave them in debt"
+    },
+    "then": {
+      "pos": "副词",
+      "ipa": "ðˈɛn",
+      "meaning": "然后；那么；当时",
+      "context": "然后",
+      "pattern": "a surge then a decline"
+    },
+    "there": {
+      "pos": "adv./pron.",
+      "meaning": "那里；存在；有",
+      "context": "句型 there is 表示“有”",
+      "ipa": "ðˈɛɹ",
+      "pattern": "puts it: “There is a"
+    },
+    "these": {
+      "pos": "det./pron.",
+      "meaning": "这些",
+      "context": "指新型零售形式",
+      "ipa": "ðˈiz",
+      "pattern": "Because these forms make"
+    },
+    "things": {
+      "pos": "n. 复数",
+      "meaning": "东西；事物",
+      "context": "购买商品",
+      "ipa": "θˈɪŋz",
+      "pattern": "turn buying things into a"
+    },
+    "this": {
+      "pos": "代词/限定词",
+      "ipa": "ðˈɪs",
+      "meaning": "这个；这件事",
+      "context": "这个",
+      "pattern": "paper published this year in"
+    },
+    "tiktok": {
+      "pos": "专有名词",
+      "ipa": "ˈtɪk tɑːk",
+      "meaning": "TikTok 短视频平台",
+      "context": "TikTok 短视频平台",
+      "pattern": "such as TikTok are launching"
+    },
+    "time-limited": {
+      "pos": "adj.",
+      "meaning": "限时的；有时间限制的",
+      "context": "短时有效的促销折扣",
+      "ipa": "ˈtaɪm ˌlɪmɪtɪd",
+      "pattern": "or offering time-limited discounts. A"
+    },
+    "to": {
+      "pos": "介词/不定式标记",
+      "ipa": "tˈuː",
+      "meaning": "到；向；为了；表示动词不定式",
+      "context": "到",
+      "pattern": "it harder to resist the"
+    },
+    "trent": {
+      "pos": "专有名词",
+      "meaning": "特伦特",
+      "context": "诺丁汉特伦特大学",
+      "ipa": "tɹˈɛnt",
+      "pattern": "at Nottingham Trent University, puts"
+    },
+    "trickier": {
+      "pos": "adj. 比较级",
+      "meaning": "更棘手的；更难的",
+      "context": "购物成瘾更难识别",
+      "ipa": "tɹˈɪkiɝ",
+      "pattern": "make addiction trickier to identify"
+    },
+    "tricks": {
+      "pos": "n. 复数",
+      "meaning": "花招；技巧；手段",
+      "context": "刺激消费的技术手段",
+      "ipa": "tɹˈɪks",
+      "pattern": "And technological tricks won’t make"
+    },
+    "turn": {
+      "pos": "v.",
+      "meaning": "使变成；转变；转动",
+      "context": "把购物变成游戏",
+      "ipa": "tˈɝn",
+      "pattern": "cheerful hosts turn buying things"
+    },
+    "university": {
+      "pos": "n.",
+      "meaning": "大学",
+      "context": "诺丁汉特伦特大学",
+      "ipa": "jˌunʌvˈɝsʌti",
+      "pattern": "Nottingham Trent University, puts it"
+    },
+    "unlike": {
+      "pos": "prep.",
+      "meaning": "不同于；不像",
+      "context": "将购物与赌博比较",
+      "ipa": "ʌnlˈaɪk",
+      "pattern": "taken lightly. Unlike gambling, shopping"
+    },
+    "unpopular": {
+      "pos": "adj.",
+      "meaning": "不受欢迎的",
+      "context": "限制购物可能使消费者反感",
+      "ipa": "ˌʌnpˈɑpjʌlɝ",
+      "pattern": "may be unpopular with consumers"
+    },
+    "urge": {
+      "pos": "n./v.",
+      "meaning": "强烈欲望；冲动；催促",
+      "context": "花钱购物的冲动",
+      "ipa": "ˈɝdʒ",
+      "pattern": "resist the urge to spend"
+    },
+    "users": {
+      "pos": "n. 复数",
+      "meaning": "用户；使用者",
+      "context": "社交平台用户",
+      "ipa": "jˈuzɝz",
+      "pattern": "platforms, where users share reviews"
+    },
+    "way": {
+      "pos": "n.",
+      "meaning": "方式；方法；道路",
+      "context": "做出购买的方式",
+      "ipa": "wˈeɪ",
+      "pattern": "describes the way she would"
+    },
+    "we": {
+      "pos": "代词",
+      "meaning": "我们",
+      "context": "我们",
+      "pattern": "What do we learn about",
+      "ipa": "wˈiː"
+    },
+    "what": {
+      "pos": "疑问代词",
+      "meaning": "什么；哪一种",
+      "context": "什么",
+      "pattern": "What do we",
+      "ipa": "wˈʌt"
+    },
+    "when": {
+      "pos": "adv./conj.",
+      "meaning": "当……时；什么时候",
+      "context": "表示时间或条件",
+      "ipa": "wˈɛn",
+      "pattern": "only happens when people shop"
+    },
+    "where": {
+      "pos": "adv./conj.",
+      "meaning": "在哪里；在……情况下",
+      "context": "引导定语从句说明直播场景",
+      "ipa": "wˈɛɹ",
+      "pattern": "livestream shopping, where cheerful hosts"
+    },
+    "which": {
+      "pos": "pron.",
+      "meaning": "哪一个；……的（关系代词）",
+      "context": "引导补充说明",
+      "ipa": "wˈɪtʃ",
+      "pattern": "must do, which can make"
+    },
+    "whole": {
+      "pos": "adj.",
+      "meaning": "整个的；全部的",
+      "context": "一个完整的新兴行业",
+      "ipa": "hˈoʊl",
+      "pattern": "entertainment. A whole industry is"
+    },
+    "why": {
+      "pos": "疑问副词",
+      "meaning": "为什么；为何",
+      "context": "为什么",
+      "pattern": "Why are regulators",
+      "ipa": "wˈaɪ"
+    },
+    "with": {
+      "pos": "介词",
+      "ipa": "wˈɪð",
+      "meaning": "和；用；具有；随着",
+      "context": "和",
+      "pattern": "chemical associated with pleasure. “It’s"
+    },
+    "won’t": {
+      "pos": "缩写",
+      "meaning": "will not 的缩写；不会",
+      "context": "并非人人都会上瘾",
+      "ipa": "wˈoʊnt",
+      "pattern": "technological tricks won’t make addicts"
+    },
+    "worried": {
+      "pos": "adj.",
+      "meaning": "担忧的；焦虑的",
+      "context": "研究者担心购物上瘾问题",
+      "ipa": "wˈɝid",
+      "pattern": "researchers are worried that such"
+    },
+    "would": {
+      "pos": "情态动词",
+      "ipa": "wˈʊd",
+      "meaning": "将会；会；愿意",
+      "context": "将会",
+      "pattern": "way she would make purchases"
+    },
+    "year": {
+      "pos": "名词",
+      "ipa": "jˈɪɹ",
+      "meaning": "年；年度",
+      "context": "年",
+      "pattern": "published this year in the"
+    },
+    "you": {
+      "pos": "代词",
+      "ipa": "jˈuː",
+      "meaning": "你；你们",
+      "context": "你",
+      "pattern": "Have you browsed social"
+    },
+    "your": {
+      "pos": "det.",
+      "meaning": "你的；你们的",
+      "context": "指读者自己的家人",
+      "ipa": "jˈɔɹ",
+      "pattern": "parcels from your family? Have"
+    }
+  },
+  "phrases": [
+    {
+      "en": "shopping addiction",
+      "zh": "购物成瘾；购物癖"
+    },
+    {
+      "en": "social media",
+      "zh": "社交媒体"
+    },
+    {
+      "en": "blur the lines between",
+      "zh": "模糊……之间的界限"
+    },
+    {
+      "en": "by means of",
+      "zh": "通过；借助"
+    },
+    {
+      "en": "the urge to spend",
+      "zh": "消费冲动"
+    },
+    {
+      "en": "take lightly",
+      "zh": "不当回事；轻视"
+    },
+    {
+      "en": "suffer from",
+      "zh": "患有；遭受"
+    },
+    {
+      "en": "impulse purchase",
+      "zh": "冲动购物"
+    },
+    {
+      "en": "absent-minded",
+      "zh": "心不在焉的"
+    },
+    {
+      "en": "out of control",
+      "zh": "失去控制"
+    },
+    {
+      "en": "associated with",
+      "zh": "与……有关"
+    },
+    {
+      "en": "fear of missing out",
+      "zh": "错失恐惧（FOMO）"
+    },
+    {
+      "en": "time-limited discounts",
+      "zh": "限时折扣"
+    },
+    {
+      "en": "atmospheric cues",
+      "zh": "氛围线索；氛围暗示"
+    },
+    {
+      "en": "fine line between",
+      "zh": "……之间的微妙界限"
+    },
+    {
+      "en": "get rid of",
+      "zh": "摆脱；戒除"
+    }
+  ]
+}

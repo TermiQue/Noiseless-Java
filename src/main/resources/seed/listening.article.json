@@ -1,0 +1,58 @@
+{
+  "format": "noiseless-1",
+  "id": "example-listening",
+  "type": "listening",
+  "title": "A Change of Plans",
+  "subtitle": "听力文本精读示例",
+  "source": "题型演示 · 非真题",
+  "paragraphs": [
+    {
+      "en": "Woman: Are we still meeting at the library at three?",
+      "zh": "女士：我们还是三点在图书馆见面吗？"
+    },
+    {
+      "en": "Man: I have a class until three thirty. Could we meet half an hour after that?",
+      "zh": "男士：我的课三点半才结束。我们能在那之后半小时见面吗？"
+    },
+    {
+      "en": "Woman: Sure. I will see you at four.",
+      "zh": "女士：当然可以。那四点见。"
+    }
+  ],
+  "dictionary": {},
+  "phrases": [],
+  "questions": [
+    {
+      "number": 1,
+      "type": "choice",
+      "en": "When will the speakers meet?",
+      "zh": "两位说话者将于几点见面？",
+      "answer": "C",
+      "explanation": "男士三点半下课，提议半小时后见面；女士确认四点。",
+      "evidence": "I will see you at four.",
+      "options": [
+        {
+          "key": "A",
+          "en": "At three.",
+          "zh": "三点。"
+        },
+        {
+          "key": "B",
+          "en": "At three thirty.",
+          "zh": "三点半。"
+        },
+        {
+          "key": "C",
+          "en": "At four.",
+          "zh": "四点。"
+        },
+        {
+          "key": "D",
+          "en": "At four thirty.",
+          "zh": "四点半。"
+        }
+      ]
+    }
+  ],
+  "instructions": "本示例演示听力原文与题目展示，未附音频。如需播放，可在 audioUrl 字段提供音频路径或地址。"
+}

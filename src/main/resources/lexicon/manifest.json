@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "name": "ECDICT",
+      "repository": "https://github.com/skywind3000/ECDICT",
+      "commit": "39cfb9672c0906b63569e0453c2e6abfb9ab182a",
+      "file": "ecdict.csv",
+      "sha256": "d1ecbdf9ee2b920afb6f430ca6b6bb9f559588cf0dff86e04bd255f9390843cc",
+      "license": "MIT"
+    },
+    {
+      "name": "morphemes",
+      "repository": "https://github.com/colingoldberg/morphemes",
+      "commit": "846aa473cb27916f2c3acedb52d98f3a2e2a6572",
+      "file": "data/morphemes.json",
+      "sha256": "2911f1791b8f769c70d6474f6cb92e64ce528f09c50ec9c14008b3b096b7c127",
+      "license": "MIT"
+    }
+  ],
+  "entries": 770238,
+  "phraseLinks": 795604,
+  "morphologyLinks": 58640,
+  "databaseSha256": "f57ed53012bc607e655b1a180957fc3fd05d2bc2835432c56b1b2e85d59bff35",
+  "databaseBytes": 242302976,
+  "archiveSha256": "396cf34eb0f368fbe11426a7a0946a2478697763e731d9c14e62f8d4e15002f1"
+}

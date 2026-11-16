@@ -1,0 +1,1363 @@
+{
+  "format": "noiseless-1",
+  "id": "cet4-2025-12-set2-passage-two-children-dreams",
+  "type": "reading",
+  "title": "Passage Two · Children’s Dreams",
+  "subtitle": "婴幼儿的梦境与快速眼动睡眠",
+  "level": "CET-4",
+  "source": "2025年12月大学英语四级考试真题（第2套）· Section C · Passage Two",
+  "instructions": "Questions 51 to 55 are based on the following passage.",
+  "paragraphs": [
+    {
+      "en": "Adults dream during REM (rapid eye movement) sleep and infants have loads of REM. So, it might be fair to assume that babies have tons of dreams.",
+      "zh": "成年人会在快速眼动（REM）睡眠期间做梦，而婴儿有大量的快速眼动睡眠。因此，似乎有理由推测婴儿也会做很多梦。"
+    },
+    {
+      "en": "But scientists believe REM serves a completely different purpose for newborns and infants than dreaming. When babies are in REM, it allows their brain to develop pathways, connections, and eventually, learn languages.",
+      "zh": "但科学家认为，快速眼动睡眠对新生儿和婴儿发挥着与做梦完全不同的作用。婴儿处于快速眼动睡眠时，这一状态有助于大脑形成神经通路和连接，并最终学习语言。"
+    },
+    {
+      "en": "Since your baby doesn’t dream at this stage of brain development, it’s safe to assume babies do not have nightmares, either. Nightmares stem from exposure to trauma (创伤), an overactive imagination, and the normal stresses of everyday life.",
+      "zh": "既然宝宝在大脑发育的这一阶段不会做梦，那么可以合理推断，婴儿也不会做噩梦。噩梦源于遭受创伤、想象力过度活跃，以及日常生活中的一般压力。"
+    },
+    {
+      "en": "Are you wondering, what do babies dream about? Good question, but the answer is nothing!",
+      "zh": "你是否好奇，婴儿会梦见什么？这个问题问得好，但答案是：什么也不会梦见！"
+    },
+    {
+      "en": "So, when do babies start dreaming? The general consensus is that they start dreaming around the age of two. Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day. In his lab, he lets kids fall asleep and then wakes them 3 times a night and asks them to describe what they recall.",
+      "zh": "那么，婴儿什么时候开始做梦呢？普遍共识是，他们大约在两岁时开始做梦。心理学家戴维·福克斯研究从低龄幼儿到青少年的儿童，以揭开他们梦境的奥秘。在实验室里，他让孩子们入睡，然后每晚叫醒他们3次，请他们描述能回忆起的梦境。"
+    },
+    {
+      "en": "Foulkes’ findings are unsurprising. Basically, little kids have little dreams. But exactly what kids see while dreaming depends on their age. As children develop and grow, their dreams do too.",
+      "zh": "福克斯的研究结果并不令人意外。基本上，年幼孩子的梦境较为简单。但儿童在梦中具体看到什么，取决于他们的年龄。随着儿童发育和成长，他们的梦境也会随之发展。"
+    },
+    {
+      "en": "Dreams of very small kids are usually just snapshots (快照), looking much more like a slideshow than a movie, when compared to the dreams of adults. They heavily feature animals and other familiar sights, like images of people eating. According to Foulkes, “Children’s dream life ... seems to be similar to their waking imagination and narration.” Kids ages 5-9 begin seeing moving images and characters in action. Dreams now include multiple events strung together, one after the other. They also start developing greater ability to remember dreams. Still, that’s not always the case: When roused during REM sleep, 25% of the kids in Foulkes’ studies had no recollection of dreaming, a trend that continues through age 9.",
+      "zh": "与成年人如同电影般的梦境相比，低龄儿童的梦通常只是片段式的快照，更像幻灯片放映。梦中经常出现动物和其他熟悉的场景，例如人们吃饭的画面。福克斯说：“儿童的梦境世界……似乎与他们清醒时的想象和叙事相似。”5至9岁的儿童开始在梦中看到动态画面和活动的人物。此时梦境会包含多个依次串联的事件。他们记住梦境的能力也开始增强。不过，情况并非总是如此：在福克斯的研究中，25%的儿童在快速眼动睡眠期间被唤醒时，完全不记得自己做过梦，这种现象一直持续到9岁。"
+    },
+    {
+      "en": "So, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play.",
+      "zh": "因此，如果宝宝睡觉时看起来紧张，或醒来后烦躁不安，可能是其他因素在起作用。"
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "pos": "art.",
+      "meaning": "一个；某个",
+      "pattern": "serve a purpose"
+    },
+    "ability": {
+      "pos": "n.",
+      "meaning": "能力"
+    },
+    "about": {
+      "pos": "prep.",
+      "meaning": "关于；大约"
+    },
+    "according": {
+      "pos": "adv.",
+      "meaning": "根据；按照"
+    },
+    "action": {
+      "pos": "n.",
+      "meaning": "行动；活动"
+    },
+    "active": {
+      "pos": "adj.",
+      "meaning": "活跃的；积极的"
+    },
+    "adults": {
+      "pos": "n.",
+      "meaning": "成年人",
+      "context": "文中与婴幼儿作比较的成年人。"
+    },
+    "affected": {
+      "pos": "v.",
+      "meaning": "影响"
+    },
+    "after": {
+      "pos": "prep./conj.",
+      "meaning": "在……之后",
+      "pattern": "one after the other"
+    },
+    "against": {
+      "pos": "prep.",
+      "meaning": "反对；对抗；违背",
+      "context": "against their will：违背他们的意愿。"
+    },
+    "age": {
+      "pos": "n./v.",
+      "meaning": "年龄；变老"
+    },
+    "ages": {
+      "pos": "n.",
+      "meaning": "年龄"
+    },
+    "aim": {
+      "pos": "n./v.",
+      "meaning": "目的；旨在"
+    },
+    "alike": {
+      "pos": "adv./adj.",
+      "meaning": "同样地；相似的"
+    },
+    "allows": {
+      "pos": "v.",
+      "meaning": "允许；使能够"
+    },
+    "also": {
+      "pos": "adv.",
+      "meaning": "也；还"
+    },
+    "always": {
+      "pos": "adv.",
+      "meaning": "总是；始终"
+    },
+    "an": {
+      "pos": "冠词",
+      "ipa": "ˈæn",
+      "meaning": "一个；一（元音音素前）",
+      "pattern": "an overactive imagination"
+    },
+    "and": {
+      "pos": "conj.",
+      "meaning": "和；并且"
+    },
+    "animals": {
+      "pos": "n.",
+      "meaning": "动物"
+    },
+    "answer": {
+      "pos": "n./v.",
+      "meaning": "答案；回答"
+    },
+    "appear": {
+      "pos": "v.",
+      "meaning": "出现；显得",
+      "context": "显得烦躁不安。"
+    },
+    "are": {
+      "pos": "v.",
+      "meaning": "是；处于"
+    },
+    "around": {
+      "pos": "prep./adv.",
+      "meaning": "大约；在周围",
+      "ipa": "ɝˈaʊnd"
+    },
+    "as": {
+      "pos": "conj./prep.",
+      "meaning": "按照；作为；当……时"
+    },
+    "asks": {
+      "pos": "v.",
+      "meaning": "询问；要求"
+    },
+    "asleep": {
+      "pos": "adj.",
+      "meaning": "睡着的",
+      "pattern": "fall asleep"
+    },
+    "assume": {
+      "pos": "v.",
+      "meaning": "假定；认为；承担",
+      "context": "根据文章信息作出合理推断。",
+      "ipa": "əˈsjuːm"
+    },
+    "at": {
+      "pos": "prep.",
+      "meaning": "在；处于",
+      "pattern": "at play"
+    },
+    "babies": {
+      "pos": "n.",
+      "meaning": "婴儿"
+    },
+    "baby": {
+      "pos": "n.",
+      "meaning": "婴儿；宝宝"
+    },
+    "basically": {
+      "pos": "adv.",
+      "meaning": "基本上；大体而言"
+    },
+    "be": {
+      "pos": "v.",
+      "meaning": "是；成为；处于"
+    },
+    "been": {
+      "pos": "v.",
+      "meaning": "是；处于"
+    },
+    "begin": {
+      "pos": "v.",
+      "meaning": "开始"
+    },
+    "beings’": {
+      "pos": "n.所有格",
+      "meaning": "生物的；人的"
+    },
+    "believe": {
+      "pos": "动词",
+      "ipa": "bɪlˈiːv",
+      "meaning": "相信；认为"
+    },
+    "both": {
+      "pos": "限定词/代词/连词",
+      "ipa": "bˈoʊθ",
+      "meaning": "两者都；既……又……"
+    },
+    "brain": {
+      "pos": "n.",
+      "meaning": "大脑；脑",
+      "ipa": "bɹˈeɪn"
+    },
+    "bring": {
+      "pos": "v.",
+      "meaning": "带来；使处于某状态",
+      "pattern": "bring ... to the light of day"
+    },
+    "but": {
+      "pos": "conj.",
+      "meaning": "但是；然而",
+      "ipa": "bˈʌt"
+    },
+    "by": {
+      "pos": "prep.",
+      "meaning": "通过；由；在……之前"
+    },
+    "can": {
+      "pos": "modal v.",
+      "meaning": "能；可能"
+    },
+    "case": {
+      "pos": "n.",
+      "meaning": "情况；事例"
+    },
+    "characters": {
+      "pos": "n.",
+      "meaning": "人物；角色"
+    },
+    "children": {
+      "pos": "n.",
+      "meaning": "儿童；孩子们"
+    },
+    "children’s": {
+      "pos": "n.所有格",
+      "meaning": "儿童的"
+    },
+    "compared": {
+      "pos": "v.",
+      "meaning": "比较；对照",
+      "pattern": "when compared to"
+    },
+    "completely": {
+      "pos": "adv.",
+      "meaning": "完全地"
+    },
+    "confirm": {
+      "pos": "v.",
+      "meaning": "证实；确认"
+    },
+    "connections": {
+      "pos": "n.",
+      "meaning": "连接；联系",
+      "context": "大脑中的神经连接。"
+    },
+    "consensus": {
+      "pos": "n.",
+      "meaning": "共识；一致意见",
+      "context": "关于儿童约两岁开始做梦的普遍共识。",
+      "ipa": "kənˈsensəs",
+      "pattern": "general consensus"
+    },
+    "continues": {
+      "pos": "v.",
+      "meaning": "继续；持续"
+    },
+    "david": {
+      "pos": "专名",
+      "meaning": "戴维"
+    },
+    "day": {
+      "pos": "n.",
+      "meaning": "一天；白天",
+      "pattern": "bring ... to the light of day"
+    },
+    "depends": {
+      "pos": "v.",
+      "meaning": "取决于；依赖"
+    },
+    "describe": {
+      "pos": "v.",
+      "meaning": "描述"
+    },
+    "determines": {
+      "pos": "v.",
+      "meaning": "决定；确定"
+    },
+    "develop": {
+      "pos": "v.",
+      "meaning": "发展；形成；发育"
+    },
+    "developing": {
+      "pos": "v.",
+      "meaning": "发展；增强"
+    },
+    "development": {
+      "pos": "n.",
+      "meaning": "发展；发育",
+      "context": "大脑的发育过程。"
+    },
+    "different": {
+      "pos": "adj.",
+      "meaning": "不同的"
+    },
+    "disturbed": {
+      "pos": "v./adj.",
+      "meaning": "受到困扰；被扰乱的"
+    },
+    "do": {
+      "pos": "v./aux.",
+      "meaning": "做；用于构成疑问句"
+    },
+    "doesn’t": {
+      "pos": "aux.",
+      "meaning": "不；没有（does not的缩写）"
+    },
+    "dream": {
+      "pos": "v./n.",
+      "meaning": "做梦；梦",
+      "context": "做梦或梦境。"
+    },
+    "dreaming": {
+      "pos": "v./n.",
+      "meaning": "做梦"
+    },
+    "dreams": {
+      "pos": "n./v.",
+      "meaning": "梦；做梦"
+    },
+    "during": {
+      "pos": "prep.",
+      "meaning": "在……期间"
+    },
+    "eating": {
+      "pos": "v./n.",
+      "meaning": "吃；进食"
+    },
+    "either": {
+      "pos": "adv./det.",
+      "meaning": "也不；两者中任一"
+    },
+    "emotional": {
+      "pos": "adj.",
+      "meaning": "情绪的；情感的"
+    },
+    "essential": {
+      "pos": "adj.",
+      "meaning": "必不可少的；至关重要的"
+    },
+    "events": {
+      "pos": "n.",
+      "meaning": "事件"
+    },
+    "eventually": {
+      "pos": "adv.",
+      "meaning": "最终"
+    },
+    "everyday": {
+      "pos": "adj.",
+      "meaning": "日常的"
+    },
+    "evolve": {
+      "pos": "v.",
+      "meaning": "发展；演变"
+    },
+    "exactly": {
+      "pos": "adv.",
+      "meaning": "确切地；具体地"
+    },
+    "exposure": {
+      "pos": "n.",
+      "meaning": "接触；遭受",
+      "pattern": "exposure to trauma"
+    },
+    "eye": {
+      "pos": "n.",
+      "meaning": "眼睛",
+      "pattern": "rapid eye movement"
+    },
+    "factors": {
+      "pos": "n.",
+      "meaning": "因素"
+    },
+    "fair": {
+      "pos": "adj.",
+      "meaning": "合理的；公平的",
+      "context": "it might be fair to assume：似乎有理由推断。"
+    },
+    "fall": {
+      "pos": "v./n.",
+      "meaning": "落下；进入某种状态",
+      "pattern": "fall asleep"
+    },
+    "familiar": {
+      "pos": "adj.",
+      "meaning": "熟悉的"
+    },
+    "feature": {
+      "pos": "v./n.",
+      "meaning": "以……为特色；包含；特征",
+      "context": "儿童梦境中经常出现动物等内容。",
+      "ipa": "ˈfiːtʃə"
+    },
+    "findings": {
+      "pos": "n.",
+      "meaning": "研究结果；发现",
+      "context": "研究发现；研究结果。"
+    },
+    "for": {
+      "pos": "prep.",
+      "meaning": "为了；对于；给"
+    },
+    "formation": {
+      "pos": "n.",
+      "meaning": "形成",
+      "context": "大脑中神经连接的形成。"
+    },
+    "foulkes": {
+      "pos": "专名",
+      "meaning": "福克斯",
+      "context": "文中研究儿童梦境的心理学家戴维·福克斯。"
+    },
+    "foulkes’": {
+      "pos": "专名所有格",
+      "meaning": "福克斯的",
+      "context": "心理学家福克斯的研究或发现。"
+    },
+    "from": {
+      "pos": "prep.",
+      "meaning": "从；来自",
+      "pattern": "stem from"
+    },
+    "function": {
+      "pos": "n./v.",
+      "meaning": "功能；作用；起作用"
+    },
+    "general": {
+      "pos": "adj.",
+      "meaning": "总体的；一般的",
+      "pattern": "general consensus",
+      "context": "general consensus：普遍共识。"
+    },
+    "good": {
+      "pos": "adj.",
+      "meaning": "好的"
+    },
+    "greater": {
+      "pos": "adj.",
+      "meaning": "更大的；更强的"
+    },
+    "grow": {
+      "pos": "v.",
+      "meaning": "成长；增长"
+    },
+    "growth": {
+      "pos": "n.",
+      "meaning": "成长；发育"
+    },
+    "had": {
+      "pos": "v./aux.",
+      "meaning": "有；已经"
+    },
+    "have": {
+      "pos": "v./aux.",
+      "meaning": "有；已经",
+      "pattern": "have no recollection of"
+    },
+    "he": {
+      "pos": "pron.",
+      "meaning": "他"
+    },
+    "heavily": {
+      "pos": "adv.",
+      "meaning": "大量地；很大程度上"
+    },
+    "his": {
+      "pos": "det./pron.",
+      "meaning": "他的"
+    },
+    "human": {
+      "pos": "adj./n.",
+      "meaning": "人的；人类"
+    },
+    "if": {
+      "pos": "连词",
+      "ipa": "ˈɪf",
+      "meaning": "如果；是否"
+    },
+    "images": {
+      "pos": "n.",
+      "meaning": "画面；图像"
+    },
+    "imagination": {
+      "pos": "n.",
+      "meaning": "想象；想象力",
+      "pattern": "an overactive imagination"
+    },
+    "in": {
+      "pos": "prep.",
+      "meaning": "在……内；在……中"
+    },
+    "include": {
+      "pos": "v.",
+      "meaning": "包含"
+    },
+    "infants": {
+      "pos": "n.",
+      "meaning": "婴儿"
+    },
+    "infer": {
+      "pos": "v.",
+      "meaning": "推断"
+    },
+    "is": {
+      "pos": "v./aux.",
+      "meaning": "是；处于"
+    },
+    "it": {
+      "pos": "pron.",
+      "meaning": "它；这"
+    },
+    "it’s": {
+      "pos": "缩写",
+      "meaning": "it is／it has 的缩写",
+      "ipa": "ˈɪts"
+    },
+    "just": {
+      "pos": "adv.",
+      "meaning": "仅仅；只是；刚刚",
+      "ipa": "dʒˈʌst"
+    },
+    "kids": {
+      "pos": "n.",
+      "meaning": "孩子们"
+    },
+    "kids’": {
+      "pos": "n.所有格",
+      "meaning": "孩子们的"
+    },
+    "lab": {
+      "pos": "n.",
+      "meaning": "实验室"
+    },
+    "language": {
+      "pos": "n.",
+      "meaning": "语言"
+    },
+    "languages": {
+      "pos": "n.",
+      "meaning": "语言"
+    },
+    "learn": {
+      "pos": "v.",
+      "meaning": "了解；学习",
+      "context": "学习语言。"
+    },
+    "learning": {
+      "pos": "n./v.",
+      "meaning": "学习"
+    },
+    "lets": {
+      "pos": "v.",
+      "meaning": "让；允许"
+    },
+    "life": {
+      "pos": "n.",
+      "meaning": "生活；生命"
+    },
+    "light": {
+      "pos": "n./v./adj.",
+      "meaning": "光；使明白；轻的",
+      "context": "bring ... to the light of day：揭开儿童梦境的奥秘。",
+      "pattern": "bring ... to the light of day"
+    },
+    "like": {
+      "pos": "介词/动词",
+      "meaning": "像；例如；喜欢",
+      "ipa": "lˈaɪk"
+    },
+    "little": {
+      "pos": "det./adj.",
+      "meaning": "很少的；小的",
+      "context": "little kids指幼小的孩子；little dreams指内容简单的梦境。"
+    },
+    "loads": {
+      "pos": "n.",
+      "meaning": "大量；负荷",
+      "context": "loads of REM：大量快速眼动睡眠。",
+      "pattern": "loads of"
+    },
+    "looking": {
+      "pos": "v.",
+      "meaning": "看起来；看"
+    },
+    "may": {
+      "pos": "modal v.",
+      "meaning": "可能；可以"
+    },
+    "might": {
+      "pos": "modal v.",
+      "meaning": "可能；也许"
+    },
+    "more": {
+      "pos": "det./adv.",
+      "meaning": "更多；更加"
+    },
+    "movement": {
+      "pos": "n.",
+      "meaning": "运动；移动",
+      "context": "眼球的运动。",
+      "pattern": "rapid eye movement"
+    },
+    "movie": {
+      "pos": "名词",
+      "ipa": "mˈuːvi",
+      "meaning": "电影"
+    },
+    "moving": {
+      "pos": "adj./v.",
+      "meaning": "移动的；动态的"
+    },
+    "much": {
+      "pos": "adv./det.",
+      "meaning": "很；多"
+    },
+    "multiple": {
+      "pos": "adj.",
+      "meaning": "多个的；多重的"
+    },
+    "mystery": {
+      "pos": "n.",
+      "meaning": "谜；奥秘"
+    },
+    "narration": {
+      "pos": "n.",
+      "meaning": "叙事；讲述"
+    },
+    "newborns": {
+      "pos": "n.",
+      "meaning": "新生儿"
+    },
+    "night": {
+      "pos": "n.",
+      "meaning": "夜晚；夜间"
+    },
+    "nightmare": {
+      "pos": "n.",
+      "meaning": "噩梦"
+    },
+    "nightmares": {
+      "pos": "n.",
+      "meaning": "噩梦"
+    },
+    "no": {
+      "pos": "det.",
+      "meaning": "没有；无",
+      "pattern": "have no recollection of"
+    },
+    "normal": {
+      "pos": "adj.",
+      "meaning": "正常的；一般的",
+      "context": "日常生活中一般的压力。"
+    },
+    "not": {
+      "pos": "adv.",
+      "meaning": "不；没有"
+    },
+    "nothing": {
+      "pos": "pron.",
+      "meaning": "没有什么；什么也没有"
+    },
+    "now": {
+      "pos": "adv.",
+      "meaning": "现在；如今"
+    },
+    "occur": {
+      "pos": "v.",
+      "meaning": "发生；出现"
+    },
+    "of": {
+      "pos": "prep.",
+      "meaning": "……的",
+      "pattern": "loads of; tons of; bring ... to the light of day"
+    },
+    "often": {
+      "pos": "adv.",
+      "meaning": "经常；往往"
+    },
+    "on": {
+      "pos": "prep.",
+      "meaning": "在……上；关于",
+      "pattern": "depend on"
+    },
+    "one": {
+      "pos": "num./pron.",
+      "meaning": "一；一个",
+      "pattern": "one after the other"
+    },
+    "or": {
+      "pos": "conj.",
+      "meaning": "或者；或"
+    },
+    "other": {
+      "pos": "adj./pron.",
+      "meaning": "其他的；另外的人或事物",
+      "pattern": "one after the other; other than"
+    },
+    "overactive": {
+      "pos": "adj.",
+      "meaning": "过度活跃的",
+      "context": "想象力过度活跃，而非仅仅活跃。",
+      "pattern": "an overactive imagination"
+    },
+    "passage": {
+      "pos": "n.",
+      "meaning": "文章；段落"
+    },
+    "pathways": {
+      "pos": "n.",
+      "meaning": "通路；路径",
+      "context": "大脑发育形成的神经通路。"
+    },
+    "people": {
+      "pos": "n.",
+      "meaning": "人们"
+    },
+    "performs": {
+      "pos": "v.",
+      "meaning": "执行；发挥"
+    },
+    "play": {
+      "pos": "n./v.",
+      "meaning": "作用；玩耍",
+      "context": "at play：其他因素在起作用。",
+      "pattern": "at play"
+    },
+    "psychologist": {
+      "pos": "n.",
+      "meaning": "心理学家"
+    },
+    "purpose": {
+      "pos": "n.",
+      "meaning": "目的；作用",
+      "context": "快速眼动睡眠对婴儿发挥的作用。",
+      "pattern": "serve a purpose"
+    },
+    "question": {
+      "pos": "n./v.",
+      "meaning": "问题；询问"
+    },
+    "rapid": {
+      "pos": "adj.",
+      "meaning": "快速的",
+      "context": "眼球快速运动。",
+      "pattern": "rapid eye movement"
+    },
+    "recall": {
+      "pos": "v./n.",
+      "meaning": "回忆；想起"
+    },
+    "recollecting": {
+      "pos": "v.",
+      "meaning": "回想；回忆"
+    },
+    "recollection": {
+      "pos": "n.",
+      "meaning": "记忆；回忆",
+      "context": "对自己是否做过梦的记忆。",
+      "ipa": "ˌrekəˈlekʃən",
+      "pattern": "have no recollection of"
+    },
+    "reflect": {
+      "pos": "v.",
+      "meaning": "反映；反射"
+    },
+    "rem": {
+      "pos": "缩写",
+      "meaning": "快速眼动（rapid eye movement）",
+      "context": "快速眼动睡眠阶段。"
+    },
+    "remember": {
+      "pos": "v.",
+      "meaning": "记住；记得"
+    },
+    "reveal": {
+      "pos": "v.",
+      "meaning": "揭示；揭露"
+    },
+    "roused": {
+      "pos": "v.",
+      "meaning": "唤醒；激起"
+    },
+    "safe": {
+      "pos": "adj.",
+      "meaning": "安全的；有把握的",
+      "context": "it’s safe to assume：可以有把握地推断。"
+    },
+    "scientists": {
+      "pos": "n.",
+      "meaning": "科学家"
+    },
+    "secrets": {
+      "pos": "n.",
+      "meaning": "秘密；奥秘"
+    },
+    "see": {
+      "pos": "v.",
+      "meaning": "看到；明白"
+    },
+    "seeing": {
+      "pos": "v.",
+      "meaning": "看见"
+    },
+    "seems": {
+      "pos": "v.",
+      "meaning": "似乎；看来"
+    },
+    "serves": {
+      "pos": "v.",
+      "meaning": "起作用；服务",
+      "context": "serve a purpose：发挥某种作用。"
+    },
+    "sights": {
+      "pos": "n.",
+      "meaning": "景象；场景"
+    },
+    "sign": {
+      "pos": "n./v.",
+      "meaning": "标志；迹象；签字",
+      "context": "sign of dreaming：做梦的迹象或标志。"
+    },
+    "similar": {
+      "pos": "adj.",
+      "meaning": "相似的",
+      "context": "梦境与清醒时的想象和叙事相似。"
+    },
+    "since": {
+      "pos": "conj./prep.",
+      "meaning": "既然；自从"
+    },
+    "sleep": {
+      "pos": "n./v.",
+      "meaning": "睡眠；睡觉"
+    },
+    "sleeping": {
+      "pos": "v.",
+      "meaning": "睡觉"
+    },
+    "slideshow": {
+      "pos": "n.",
+      "meaning": "幻灯片放映"
+    },
+    "small": {
+      "pos": "adj.",
+      "meaning": "小的；年幼的"
+    },
+    "snapshots": {
+      "pos": "n.",
+      "meaning": "快照；片段式画面"
+    },
+    "so": {
+      "pos": "副词/连词",
+      "meaning": "如此；这么；所以",
+      "ipa": "sˈoʊ"
+    },
+    "solve": {
+      "pos": "v.",
+      "meaning": "解决；解开"
+    },
+    "something": {
+      "pos": "pron.",
+      "meaning": "某事；某物；一些东西",
+      "ipa": "sˈʌmθɪŋ"
+    },
+    "stage": {
+      "pos": "n.",
+      "meaning": "阶段"
+    },
+    "stages": {
+      "pos": "n.",
+      "meaning": "阶段"
+    },
+    "start": {
+      "pos": "v./n.",
+      "meaning": "开始"
+    },
+    "state": {
+      "pos": "n./v.",
+      "meaning": "状态；陈述",
+      "context": "婴儿睡眠时的紧张状态。"
+    },
+    "stem": {
+      "pos": "v./n.",
+      "meaning": "起源于；茎",
+      "context": "stem from：源于创伤、过度活跃的想象力或日常压力。",
+      "pattern": "stem from"
+    },
+    "still": {
+      "pos": "adv./adj.",
+      "meaning": "不过；仍然；静止的",
+      "context": "在此处转折，意为不过。"
+    },
+    "strange": {
+      "pos": "adj.",
+      "meaning": "奇怪的；陌生的"
+    },
+    "stress": {
+      "pos": "n.",
+      "meaning": "压力；紧张",
+      "ipa": "stɹˈɛs"
+    },
+    "stresses": {
+      "pos": "n.",
+      "meaning": "压力"
+    },
+    "stressful": {
+      "pos": "adj.",
+      "meaning": "紧张的；造成压力的"
+    },
+    "strung": {
+      "pos": "v.",
+      "meaning": "串联；串起（string的过去分词）",
+      "context": "把梦中的多个事件依次串联起来。"
+    },
+    "studies": {
+      "pos": "n./v.",
+      "meaning": "研究；学习"
+    },
+    "study": {
+      "pos": "n./v.",
+      "meaning": "研究；学习"
+    },
+    "suffering": {
+      "pos": "v.",
+      "meaning": "遭受；承受"
+    },
+    "teens": {
+      "pos": "n.",
+      "meaning": "青少年；十几岁"
+    },
+    "than": {
+      "pos": "conj./prep.",
+      "meaning": "比；而不是",
+      "pattern": "other than"
+    },
+    "that": {
+      "pos": "conj./pron./det.",
+      "meaning": "引导从句；那；那个"
+    },
+    "that’s": {
+      "pos": "pron.+v.",
+      "meaning": "那是（that is的缩写）"
+    },
+    "the": {
+      "pos": "art.",
+      "meaning": "这；该",
+      "pattern": "bring ... to the light of day; one after the other"
+    },
+    "their": {
+      "pos": "det.",
+      "meaning": "他们的；它们的"
+    },
+    "them": {
+      "pos": "pron.",
+      "meaning": "他们；它们"
+    },
+    "then": {
+      "pos": "副词",
+      "ipa": "ðˈɛn",
+      "meaning": "然后；那么；当时"
+    },
+    "there": {
+      "pos": "adv./pron.",
+      "meaning": "那里；用于存在句"
+    },
+    "they": {
+      "pos": "pron.",
+      "meaning": "他们；它们"
+    },
+    "think": {
+      "pos": "v.",
+      "meaning": "认为；思考"
+    },
+    "this": {
+      "pos": "代词/限定词",
+      "ipa": "ðˈɪs",
+      "meaning": "这个；这件事"
+    },
+    "through": {
+      "pos": "prep.",
+      "meaning": "通过；穿过"
+    },
+    "times": {
+      "pos": "n.",
+      "meaning": "时间；次数",
+      "context": "每晚被唤醒的次数。"
+    },
+    "to": {
+      "pos": "prep./inf.",
+      "meaning": "向；对；用于动词不定式",
+      "pattern": "exposure to trauma; bring ... to the light of day; when compared to"
+    },
+    "together": {
+      "pos": "adv.",
+      "meaning": "一起；连接在一起",
+      "pattern": "string together"
+    },
+    "tons": {
+      "pos": "n.",
+      "meaning": "大量；吨",
+      "context": "tons of dreams：大量的梦。",
+      "pattern": "tons of"
+    },
+    "too": {
+      "pos": "adv.",
+      "meaning": "也；过于"
+    },
+    "trauma": {
+      "pos": "n.",
+      "meaning": "创伤",
+      "pattern": "exposure to trauma"
+    },
+    "trend": {
+      "pos": "名词",
+      "ipa": "tɹˈɛnd",
+      "meaning": "趋势；潮流；流行风尚"
+    },
+    "trouble": {
+      "pos": "n.",
+      "meaning": "困难；麻烦"
+    },
+    "two": {
+      "pos": "数词",
+      "ipa": "tˈuː",
+      "meaning": "二；两个"
+    },
+    "unsurprising": {
+      "pos": "adj.",
+      "meaning": "不令人意外的"
+    },
+    "upon": {
+      "pos": "prep.",
+      "meaning": "在……时；一……就",
+      "context": "upon waking：醒来时。",
+      "pattern": "upon waking"
+    },
+    "upset": {
+      "pos": "adj./v.",
+      "meaning": "烦躁不安的；使心烦",
+      "context": "婴儿醒来后烦躁不安。"
+    },
+    "usually": {
+      "pos": "副词",
+      "meaning": "通常；一般",
+      "ipa": "jˈuːʒuːəli"
+    },
+    "vary": {
+      "pos": "v.",
+      "meaning": "不同；变化"
+    },
+    "very": {
+      "pos": "adv./adj.",
+      "meaning": "很；非常；正是"
+    },
+    "wakes": {
+      "pos": "v.",
+      "meaning": "唤醒；醒来"
+    },
+    "waking": {
+      "pos": "v./adj.",
+      "meaning": "醒来；清醒时的",
+      "context": "waking imagination指清醒时的想象；upon waking指醒来时。",
+      "pattern": "upon waking"
+    },
+    "we": {
+      "pos": "pron.",
+      "meaning": "我们"
+    },
+    "what": {
+      "pos": "pron./det.",
+      "meaning": "什么"
+    },
+    "when": {
+      "pos": "adv./conj.",
+      "meaning": "何时；当……时",
+      "pattern": "when compared to"
+    },
+    "while": {
+      "pos": "conj.",
+      "meaning": "而；当……时"
+    },
+    "who": {
+      "pos": "pron.",
+      "meaning": "谁；……的人"
+    },
+    "will": {
+      "pos": "n./modal v.",
+      "meaning": "意愿；意志；将会",
+      "ipa": "wˈɪl",
+      "context": "此处为名词“意愿”，against their will意为违背他们的意愿。"
+    },
+    "with": {
+      "pos": "prep.",
+      "meaning": "与；用；和"
+    },
+    "wondering": {
+      "pos": "v.",
+      "meaning": "想知道；好奇"
+    },
+    "you": {
+      "pos": "代词",
+      "ipa": "jˈuː",
+      "meaning": "你；你们"
+    },
+    "your": {
+      "pos": "det.",
+      "meaning": "你的；你们的"
+    }
+  },
+  "phrases": [
+    {
+      "en": "rapid eye movement",
+      "zh": "快速眼动；缩写REM"
+    },
+    {
+      "en": "loads of",
+      "zh": "大量的"
+    },
+    {
+      "en": "tons of",
+      "zh": "大量的"
+    },
+    {
+      "en": "serve a purpose",
+      "zh": "起作用；具有某种用途"
+    },
+    {
+      "en": "stem from",
+      "zh": "源于"
+    },
+    {
+      "en": "exposure to trauma",
+      "zh": "遭受创伤"
+    },
+    {
+      "en": "an overactive imagination",
+      "zh": "过度活跃的想象力"
+    },
+    {
+      "en": "general consensus",
+      "zh": "普遍共识"
+    },
+    {
+      "en": "bring ... to the light of day",
+      "zh": "揭示；使……为人所知"
+    },
+    {
+      "en": "fall asleep",
+      "zh": "入睡"
+    },
+    {
+      "en": "depend on",
+      "zh": "取决于"
+    },
+    {
+      "en": "when compared to",
+      "zh": "与……相比"
+    },
+    {
+      "en": "string together",
+      "zh": "把……串联起来"
+    },
+    {
+      "en": "one after the other",
+      "zh": "一个接一个地"
+    },
+    {
+      "en": "have no recollection of",
+      "zh": "完全不记得"
+    },
+    {
+      "en": "upon waking",
+      "zh": "一醒来；醒来时"
+    },
+    {
+      "en": "at play",
+      "zh": "在起作用"
+    },
+    {
+      "en": "other than",
+      "zh": "除……之外"
+    }
+  ],
+  "questions": [
+    {
+      "number": 51,
+      "type": "choice",
+      "en": "What do scientists think of REM?",
+      "zh": "科学家如何看待快速眼动睡眠？",
+      "options": [
+        {
+          "key": "A",
+          "en": "It is a sign of dreaming in adults and infants alike.",
+          "zh": "它是成年人和婴儿都会做梦的标志。"
+        },
+        {
+          "key": "B",
+          "en": "It is essential to human beings’ language learning.",
+          "zh": "它对人类语言学习至关重要。"
+        },
+        {
+          "key": "C",
+          "en": "It determines the formation of connections in the brain.",
+          "zh": "它决定了大脑中神经连接的形成。"
+        },
+        {
+          "key": "D",
+          "en": "It performs a different function in babies than in adults.",
+          "zh": "它在婴儿与成年人身上发挥不同的功能。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "定位：第2段第1句，并结合第1段。文中认为成年人的REM睡眠与做梦有关，而婴儿的REM睡眠有其他作用。D项 different function 对应 different purpose。A项与婴儿REM并非做梦的表述矛盾；B项把对婴儿日后学习语言的帮助扩大为对全人类语言学习的必要条件；C项将有助于形成连接夸大为决定连接形成。",
+      "evidence": "But scientists believe REM serves a completely different purpose for newborns and infants than dreaming."
+    },
+    {
+      "number": 52,
+      "type": "choice",
+      "en": "What can we infer about nightmares from the passage?",
+      "zh": "从文章中可以推断出关于噩梦的什么信息？",
+      "options": [
+        {
+          "key": "A",
+          "en": "They occur often in people with an active imagination.",
+          "zh": "想象力活跃的人经常做噩梦。"
+        },
+        {
+          "key": "B",
+          "en": "They occur in people suffering from emotional stress.",
+          "zh": "承受情绪压力的人会做噩梦。"
+        },
+        {
+          "key": "C",
+          "en": "They vary in different stages of brain development.",
+          "zh": "噩梦在大脑发育的不同阶段有所不同。"
+        },
+        {
+          "key": "D",
+          "en": "They appear in the sleep of both adults and infants.",
+          "zh": "成年人和婴儿的睡眠中都会出现噩梦。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "定位：第3段末句。噩梦可能源于创伤、过度活跃的想象力和日常压力，因此可推断情绪压力可能引发噩梦，选B。A项将 overactive（过度活跃）弱化为 active，且添加了“经常”；C项文中未说明噩梦随脑发育阶段变化；D项与文中婴儿不会做噩梦的说法矛盾。",
+      "evidence": "Nightmares stem from exposure to trauma (创伤), an overactive imagination, and the normal stresses of everyday life."
+    },
+    {
+      "number": 53,
+      "type": "choice",
+      "en": "What is the aim of psychologist David Foulkes’ study?",
+      "zh": "心理学家戴维·福克斯的研究目的是什么？",
+      "options": [
+        {
+          "key": "A",
+          "en": "To reveal the secrets of children’s dreams.",
+          "zh": "揭示儿童梦境的奥秘。"
+        },
+        {
+          "key": "B",
+          "en": "To see if children start dreaming at age two.",
+          "zh": "查看儿童是否从两岁开始做梦。"
+        },
+        {
+          "key": "C",
+          "en": "To solve the mystery of dreaming and brain growth.",
+          "zh": "解开做梦与大脑发育的谜团。"
+        },
+        {
+          "key": "D",
+          "en": "To confirm the general consensus on when kids dream.",
+          "zh": "证实关于儿童何时开始做梦的普遍共识。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "定位：第5段第3句。研究旨在 bring the secrets of their dreams to the light of day，即揭示儿童梦境的奥秘，与A项 reveal 同义。B、D项把前文关于开始做梦年龄的共识当成研究目的；C项扩大范围，原文未说研究旨在解开脑发育的奥秘。",
+      "evidence": "Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day."
+    },
+    {
+      "number": 54,
+      "type": "choice",
+      "en": "What are Foulkes’ findings about kids’ dreams?",
+      "zh": "福克斯关于儿童梦境的研究发现是什么？",
+      "options": [
+        {
+          "key": "A",
+          "en": "They feature strange animals.",
+          "zh": "梦境中主要出现奇怪的动物。"
+        },
+        {
+          "key": "B",
+          "en": "They are unsurprising to adults.",
+          "zh": "这些梦境对成年人来说并不稀奇。"
+        },
+        {
+          "key": "C",
+          "en": "They grow and evolve with age.",
+          "zh": "它们随着年龄增长而发展演变。"
+        },
+        {
+          "key": "D",
+          "en": "They reflect kids’ waking life.",
+          "zh": "它们反映儿童清醒时的生活。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "定位：第6段。儿童梦境的具体内容取决于年龄，并随儿童的发育成长而发展，C项 grow and evolve with age 是概括。A项擅自加入 strange；B项把“研究结果不令人意外”换成“儿童梦境对成年人不稀奇”；D项把与清醒时的想象和叙事相似，扩大为反映清醒生活。",
+      "evidence": "But exactly what kids see while dreaming depends on their age. As children develop and grow, their dreams do too."
+    },
+    {
+      "number": 55,
+      "type": "choice",
+      "en": "What can we assume about babies who appear upset upon waking?",
+      "zh": "对于醒来后显得烦躁不安的婴儿，可以作出什么推断？",
+      "options": [
+        {
+          "key": "A",
+          "en": "They have been roused against their will.",
+          "zh": "他们被违背意愿地唤醒。"
+        },
+        {
+          "key": "B",
+          "en": "They have been disturbed by a nightmare.",
+          "zh": "他们受到噩梦困扰。"
+        },
+        {
+          "key": "C",
+          "en": "They have trouble recollecting the images of their dreams.",
+          "zh": "他们难以回忆梦中的画面。"
+        },
+        {
+          "key": "D",
+          "en": "They have been affected by something other than dreaming.",
+          "zh": "他们受到了做梦以外的其他因素影响。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "定位：第8段，并结合第3段。末段说可能有 other factors at play，对应D项 something other than dreaming。文中认为婴儿不会做梦或做噩梦，故不能将其烦躁归因为噩梦或难以回忆梦境，排除B、C；A项的违背意愿唤醒没有依据。",
+      "evidence": "So, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play."
+    }
+  ]
+}

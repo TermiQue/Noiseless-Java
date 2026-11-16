@@ -1,0 +1,59 @@
+{
+  "format": "noiseless-1",
+  "id": "example-cloze",
+  "type": "cloze",
+  "title": "Small Steps, Lasting Change",
+  "subtitle": "选词填空示例",
+  "source": "题型演示 · 非真题",
+  "paragraphs": [
+    {
+      "en": "A regular reading habit can __26__ your vocabulary. It is easier to __27__ this habit if you start with a few minutes each day.",
+      "zh": "规律阅读的习惯能够扩充你的词汇量。如果从每天几分钟开始，这个习惯就更容易维持。"
+    }
+  ],
+  "dictionary": {},
+  "phrases": [],
+  "questions": [
+    {
+      "number": 26,
+      "type": "cloze",
+      "en": "Choose a word for blank 26.",
+      "zh": "选择适合第 26 空的词。",
+      "answer": "B",
+      "explanation": "空格在 can 后，需要动词原形；expand your vocabulary 表示扩充词汇量。",
+      "evidence": ""
+    },
+    {
+      "number": 27,
+      "type": "cloze",
+      "en": "Choose a word for blank 27.",
+      "zh": "选择适合第 27 空的词。",
+      "answer": "A",
+      "explanation": "maintain this habit 表示维持这一习惯，符合语境。",
+      "evidence": ""
+    }
+  ],
+  "wordBank": [
+    {
+      "key": "A",
+      "en": "maintain",
+      "zh": "维持"
+    },
+    {
+      "key": "B",
+      "en": "expand",
+      "zh": "扩大"
+    },
+    {
+      "key": "C",
+      "en": "rarely",
+      "zh": "很少"
+    },
+    {
+      "key": "D",
+      "en": "valuable",
+      "zh": "有价值的"
+    }
+  ],
+  "instructions": "从备选词中选择最合适的词完成短文。本文件仅演示格式，正式资料可提供完整词库。"
+}

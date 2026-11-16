@@ -1,0 +1,48 @@
+{
+  "format": "noiseless-1",
+  "id": "example-matching",
+  "type": "matching",
+  "title": "Finding Your Reading Rhythm",
+  "subtitle": "长篇匹配示例",
+  "source": "题型演示 · 非真题",
+  "paragraphs": [
+    {
+      "en": "Set aside a fixed time for reading. Connecting reading to an existing routine can help you remember to do it.",
+      "zh": "为阅读安排固定的时间。将阅读与现有的日常安排联系起来，可以帮助你记得去做。",
+      "label": "A"
+    },
+    {
+      "en": "Choose material that interests you. Curiosity makes difficult passages feel more rewarding.",
+      "zh": "选择你感兴趣的材料。好奇心会让阅读困难的段落更有收获感。",
+      "label": "B"
+    },
+    {
+      "en": "Write a short summary after reading. Explaining the main idea in your own words helps you check your understanding.",
+      "zh": "阅读后写一段简短的总结。用自己的话解释主旨有助于检验理解程度。",
+      "label": "C"
+    }
+  ],
+  "dictionary": {},
+  "phrases": [],
+  "questions": [
+    {
+      "number": 36,
+      "type": "matching",
+      "en": "Summarizing can help readers check their understanding.",
+      "zh": "总结可以帮助读者检查自己的理解。",
+      "answer": "C",
+      "explanation": "C 段明确提到，用自己的话解释主旨有助于检验理解程度。",
+      "evidence": "Explaining the main idea in your own words helps you check your understanding."
+    },
+    {
+      "number": 37,
+      "type": "matching",
+      "en": "An established routine can serve as a reminder to read.",
+      "zh": "已有的日常安排可以提醒我们阅读。",
+      "answer": "A",
+      "explanation": "A 段说明，将阅读与现有习惯联系起来，可以提醒自己坚持阅读。",
+      "evidence": "Connecting reading to an existing routine can help you remember to do it."
+    }
+  ],
+  "instructions": "为每条陈述选择包含对应信息的段落。此处为简短题型示例，非真题。"
+}

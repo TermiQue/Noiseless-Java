@@ -1,0 +1,11 @@
+{$NOISELESS_DOMAIN} {
+    request_body {
+        max_size 16MB
+    }
+    reverse_proxy app:8080 {
+        transport http {
+            response_header_timeout 65s
+        }
+    }
+    header Strict-Transport-Security "max-age=31536000"
+}

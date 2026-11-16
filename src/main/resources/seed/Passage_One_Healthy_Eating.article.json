@@ -1,0 +1,1560 @@
+{
+  "format": "noiseless-1",
+  "id": "cet4-2025-12-set2-passage-one-healthy-eating",
+  "type": "reading",
+  "title": "Passage One · Healthy Eating",
+  "subtitle": "青少年健康饮食干预",
+  "level": "CET-4",
+  "source": "2025年12月大学英语四级考试真题（第2套）· Section C · Passage One",
+  "instructions": "Questions 46 to 50 are based on the following passage.",
+  "paragraphs": [
+    {
+      "en": "Junk food is now a staple of many Americans’ diets. Advertising campaigns from the snack food companies, often featuring sports stars, send the message that we can neutralize any negative effects of consuming their products simply by getting more physical exercise. But recent studies show a lack of exercise is not to blame for rising obesity rates. Bad diets are.",
+      "zh": "垃圾食品如今已成为许多美国人日常饮食的重要组成部分。零食公司的广告活动常由体育明星出镜，传递的信息是：只要多进行体育锻炼，就能抵消食用其产品带来的任何负面影响。但近期研究表明，肥胖率上升并非缺乏运动之过，糟糕的饮食才是原因。"
+    },
+    {
+      "en": "Interventions (干预) to help reduce junk food consumption are especially important for children and teenagers. Prevention is better than cure because obesity is so difficult to treat. Unfortunately, while health education has shown some success among young children, teens have been harder to reach.",
+      "zh": "帮助减少垃圾食品摄入的干预措施，对儿童和青少年尤为重要。预防胜于治疗，因为肥胖很难治疗。遗憾的是，尽管健康教育在低龄儿童中取得了一些成效，却更难对青少年产生影响。"
+    },
+    {
+      "en": "Now a large-scale study has tried an innovative approach to change teenagers’ attitudes towards healthy eating, and the results are promising. The researchers argued that previous interventions have probably been unsuccessful because of a major flaw: they focused on a future, healthier you and assumed that this would be enough motivation for teenagers. In contrast, the new intervention cleverly exploits teenagers’ instinct for rebelliousness and autonomy, and the value they place on social justice.",
+      "zh": "如今，一项大规模研究尝试用创新方法改变青少年对健康饮食的态度，结果令人鼓舞。研究人员认为，过去的干预可能不成功，是因为存在一个重大缺陷：它们聚焦于未来更健康的你，并假定这足以成为青少年的动力。相比之下，新干预巧妙地利用了青少年的叛逆与自主本能，以及他们对社会公正的重视。"
+    },
+    {
+      "en": "To do this, researchers had students read an article on the food industry. It revealed a secret about the manipulative and deceptive strategies used to make junk food more addictive and characterize the products as healthy. The article also explained how advertising campaigns specifically target very young and poor people, causing harm for these vulnerable groups. Afterwards, the participants read a fictional survey of teens who wanted to “fight back against the companies by buying and eating less processed food”.",
+      "zh": "为此，研究人员让学生阅读一篇关于食品行业的文章。文章揭露了一个秘密：食品行业采用操纵性和欺骗性策略，使垃圾食品更容易让人上瘾，并将这些产品描述为健康食品。文章还解释了广告活动如何专门针对低龄和贫困人群，对这些易受伤害的群体造成危害。随后，参与者阅读了一份虚构的青少年调查，其中的青少年希望“通过少买、少吃加工食品来反击这些公司”。"
+    },
+    {
+      "en": "After the intervention, participants associated healthy eating with autonomy and social justice. The teenagers also rated healthy eating as being more appealing. Importantly, there were also some promising effects of the new intervention on actual behavior. A day later the students were offered a choice of snacks and drinks in a seemingly unrelated context. The teens chose healthy snacks and drinks (such as fruit or water) more often over unhealthy options (like biscuits and soda). Apparently associating a healthy diet with teenagers’ own values seems to be a promising avenue to prevent obesity.",
+      "zh": "干预后，参与者将健康饮食与自主和社会公正联系起来。青少年也认为健康饮食更有吸引力。重要的是，新干预对实际行为也产生了一些令人鼓舞的影响。一天后，学生在一个看似无关的情境中获得了选择零食和饮料的机会。他们更多地选择水果或水等健康零食和饮料，而不是饼干和汽水等不健康的选项。显然，将健康饮食与青少年自身的价值观联系起来，似乎是一条有希望预防肥胖的途径。"
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "pos": "art.",
+      "meaning": "一个；某个",
+      "pattern": "a staple of; a major flaw; a promising avenue"
+    },
+    "about": {
+      "pos": "prep.",
+      "meaning": "关于；大约"
+    },
+    "actual": {
+      "pos": "adj.",
+      "meaning": "实际的；真实的"
+    },
+    "addictive": {
+      "pos": "adj.",
+      "meaning": "使人上瘾的",
+      "ipa": "ʌdˈɪktɪv"
+    },
+    "adopted": {
+      "pos": "v.",
+      "meaning": "采用；采纳"
+    },
+    "advantage": {
+      "pos": "n.",
+      "meaning": "优势；益处",
+      "pattern": "take advantage of"
+    },
+    "advertising": {
+      "pos": "n./adj.",
+      "meaning": "广告；广告宣传的",
+      "pattern": "advertising campaigns"
+    },
+    "after": {
+      "pos": "prep./conj.",
+      "meaning": "在……之后"
+    },
+    "afterwards": {
+      "pos": "adv.",
+      "meaning": "后来；随后",
+      "ipa": "ˈæftɝwɝdz"
+    },
+    "against": {
+      "pos": "prep.",
+      "meaning": "反对；对抗；违背",
+      "pattern": "fight back against"
+    },
+    "also": {
+      "pos": "adv.",
+      "meaning": "也；还"
+    },
+    "americans’": {
+      "pos": "n.所有格",
+      "meaning": "美国人的"
+    },
+    "among": {
+      "pos": "介词",
+      "meaning": "在……之中；在……之间",
+      "ipa": "ɐmˈʌŋ"
+    },
+    "an": {
+      "pos": "冠词",
+      "ipa": "ˈæn",
+      "meaning": "一个；一（元音音素前）"
+    },
+    "and": {
+      "pos": "conj.",
+      "meaning": "和；并且",
+      "pattern": "instinct for rebelliousness and autonomy"
+    },
+    "any": {
+      "pos": "det./pron.",
+      "meaning": "任何；一些；无论哪一个",
+      "ipa": "ˈɛni"
+    },
+    "apparently": {
+      "pos": "adv.",
+      "meaning": "显然；看来"
+    },
+    "appealing": {
+      "pos": "adj./v.",
+      "meaning": "有吸引力的；吸引"
+    },
+    "approach": {
+      "pos": "n./v.",
+      "meaning": "方法；接近",
+      "context": "研究采用的干预方法。"
+    },
+    "are": {
+      "pos": "v.",
+      "meaning": "是；处于"
+    },
+    "argued": {
+      "pos": "v.",
+      "meaning": "认为；论证；争辩"
+    },
+    "article": {
+      "pos": "n.",
+      "meaning": "文章；物品"
+    },
+    "as": {
+      "pos": "conj./prep.",
+      "meaning": "按照；作为；当……时"
+    },
+    "associated": {
+      "pos": "v.-ed/adj.",
+      "meaning": "相关的；联系在一起的",
+      "ipa": "ʌsˈoʊsiˌeɪtɪd",
+      "context": "将健康饮食与自主和社会公正联系起来。"
+    },
+    "associating": {
+      "pos": "v.",
+      "meaning": "把……联系起来",
+      "context": "将健康饮食与青少年自身价值观联系起来。"
+    },
+    "assumed": {
+      "pos": "v.",
+      "meaning": "假定；认为"
+    },
+    "assumption": {
+      "pos": "n.",
+      "meaning": "假设；假定"
+    },
+    "attitudes": {
+      "pos": "n.",
+      "meaning": "态度；看法"
+    },
+    "autonomy": {
+      "pos": "n.",
+      "meaning": "自主；自主权",
+      "context": "青少年自主作出选择、不受操纵的愿望。",
+      "ipa": "ɔːˈtɒnəmi",
+      "pattern": "instinct for rebelliousness and autonomy"
+    },
+    "avenue": {
+      "pos": "n.",
+      "meaning": "途径；大街",
+      "context": "预防肥胖的可能途径。",
+      "pattern": "a promising avenue"
+    },
+    "away": {
+      "pos": "adv.",
+      "meaning": "离开；远离"
+    },
+    "back": {
+      "pos": "adv./n.",
+      "meaning": "回；向后；背部",
+      "pattern": "fight back against"
+    },
+    "bad": {
+      "pos": "adj.",
+      "meaning": "坏的；不良的",
+      "context": "不健康的饮食结构。"
+    },
+    "based": {
+      "pos": "v./adj.",
+      "meaning": "以……为基础的"
+    },
+    "be": {
+      "pos": "v.",
+      "meaning": "是；成为；处于",
+      "pattern": "be to blame for"
+    },
+    "beat": {
+      "pos": "v.",
+      "meaning": "打败；战胜"
+    },
+    "because": {
+      "pos": "conj.",
+      "meaning": "因为"
+    },
+    "been": {
+      "pos": "v.",
+      "meaning": "是；处于"
+    },
+    "behavior": {
+      "pos": "n.",
+      "meaning": "行为；举止"
+    },
+    "being": {
+      "pos": "v.",
+      "meaning": "是；处于"
+    },
+    "benefits": {
+      "pos": "n.",
+      "meaning": "益处；福利",
+      "pattern": "reap benefits"
+    },
+    "better": {
+      "pos": "adj./adv.",
+      "meaning": "更好的；更好地",
+      "pattern": "prevention is better than cure"
+    },
+    "between": {
+      "pos": "prep.",
+      "meaning": "在……之间",
+      "ipa": "bɪtwˈin"
+    },
+    "biscuits": {
+      "pos": "n.",
+      "meaning": "饼干"
+    },
+    "blame": {
+      "pos": "v./n.",
+      "meaning": "责怪；责任",
+      "pattern": "be to blame for"
+    },
+    "building": {
+      "pos": "v./n.",
+      "meaning": "建立；建筑物"
+    },
+    "but": {
+      "pos": "conj.",
+      "meaning": "但是；然而",
+      "ipa": "bˈʌt"
+    },
+    "buying": {
+      "pos": "v.-ing",
+      "meaning": "购买；买进",
+      "ipa": "bˈaɪɪŋ"
+    },
+    "by": {
+      "pos": "prep.",
+      "meaning": "通过；由；在……之前"
+    },
+    "campaigns": {
+      "pos": "名词·复数",
+      "meaning": "活动；运动；宣传活动",
+      "ipa": "kæmpˈeɪnz",
+      "pattern": "advertising campaigns"
+    },
+    "can": {
+      "pos": "modal v.",
+      "meaning": "能；可能"
+    },
+    "causing": {
+      "pos": "v.",
+      "meaning": "引起；造成"
+    },
+    "change": {
+      "pos": "v./n.",
+      "meaning": "改变；变化"
+    },
+    "characterize": {
+      "pos": "v.",
+      "meaning": "描述……的特征；将……描述为"
+    },
+    "children": {
+      "pos": "n.",
+      "meaning": "儿童；孩子们"
+    },
+    "choice": {
+      "pos": "n.",
+      "meaning": "选择；可选项"
+    },
+    "chose": {
+      "pos": "v.",
+      "meaning": "选择（choose的过去式）"
+    },
+    "claim": {
+      "pos": "v./n.",
+      "meaning": "声称；主张"
+    },
+    "cleverly": {
+      "pos": "adv.",
+      "meaning": "巧妙地；聪明地"
+    },
+    "combat": {
+      "pos": "v./n.",
+      "meaning": "对抗；斗争"
+    },
+    "companies": {
+      "pos": "名词·复数",
+      "ipa": "kˈʌmpəniz",
+      "meaning": "公司；企业"
+    },
+    "companies’": {
+      "pos": "n.所有格",
+      "meaning": "公司的"
+    },
+    "conclusion": {
+      "pos": "n.",
+      "meaning": "结论"
+    },
+    "consumers": {
+      "pos": "名词·复数",
+      "ipa": "kənsˈuːmɚz",
+      "meaning": "消费者；顾客"
+    },
+    "consuming": {
+      "pos": "v.",
+      "meaning": "食用；消费；消耗"
+    },
+    "consumption": {
+      "pos": "n.",
+      "meaning": "消费；摄入"
+    },
+    "context": {
+      "pos": "n.",
+      "meaning": "情境；上下文"
+    },
+    "contrast": {
+      "pos": "n./v.",
+      "meaning": "对比；对照",
+      "pattern": "in contrast"
+    },
+    "contributed": {
+      "pos": "v.",
+      "meaning": "促成；贡献"
+    },
+    "convey": {
+      "pos": "v.",
+      "meaning": "传达；表达"
+    },
+    "could": {
+      "pos": "modal v.",
+      "meaning": "可能；能够"
+    },
+    "cure": {
+      "pos": "n./v.",
+      "meaning": "治疗；治愈",
+      "pattern": "prevention is better than cure"
+    },
+    "day": {
+      "pos": "n.",
+      "meaning": "一天；白天"
+    },
+    "deceptive": {
+      "pos": "adj.",
+      "meaning": "欺骗性的；误导的"
+    },
+    "diet": {
+      "pos": "n.",
+      "meaning": "饮食；膳食",
+      "context": "日常饮食。"
+    },
+    "diets": {
+      "pos": "n.",
+      "meaning": "日常饮食；饮食结构",
+      "context": "美国人的日常饮食结构。"
+    },
+    "different": {
+      "pos": "adj.",
+      "meaning": "不同的"
+    },
+    "difficult": {
+      "pos": "adj.",
+      "meaning": "困难的；费力的",
+      "ipa": "dˈɪfʌkʌlt"
+    },
+    "do": {
+      "pos": "v./aux.",
+      "meaning": "做；用于构成疑问句"
+    },
+    "does": {
+      "pos": "aux./v.",
+      "meaning": "做；用于构成疑问句"
+    },
+    "drawn": {
+      "pos": "v.",
+      "meaning": "得出；画；拉（draw的过去分词）"
+    },
+    "drinks": {
+      "pos": "n./v.",
+      "meaning": "饮料；喝"
+    },
+    "eating": {
+      "pos": "v./n.",
+      "meaning": "吃；进食"
+    },
+    "education": {
+      "pos": "n.",
+      "meaning": "教育"
+    },
+    "effective": {
+      "pos": "形容词",
+      "meaning": "有效的；起作用的",
+      "ipa": "ɪfˈɛktɪv"
+    },
+    "effects": {
+      "pos": "n.",
+      "meaning": "效果；影响",
+      "pattern": "neutralize negative effects"
+    },
+    "emphasis": {
+      "pos": "n.",
+      "meaning": "强调；重视"
+    },
+    "emphasize": {
+      "pos": "v.",
+      "meaning": "强调；重视"
+    },
+    "emphasizes": {
+      "pos": "v.",
+      "meaning": "强调；重视"
+    },
+    "enough": {
+      "pos": "adj./adv.",
+      "meaning": "足够的；足够地"
+    },
+    "especially": {
+      "pos": "adv.",
+      "meaning": "尤其；特别"
+    },
+    "exercise": {
+      "pos": "n./v.",
+      "meaning": "锻炼；运动",
+      "context": "体育锻炼。"
+    },
+    "explained": {
+      "pos": "v.",
+      "meaning": "解释；说明"
+    },
+    "exploits": {
+      "pos": "v.",
+      "meaning": "利用；开发",
+      "context": "巧妙利用青少年的本能倾向。"
+    },
+    "expose": {
+      "pos": "v.",
+      "meaning": "揭露；暴露"
+    },
+    "failed": {
+      "pos": "v.",
+      "meaning": "失败；未能"
+    },
+    "feature": {
+      "pos": "v./n.",
+      "meaning": "以……为特色；包含；特征",
+      "context": "让体育明星出镜。"
+    },
+    "featuring": {
+      "pos": "v.",
+      "meaning": "由……出镜；以……为特色",
+      "context": "广告中由体育明星出镜。"
+    },
+    "fictional": {
+      "pos": "adj.",
+      "meaning": "虚构的"
+    },
+    "fight": {
+      "pos": "v./n.",
+      "meaning": "斗争；反击",
+      "pattern": "fight back against"
+    },
+    "flaw": {
+      "pos": "n.",
+      "meaning": "缺陷；缺点",
+      "pattern": "a major flaw"
+    },
+    "focused": {
+      "pos": "v.",
+      "meaning": "聚焦；集中"
+    },
+    "food": {
+      "pos": "n.",
+      "meaning": "食物",
+      "pattern": "junk food; processed food"
+    },
+    "foods": {
+      "pos": "n.",
+      "meaning": "食物；食品"
+    },
+    "for": {
+      "pos": "prep.",
+      "meaning": "为了；对于；给",
+      "pattern": "be to blame for; instinct for rebelliousness and autonomy"
+    },
+    "found": {
+      "pos": "v.",
+      "meaning": "发现；找到"
+    },
+    "from": {
+      "pos": "prep.",
+      "meaning": "从；来自"
+    },
+    "fruit": {
+      "pos": "n.",
+      "meaning": "水果；成果"
+    },
+    "future": {
+      "pos": "n./adj.",
+      "meaning": "未来；未来的",
+      "context": "未来更健康的身体状态。"
+    },
+    "getting": {
+      "pos": "v.",
+      "meaning": "获得；进行；变得"
+    },
+    "groups": {
+      "pos": "n.",
+      "meaning": "群体；组"
+    },
+    "had": {
+      "pos": "v./aux.",
+      "meaning": "有；已经"
+    },
+    "harder": {
+      "pos": "adj. 比较级",
+      "meaning": "更难的",
+      "ipa": "hˈɑɹdɝ"
+    },
+    "harm": {
+      "pos": "n./v.",
+      "meaning": "伤害；危害"
+    },
+    "has": {
+      "pos": "v./aux.",
+      "meaning": "有；已经"
+    },
+    "have": {
+      "pos": "v./aux.",
+      "meaning": "有；已经"
+    },
+    "health": {
+      "pos": "名词",
+      "meaning": "健康；卫生",
+      "ipa": "hˈɛlθ"
+    },
+    "healthier": {
+      "pos": "adj.",
+      "meaning": "更健康的"
+    },
+    "healthy": {
+      "pos": "adj.",
+      "meaning": "健康的",
+      "context": "有益健康的饮食或零食。"
+    },
+    "help": {
+      "pos": "动词/名词",
+      "meaning": "帮助；有助于",
+      "ipa": "hˈɛlp"
+    },
+    "hopefully": {
+      "pos": "adv.",
+      "meaning": "有希望地；但愿"
+    },
+    "how": {
+      "pos": "疑问副词",
+      "meaning": "如何；怎样；多么",
+      "ipa": "hˈaʊ"
+    },
+    "idea": {
+      "pos": "n.",
+      "meaning": "观点；想法"
+    },
+    "if": {
+      "pos": "连词",
+      "ipa": "ˈɪf",
+      "meaning": "如果；是否"
+    },
+    "immediate": {
+      "pos": "adj.",
+      "meaning": "立即的；即时的"
+    },
+    "important": {
+      "pos": "adj.",
+      "meaning": "重要的"
+    },
+    "importantly": {
+      "pos": "adv.",
+      "meaning": "重要的是"
+    },
+    "in": {
+      "pos": "prep.",
+      "meaning": "在……内；在……中",
+      "pattern": "in contrast"
+    },
+    "incapable": {
+      "pos": "adj.",
+      "meaning": "不能的；无能力的"
+    },
+    "inclination": {
+      "pos": "n.",
+      "meaning": "倾向；意愿"
+    },
+    "increasing": {
+      "pos": "v.",
+      "meaning": "增加；提高"
+    },
+    "industry": {
+      "pos": "n.",
+      "meaning": "行业；产业；工业",
+      "ipa": "ˈɪndʌstɹi"
+    },
+    "innovative": {
+      "pos": "adj.",
+      "meaning": "创新的",
+      "context": "研究采用的创新干预方法。",
+      "ipa": "ˈɪnəveɪtɪv"
+    },
+    "instinct": {
+      "pos": "n.",
+      "meaning": "本能；直觉",
+      "pattern": "instinct for rebelliousness and autonomy"
+    },
+    "intervention": {
+      "pos": "n.",
+      "meaning": "干预；干预措施"
+    },
+    "interventions": {
+      "pos": "n.",
+      "meaning": "干预；干预措施"
+    },
+    "is": {
+      "pos": "v./aux.",
+      "meaning": "是；处于",
+      "pattern": "prevention is better than cure"
+    },
+    "it": {
+      "pos": "pron.",
+      "meaning": "它；这"
+    },
+    "junk": {
+      "pos": "n./adj.",
+      "meaning": "废物；无价值的；垃圾的",
+      "pattern": "junk food"
+    },
+    "justice": {
+      "pos": "n.",
+      "meaning": "公正；正义",
+      "context": "social justice：社会公正。",
+      "pattern": "social justice"
+    },
+    "key": {
+      "pos": "n./adj.",
+      "meaning": "关键；钥匙；关键的"
+    },
+    "lack": {
+      "pos": "n./v.",
+      "meaning": "缺乏；不足；没有",
+      "ipa": "lˈæk"
+    },
+    "large-scale": {
+      "pos": "adj.",
+      "meaning": "大规模的"
+    },
+    "largely": {
+      "pos": "adv.",
+      "meaning": "主要地；在很大程度上"
+    },
+    "later": {
+      "pos": "adv./adj.",
+      "meaning": "较晚；后来的"
+    },
+    "learn": {
+      "pos": "v.",
+      "meaning": "了解；学习"
+    },
+    "less": {
+      "pos": "adv./det.",
+      "meaning": "较少；更少"
+    },
+    "lifestyle": {
+      "pos": "名词",
+      "ipa": "lˈaɪfstaɪl",
+      "meaning": "生活方式"
+    },
+    "light": {
+      "pos": "n./v./adj.",
+      "meaning": "光；使明白；轻的",
+      "context": "shed light on：揭示；阐明。"
+    },
+    "like": {
+      "pos": "介词/动词",
+      "meaning": "像；例如；喜欢",
+      "ipa": "lˈaɪk"
+    },
+    "links": {
+      "pos": "n./v.",
+      "meaning": "联系；连接"
+    },
+    "little": {
+      "pos": "det./adj.",
+      "meaning": "很少的；小的"
+    },
+    "major": {
+      "pos": "adj.",
+      "meaning": "主要的；重大的",
+      "pattern": "a major flaw"
+    },
+    "make": {
+      "pos": "动词",
+      "meaning": "制作；使得；造成",
+      "ipa": "mˈeɪk"
+    },
+    "manipulative": {
+      "pos": "adj.",
+      "meaning": "操纵性的；善于操控他人的",
+      "context": "食品公司操控消费者选择的策略。",
+      "ipa": "məˈnɪpjələtɪv"
+    },
+    "many": {
+      "pos": "det./pron.",
+      "meaning": "许多"
+    },
+    "message": {
+      "pos": "n.",
+      "meaning": "信息；要旨"
+    },
+    "more": {
+      "pos": "det./adv.",
+      "meaning": "更多；更加"
+    },
+    "motivated": {
+      "pos": "v.",
+      "meaning": "激励；促使"
+    },
+    "motivation": {
+      "pos": "n.",
+      "meaning": "动力；动机",
+      "context": "让青少年选择健康饮食的动力。",
+      "ipa": "ˌməʊtɪˈveɪʃən"
+    },
+    "much": {
+      "pos": "adv./det.",
+      "meaning": "很；多"
+    },
+    "natural": {
+      "pos": "adj.",
+      "meaning": "自然的；天生的"
+    },
+    "negative": {
+      "pos": "adj.",
+      "meaning": "负面的；消极的",
+      "ipa": "nˈɛɡʌtɪv",
+      "pattern": "neutralize negative effects"
+    },
+    "neutralize": {
+      "pos": "v.",
+      "meaning": "抵消；使失效",
+      "context": "抵消食用垃圾食品的负面影响。",
+      "ipa": "ˈnjuːtrəlaɪz",
+      "pattern": "neutralize negative effects"
+    },
+    "new": {
+      "pos": "形容词",
+      "ipa": "nˈuː",
+      "meaning": "新的；新出现的"
+    },
+    "not": {
+      "pos": "adv.",
+      "meaning": "不；没有"
+    },
+    "now": {
+      "pos": "adv.",
+      "meaning": "现在；如今"
+    },
+    "obesity": {
+      "pos": "n.",
+      "meaning": "肥胖；肥胖症"
+    },
+    "of": {
+      "pos": "prep.",
+      "meaning": "……的",
+      "pattern": "a staple of; take advantage of"
+    },
+    "offered": {
+      "pos": "v.",
+      "meaning": "提供；给予"
+    },
+    "often": {
+      "pos": "adv.",
+      "meaning": "经常；往往"
+    },
+    "ok": {
+      "pos": "adj.",
+      "meaning": "可以接受的；没问题的"
+    },
+    "on": {
+      "pos": "prep.",
+      "meaning": "在……上；关于",
+      "pattern": "focus on; place value on"
+    },
+    "only": {
+      "pos": "副词/形容词",
+      "ipa": "ˈoʊnli",
+      "meaning": "仅仅；只有；唯一的"
+    },
+    "options": {
+      "pos": "n.",
+      "meaning": "选项；选择"
+    },
+    "or": {
+      "pos": "conj.",
+      "meaning": "或者；或"
+    },
+    "over": {
+      "pos": "prep./adv.",
+      "meaning": "超过；在……期间",
+      "context": "在选择中偏向前者，而不选后者：choose healthy snacks over unhealthy options。"
+    },
+    "own": {
+      "pos": "adj./v.",
+      "meaning": "自己的；拥有",
+      "context": "青少年自身的价值观。"
+    },
+    "participants": {
+      "pos": "n.",
+      "meaning": "参与者"
+    },
+    "passage": {
+      "pos": "n.",
+      "meaning": "文章；段落"
+    },
+    "people": {
+      "pos": "n.",
+      "meaning": "人们"
+    },
+    "people’s": {
+      "pos": "名词·所有格",
+      "ipa": "pˈiːpəlz",
+      "meaning": "人们的；某些人的"
+    },
+    "personal": {
+      "pos": "adj.",
+      "meaning": "个人的"
+    },
+    "persuade": {
+      "pos": "v.",
+      "meaning": "说服；劝说"
+    },
+    "physical": {
+      "pos": "adj.",
+      "meaning": "身体的；体力的",
+      "context": "physical exercise：体育锻炼。"
+    },
+    "place": {
+      "pos": "v./n.",
+      "meaning": "赋予；放置；地方",
+      "context": "place value on：重视社会公正。",
+      "pattern": "place value on"
+    },
+    "placed": {
+      "pos": "v.",
+      "meaning": "放置；给予",
+      "context": "placed emphasis on：重视；强调。"
+    },
+    "poor": {
+      "pos": "adj.",
+      "meaning": "贫困的；差的"
+    },
+    "practices": {
+      "pos": "n.",
+      "meaning": "做法；惯例"
+    },
+    "prevent": {
+      "pos": "v.",
+      "meaning": "预防；防止"
+    },
+    "prevented": {
+      "pos": "v.",
+      "meaning": "预防；阻止"
+    },
+    "prevention": {
+      "pos": "n.",
+      "meaning": "预防；防止",
+      "pattern": "prevention is better than cure"
+    },
+    "previous": {
+      "pos": "adj.",
+      "meaning": "以往的；先前的"
+    },
+    "probably": {
+      "pos": "adv.",
+      "meaning": "很可能；大概"
+    },
+    "processed": {
+      "pos": "adj./v.",
+      "meaning": "加工的；处理过的",
+      "context": "经过加工的食品。",
+      "pattern": "processed food"
+    },
+    "products": {
+      "pos": "名词·复数",
+      "ipa": "pɹˈɑːdʌkts",
+      "meaning": "产品；商品"
+    },
+    "promises": {
+      "pos": "v./n.",
+      "meaning": "承诺；许诺"
+    },
+    "promising": {
+      "pos": "adj.",
+      "meaning": "有希望的；有前景的",
+      "context": "结果令人鼓舞；有望改善饮食行为。",
+      "pattern": "a promising avenue"
+    },
+    "rated": {
+      "pos": "v.",
+      "meaning": "评价；评定"
+    },
+    "rates": {
+      "pos": "n.",
+      "meaning": "比率；发生率",
+      "context": "肥胖率。"
+    },
+    "rather": {
+      "pos": "adv.",
+      "meaning": "相当；宁可"
+    },
+    "reach": {
+      "pos": "v.",
+      "meaning": "影响；触及；到达",
+      "context": "指健康教育较难触动或影响青少年。"
+    },
+    "read": {
+      "pos": "v.",
+      "meaning": "阅读"
+    },
+    "reap": {
+      "pos": "v.",
+      "meaning": "获得；收获",
+      "pattern": "reap benefits"
+    },
+    "rebellion": {
+      "pos": "n.",
+      "meaning": "叛逆；反抗"
+    },
+    "rebelliousness": {
+      "pos": "n.",
+      "meaning": "叛逆；反抗性",
+      "context": "青少年反抗外部操控的叛逆本能。",
+      "pattern": "instinct for rebelliousness and autonomy"
+    },
+    "recent": {
+      "pos": "adj.",
+      "meaning": "最近的"
+    },
+    "reduce": {
+      "pos": "v.",
+      "meaning": "减少；降低"
+    },
+    "research": {
+      "pos": "n./v.",
+      "meaning": "研究"
+    },
+    "researchers": {
+      "pos": "n.",
+      "meaning": "研究人员"
+    },
+    "responsibility": {
+      "pos": "n.",
+      "meaning": "责任"
+    },
+    "responsible": {
+      "pos": "adj.",
+      "meaning": "负有责任的；作为原因的",
+      "context": "be responsible for：是……的原因。"
+    },
+    "results": {
+      "pos": "n.",
+      "meaning": "结果；成果"
+    },
+    "revealed": {
+      "pos": "v.",
+      "meaning": "揭露；揭示"
+    },
+    "rising": {
+      "pos": "adj./v.",
+      "meaning": "上升的；增加的"
+    },
+    "say": {
+      "pos": "v.",
+      "meaning": "说；表明"
+    },
+    "secret": {
+      "pos": "名词/形容词",
+      "ipa": "sˈiːkɹət",
+      "meaning": "秘诀；秘密；隐秘的"
+    },
+    "seemingly": {
+      "pos": "adv.",
+      "meaning": "看似；表面上"
+    },
+    "seems": {
+      "pos": "v.",
+      "meaning": "似乎；看来"
+    },
+    "send": {
+      "pos": "v.",
+      "meaning": "传递；发送"
+    },
+    "sense": {
+      "pos": "n.",
+      "meaning": "感觉；意识；意义",
+      "ipa": "sˈɛns"
+    },
+    "shed": {
+      "pos": "v.",
+      "meaning": "使落下；散发"
+    },
+    "show": {
+      "pos": "v./n.",
+      "meaning": "表明；展示"
+    },
+    "shown": {
+      "pos": "v.",
+      "meaning": "显示；表明（show的过去分词）",
+      "context": "健康教育已展现出一定成效。"
+    },
+    "simply": {
+      "pos": "adv.",
+      "meaning": "仅仅；只要；简单地"
+    },
+    "snack": {
+      "pos": "名词",
+      "ipa": "snˈæk",
+      "meaning": "零食；小吃"
+    },
+    "snacks": {
+      "pos": "n.",
+      "meaning": "零食；小吃"
+    },
+    "so": {
+      "pos": "副词/连词",
+      "meaning": "如此；这么；所以",
+      "ipa": "sˈoʊ"
+    },
+    "social": {
+      "pos": "形容词",
+      "ipa": "sˈoʊʃəl",
+      "meaning": "社会的；社交的",
+      "pattern": "social justice"
+    },
+    "soda": {
+      "pos": "n.",
+      "meaning": "汽水；苏打水"
+    },
+    "some": {
+      "pos": "det./pron.",
+      "meaning": "一些；某些"
+    },
+    "specifically": {
+      "pos": "adv.",
+      "meaning": "专门地；具体地"
+    },
+    "sports": {
+      "pos": "n./adj.",
+      "meaning": "体育运动；体育的",
+      "context": "sports stars：体育明星。"
+    },
+    "staple": {
+      "pos": "n./adj.",
+      "meaning": "主食；主要组成部分；主要的",
+      "context": "此处为日常饮食的主要组成部分，不是订书钉。",
+      "ipa": "ˈsteɪpəl",
+      "pattern": "a staple of"
+    },
+    "stars": {
+      "pos": "名词·复数",
+      "ipa": "stˈɑːɹz",
+      "meaning": "明星；星星",
+      "context": "广告中出镜的体育明星。"
+    },
+    "stay": {
+      "pos": "v.",
+      "meaning": "留下；继续"
+    },
+    "strategies": {
+      "pos": "n.",
+      "meaning": "策略；方法"
+    },
+    "students": {
+      "pos": "n.",
+      "meaning": "学生"
+    },
+    "studies": {
+      "pos": "n./v.",
+      "meaning": "研究；学习"
+    },
+    "study": {
+      "pos": "n./v.",
+      "meaning": "研究；学习"
+    },
+    "success": {
+      "pos": "n.",
+      "meaning": "成功；成效"
+    },
+    "such": {
+      "pos": "det./adj.",
+      "meaning": "这样的；如此的；例如",
+      "ipa": "sˈʌtʃ"
+    },
+    "survey": {
+      "pos": "n./v.",
+      "meaning": "调查"
+    },
+    "switch": {
+      "pos": "v./n.",
+      "meaning": "转向；转换"
+    },
+    "takes": {
+      "pos": "动词·第三人称单数",
+      "ipa": "tˈeɪks",
+      "meaning": "拿；花费；进行",
+      "context": "takes advantage of：利用。"
+    },
+    "target": {
+      "pos": "v./n.",
+      "meaning": "以……为目标；靶点"
+    },
+    "teenagers": {
+      "pos": "n.",
+      "meaning": "青少年"
+    },
+    "teenagers’": {
+      "pos": "n.所有格",
+      "meaning": "青少年的"
+    },
+    "teens": {
+      "pos": "n.",
+      "meaning": "青少年；十几岁"
+    },
+    "teens’": {
+      "pos": "n.所有格",
+      "meaning": "青少年的"
+    },
+    "temporarily": {
+      "pos": "adv.",
+      "meaning": "暂时地；短时间内",
+      "ipa": "tˌɛmpɝˈɛɹʌli"
+    },
+    "than": {
+      "pos": "conj./prep.",
+      "meaning": "比；而不是",
+      "pattern": "prevention is better than cure"
+    },
+    "that": {
+      "pos": "conj./pron./det.",
+      "meaning": "引导从句；那；那个"
+    },
+    "the": {
+      "pos": "art.",
+      "meaning": "这；该"
+    },
+    "their": {
+      "pos": "det.",
+      "meaning": "他们的；它们的"
+    },
+    "there": {
+      "pos": "adv./pron.",
+      "meaning": "那里；用于存在句"
+    },
+    "these": {
+      "pos": "det./pron.",
+      "meaning": "这些"
+    },
+    "they": {
+      "pos": "pron.",
+      "meaning": "他们；它们"
+    },
+    "this": {
+      "pos": "代词/限定词",
+      "ipa": "ðˈɪs",
+      "meaning": "这个；这件事"
+    },
+    "to": {
+      "pos": "prep./inf.",
+      "meaning": "向；对；用于动词不定式",
+      "pattern": "be to blame for"
+    },
+    "totally": {
+      "pos": "adv.",
+      "meaning": "完全地"
+    },
+    "towards": {
+      "pos": "prep.",
+      "meaning": "对于；朝向"
+    },
+    "treat": {
+      "pos": "v.",
+      "meaning": "治疗；对待"
+    },
+    "tried": {
+      "pos": "v.",
+      "meaning": "尝试；试验"
+    },
+    "turn": {
+      "pos": "v.",
+      "meaning": "使变成；转变；转动",
+      "ipa": "tˈɝn"
+    },
+    "unfortunately": {
+      "pos": "adv.",
+      "meaning": "不幸地；遗憾的是"
+    },
+    "unhealthy": {
+      "pos": "adj.",
+      "meaning": "不健康的"
+    },
+    "unrelated": {
+      "pos": "adj.",
+      "meaning": "无关的"
+    },
+    "unsuccessful": {
+      "pos": "adj.",
+      "meaning": "不成功的"
+    },
+    "used": {
+      "pos": "动词·过去分词/形容词",
+      "meaning": "使用；用过的",
+      "ipa": "jˈuːzd"
+    },
+    "usually": {
+      "pos": "副词",
+      "meaning": "通常；一般",
+      "ipa": "jˈuːʒuːəli"
+    },
+    "value": {
+      "pos": "名词",
+      "ipa": "vˈæljuː",
+      "meaning": "价值；金额；重要性",
+      "pattern": "place value on",
+      "context": "the value they place on：他们对……的重视。"
+    },
+    "values": {
+      "pos": "n.",
+      "meaning": "价值观；价值",
+      "context": "青少年关于自主与社会公正的价值观。"
+    },
+    "very": {
+      "pos": "adv./adj.",
+      "meaning": "很；非常；正是"
+    },
+    "vulnerable": {
+      "pos": "adj.",
+      "meaning": "易受伤害的；脆弱的",
+      "context": "低龄或贫困、容易受到广告伤害的人群。",
+      "ipa": "ˈvʌlnərəbl"
+    },
+    "wanted": {
+      "pos": "v.",
+      "meaning": "想要；希望"
+    },
+    "was": {
+      "pos": "系动词/助动词·过去式",
+      "ipa": "wˈʌz",
+      "meaning": "是；处于；曾经"
+    },
+    "water": {
+      "pos": "名词/动词",
+      "ipa": "wˈɔːɾɚ",
+      "meaning": "水；给……浇水",
+      "context": "作为健康饮品的水。"
+    },
+    "way": {
+      "pos": "n.",
+      "meaning": "方式；方法；道路",
+      "ipa": "wˈeɪ"
+    },
+    "we": {
+      "pos": "pron.",
+      "meaning": "我们"
+    },
+    "weaknesses": {
+      "pos": "n.",
+      "meaning": "弱点；缺点"
+    },
+    "were": {
+      "pos": "系动词/助动词·过去式",
+      "ipa": "wˈɜː",
+      "meaning": "是；处于；曾经"
+    },
+    "what": {
+      "pos": "pron./det.",
+      "meaning": "什么"
+    },
+    "while": {
+      "pos": "conj.",
+      "meaning": "而；当……时"
+    },
+    "who": {
+      "pos": "pron.",
+      "meaning": "谁；……的人"
+    },
+    "with": {
+      "pos": "prep.",
+      "meaning": "与；用；和",
+      "pattern": "associate ... with ..."
+    },
+    "would": {
+      "pos": "情态动词",
+      "ipa": "wˈʊd",
+      "meaning": "将会；会；愿意"
+    },
+    "you": {
+      "pos": "代词",
+      "ipa": "jˈuː",
+      "meaning": "你；你们"
+    },
+    "young": {
+      "pos": "形容词",
+      "ipa": "jˈʌŋ",
+      "meaning": "年轻的；年幼的"
+    }
+  },
+  "phrases": [
+    {
+      "en": "junk food",
+      "zh": "垃圾食品"
+    },
+    {
+      "en": "a staple of",
+      "zh": "……的重要组成部分；常吃的食物"
+    },
+    {
+      "en": "advertising campaigns",
+      "zh": "广告宣传活动"
+    },
+    {
+      "en": "neutralize negative effects",
+      "zh": "抵消负面影响"
+    },
+    {
+      "en": "be to blame for",
+      "zh": "应为……负责"
+    },
+    {
+      "en": "prevention is better than cure",
+      "zh": "预防胜于治疗"
+    },
+    {
+      "en": "a major flaw",
+      "zh": "一个重大缺陷"
+    },
+    {
+      "en": "focus on",
+      "zh": "聚焦于"
+    },
+    {
+      "en": "in contrast",
+      "zh": "相比之下"
+    },
+    {
+      "en": "instinct for rebelliousness and autonomy",
+      "zh": "叛逆与自主的本能"
+    },
+    {
+      "en": "place value on",
+      "zh": "重视"
+    },
+    {
+      "en": "social justice",
+      "zh": "社会公正"
+    },
+    {
+      "en": "fight back against",
+      "zh": "反击"
+    },
+    {
+      "en": "processed food",
+      "zh": "加工食品"
+    },
+    {
+      "en": "associate ... with ...",
+      "zh": "将……与……联系起来"
+    },
+    {
+      "en": "a promising avenue",
+      "zh": "一条有希望的途径"
+    },
+    {
+      "en": "take advantage of",
+      "zh": "利用"
+    },
+    {
+      "en": "reap benefits",
+      "zh": "获得益处"
+    }
+  ],
+  "questions": [
+    {
+      "number": 46,
+      "type": "choice",
+      "en": "What do we learn about advertising campaigns from the snack food companies?",
+      "zh": "关于零食公司的广告活动，我们了解到什么？",
+      "options": [
+        {
+          "key": "A",
+          "en": "They convey the idea that their products are ok if consumers exercise more.",
+          "zh": "它们传递的观点是：只要消费者多运动，其产品就没有问题。"
+        },
+        {
+          "key": "B",
+          "en": "They send the message that bad diets are responsible for Americans’ obesity.",
+          "zh": "它们传递的信息是：糟糕的饮食导致美国人肥胖。"
+        },
+        {
+          "key": "C",
+          "en": "They usually feature sports stars to emphasize the benefits of their snack foods.",
+          "zh": "它们通常让体育明星出镜，以强调其零食的益处。"
+        },
+        {
+          "key": "D",
+          "en": "They claim that lack of exercise is to blame for the increasing obesity rates.",
+          "zh": "它们声称缺乏运动是肥胖率上升的原因。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "定位：第1段第2句。A项 convey the idea 对应 send the message；products are ok 概括“运动可抵消产品的负面影响”；exercise more 对应 getting more physical exercise。B项是研究结论，并非广告传递的信息；C项虽有明星出镜这一细节，但“强调零食的益处”未提及；D项将广告中“运动可抵消影响”扩大为对肥胖率上升原因的断言。",
+      "evidence": "Advertising campaigns from the snack food companies, often featuring sports stars, send the message that we can neutralize any negative effects of consuming their products simply by getting more physical exercise."
+    },
+    {
+      "number": 47,
+      "type": "choice",
+      "en": "What does the passage say about health education?",
+      "zh": "文章关于健康教育说了什么？",
+      "options": [
+        {
+          "key": "A",
+          "en": "It has shed light on teens’ instinct for rebellion and autonomy.",
+          "zh": "它揭示了青少年的叛逆与自主本能。"
+        },
+        {
+          "key": "B",
+          "en": "It has placed much more emphasis on cure than on prevention.",
+          "zh": "它对治疗的重视远超过预防。"
+        },
+        {
+          "key": "C",
+          "en": "It has contributed little to the campaigns against obesity.",
+          "zh": "它对反肥胖活动贡献甚微。"
+        },
+        {
+          "key": "D",
+          "en": "It has largely failed to turn teens away from junk food.",
+          "zh": "它在很大程度上未能让青少年远离垃圾食品。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "定位：第2段末句。teens have been harder to reach 表明健康教育较难对青少年产生效果，D项概括了这一点。A项混入新干预利用青少年本能的原理；B项与“预防胜于治疗”的表述不符；C项忽略了健康教育已在低龄儿童中取得成效，概括过度。",
+      "evidence": "Unfortunately, while health education has shown some success among young children, teens have been harder to reach."
+    },
+    {
+      "number": 48,
+      "type": "choice",
+      "en": "What is a major flaw in previous interventions to help reduce junk food consumption?",
+      "zh": "以往减少垃圾食品摄入的干预措施存在什么重大缺陷？",
+      "options": [
+        {
+          "key": "A",
+          "en": "They motivated teens to stay away from junk food only temporarily.",
+          "zh": "它们仅暂时激励青少年远离垃圾食品。"
+        },
+        {
+          "key": "B",
+          "en": "They focused on the benefits young people would reap in the future.",
+          "zh": "它们聚焦于年轻人未来能够获得的益处。"
+        },
+        {
+          "key": "C",
+          "en": "They were based on the assumption that motivation was the only key.",
+          "zh": "它们基于动机是唯一关键的假设。"
+        },
+        {
+          "key": "D",
+          "en": "They were incapable of appealing to teens’ instinct for rebelliousness.",
+          "zh": "它们无法吸引青少年的叛逆本能。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "定位：第3段第2句。过去的干预聚焦“未来更健康的你”，并假定这就能提供足够动力。B项 benefits ... in the future 是 future, healthier you 的概括。A项“仅暂时”没有依据；C项将 enough motivation 偷换成 motivation was the only key，过于绝对；D项不是此处明确指出的重大缺陷。",
+      "evidence": "The researchers argued that previous interventions have probably been unsuccessful because of a major flaw: they focused on a future, healthier you and assumed that this would be enough motivation for teenagers."
+    },
+    {
+      "number": 49,
+      "type": "choice",
+      "en": "In what way is the new intervention innovative?",
+      "zh": "新干预的创新之处体现在哪里？",
+      "options": [
+        {
+          "key": "A",
+          "en": "It emphasizes people’s sense of social responsibility.",
+          "zh": "它强调人们的社会责任感。"
+        },
+        {
+          "key": "B",
+          "en": "It cleverly exploits teenagers’ personal weaknesses.",
+          "zh": "它巧妙利用了青少年的个人弱点。"
+        },
+        {
+          "key": "C",
+          "en": "It takes advantage of teenagers’ natural inclination.",
+          "zh": "它利用了青少年的本能倾向。"
+        },
+        {
+          "key": "D",
+          "en": "It promises immediate rather than future benefits.",
+          "zh": "它承诺的是即时而非未来的益处。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "定位：第3段末句。新干预利用青少年的叛逆与自主本能。C项 takes advantage of 对应 exploits，natural inclination 对应 instinct for rebelliousness and autonomy。A项将社会公正换成社会责任；B项将本能错误称作个人弱点；D项的即时益处原文没有提及。",
+      "evidence": "In contrast, the new intervention cleverly exploits teenagers’ instinct for rebelliousness and autonomy, and the value they place on social justice."
+    },
+    {
+      "number": 50,
+      "type": "choice",
+      "en": "What conclusion can be drawn from the new research?",
+      "zh": "从这项新研究中可以得出什么结论？",
+      "options": [
+        {
+          "key": "A",
+          "en": "A totally different approach could be adopted to combat advertising campaigns for snack food.",
+          "zh": "可以采用完全不同的方法来对抗零食广告活动。"
+        },
+        {
+          "key": "B",
+          "en": "An effective intervention has to be found to persuade teenagers to switch to a healthier lifestyle.",
+          "zh": "必须找到有效的干预措施，说服青少年转向更健康的生活方式。"
+        },
+        {
+          "key": "C",
+          "en": "Obesity can be hopefully prevented by building links between teenagers’ values and healthy eating.",
+          "zh": "将青少年的价值观与健康饮食联系起来，有望预防肥胖。"
+        },
+        {
+          "key": "D",
+          "en": "An innovative way to beat obesity is to expose food companies’ manipulative and deceptive practices.",
+          "zh": "战胜肥胖的一种创新方法是揭露食品公司的操纵和欺骗行为。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "定位：第5段末句。associating a healthy diet with teenagers’ own values 对应C项 building links between teenagers’ values and healthy eating；a promising avenue to prevent obesity 对应有望预防肥胖。A、D项分别描述对抗广告与揭露行业做法等具体手段，没有概括研究的整体结论；B项是泛泛的呼吁，而不是本研究得到的结论。",
+      "evidence": "Apparently associating a healthy diet with teenagers’ own values seems to be a promising avenue to prevent obesity."
+    }
+  ]
+}

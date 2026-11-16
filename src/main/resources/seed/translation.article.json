@@ -1,0 +1,28 @@
+{
+  "format": "noiseless-1",
+  "id": "example-translation",
+  "type": "translation",
+  "title": "Reading Opens Doors",
+  "subtitle": "段落翻译示例",
+  "source": "题型演示 · 非真题",
+  "paragraphs": [
+    {
+      "en": "",
+      "zh": "近年来，越来越多的年轻人开始重视阅读。他们通过书籍了解不同的文化，也从阅读中获得新的想法。每天留出一点时间阅读，能够逐渐丰富我们的生活。"
+    }
+  ],
+  "dictionary": {},
+  "phrases": [],
+  "questions": [
+    {
+      "number": 1,
+      "type": "translation",
+      "en": "",
+      "zh": "将上方段落译成英文。",
+      "answer": "In recent years, more and more young people have begun to value reading. Through books, they learn about different cultures and gain new ideas. Setting aside a little time to read every day can gradually enrich our lives.",
+      "explanation": "参考译文并非唯一表达。自查：是否译全三个句子的含义；“近年来”可用 in recent years；“留出时间”可用 set aside time；注意主谓一致、时态以及句子衔接。",
+      "evidence": ""
+    }
+  ],
+  "instructions": "先独立翻译，再对照参考译文检查信息是否完整、表达是否通顺。"
+}

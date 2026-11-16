@@ -1,0 +1,1579 @@
+{
+  "format": "noiseless-1",
+  "id": "cet4-2025-12-set1-passage-one-drug-timing",
+  "type": "reading",
+  "title": "Passage One · Drug Timing",
+  "subtitle": "生物钟与用药时间",
+  "level": "CET-4",
+  "source": "2025年12月大学英语四级考试真题（第1套）· Section C · Passage One",
+  "instructions": "Questions 46 to 50 are based on the following passage. Choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "en": "All living organisms on Earth are exposed to a 24-hour day-night cycle. This cycle is the reason why people rest at night and are active during the day. Consequently, all human body functions also follow this daily rhythm, and the timing of behaviors like exercise or food intake can significantly influence your health. For example, eating at night can lead to weight gain over time because food intake at night leads to increased fat storage.",
+      "zh": "地球上所有生物都处于24小时的昼夜循环之中。这种循环使人们夜间休息、白天活动。因此，人体的所有功能也都遵循这一每日节律，而锻炼或进食等行为的时间会显著影响健康。例如，夜间进食会增加脂肪储存，久而久之可能导致体重增加。"
+    },
+    {
+      "en": "Many drug targets in the body follow a 24-hour cycle, too. This means that the specific proteins a drug is designed to modify can react differently to the medicine over the course of a 24-hour time period. Because how the body responds to a drug can differ depending on the time it is taken, it logically follows that taking medicines at specific times could help increase their effectiveness and reduce unwanted side effects.",
+      "zh": "体内许多药物靶点也遵循24小时的周期。这意味着，药物旨在调节的特定蛋白质，在24小时内的不同时间对药物的反应可能不同。由于人体对药物的反应可能因服药时间而异，因此合乎逻辑的推论是：在特定时间服药可能有助于提高药效，并减少不良副作用。"
+    },
+    {
+      "en": "When doctors prescribe medicine for people, they rarely consider the best time to take it. There are two main reasons for that oversight. First, many physicians are not aware that some drugs work better during a specific time of the day. And second, most drugs have not been studied for possible different effects during a 24-hour cycle. Therefore, patients are directed to take most drugs during the morning or evening primarily to ensure compliance.",
+      "zh": "医生给人们开药时，很少考虑最佳服药时间。这种疏忽主要有两个原因。首先，许多医生不知道某些药物在一天中的特定时间效果更好。其次，对于大多数药物，人们尚未研究其在24小时周期内可能产生的不同效果。因此，通常让患者在早晨或晚上服用大多数药物，主要是为了确保他们遵照医嘱服药。"
+    },
+    {
+      "en": "Over 50 years ago, researchers found that the cholesterol drug simvastatin is more effective at lowering cholesterol levels when taken at night rather than during the day. This is because the liver enzyme (酶) these drugs target is more active at night.",
+      "zh": "50多年前，研究人员发现，降胆固醇药物辛伐他汀在夜间服用时，降低胆固醇水平的效果比白天更好。这是因为这些药物所针对的肝脏酶在夜间更加活跃。"
+    },
+    {
+      "en": "Taking medicine at the wrong time can even cause harm. My colleagues and I wondered whether midazolam, the most common sedative (镇静剂) used in surgical procedures worldwide, might interfere with the internal clock that protects the heart at night. Currently, there are no guidelines regarding when midazolam should be administered.",
+      "zh": "在错误的时间服药甚至可能造成伤害。我和同事们想知道，咪达唑仑这种在全球外科手术中最常用的镇静剂，是否可能干扰夜间保护心脏的生物钟。目前，尚无关于何时应使用咪达唑仑的指导原则。"
+    },
+    {
+      "en": "More research is needed to determine the best times to administer treatments for different diseases. I believe taking drug timing into account could help make treatments more effective and help more people worldwide.",
+      "zh": "还需要更多研究来确定针对不同疾病实施治疗的最佳时间。我认为，将用药时间考虑在内，有助于提高治疗效果，并帮助世界各地更多的人。"
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "pos": "art.",
+      "meaning": "一个；某个",
+      "context": "用于泛指单个事物"
+    },
+    "about": {
+      "pos": "prep.",
+      "meaning": "关于；大约",
+      "context": "关于文中讨论的内容"
+    },
+    "account": {
+      "pos": "n./v.",
+      "meaning": "考虑；账户；说明",
+      "context": "take ... into account：将……考虑在内"
+    },
+    "active": {
+      "pos": "adj.",
+      "meaning": "活跃的；积极的",
+      "context": "指白天活动或酶在夜间活跃"
+    },
+    "administer": {
+      "pos": "v.",
+      "meaning": "给予；施用；管理",
+      "context": "实施治疗",
+      "pattern": "administer treatments"
+    },
+    "administered": {
+      "pos": "v.",
+      "meaning": "给予；施用；管理",
+      "context": "给患者使用药物",
+      "pattern": "be administered"
+    },
+    "advise": {
+      "pos": "v.",
+      "meaning": "建议；劝告",
+      "context": "医生建议患者服药"
+    },
+    "ago": {
+      "pos": "adv.",
+      "meaning": "以前",
+      "context": "50多年前"
+    },
+    "all": {
+      "pos": "det./pron.",
+      "meaning": "所有；全部",
+      "context": "所有生物或人体功能"
+    },
+    "also": {
+      "pos": "adv.",
+      "meaning": "也；还",
+      "context": "同样遵循每日节律"
+    },
+    "and": {
+      "pos": "conj.",
+      "meaning": "和；并且",
+      "context": "连接并列成分"
+    },
+    "are": {
+      "pos": "v.",
+      "meaning": "是；处于",
+      "context": "be的现在时复数形式，也可构成被动语态"
+    },
+    "as": {
+      "pos": "conj./prep.",
+      "meaning": "按照；作为；当……时",
+      "context": "as instructed：按照医嘱"
+    },
+    "at": {
+      "pos": "prep.",
+      "meaning": "在；处于",
+      "context": "用于时间、状态或活动"
+    },
+    "author": {
+      "pos": "n.",
+      "meaning": "作者",
+      "context": "文章的作者"
+    },
+    "aware": {
+      "pos": "adj.",
+      "meaning": "知道的；意识到的",
+      "context": "be aware that：知道……"
+    },
+    "be": {
+      "pos": "v.",
+      "meaning": "是；成为；处于",
+      "context": "用于系表结构或被动语态"
+    },
+    "because": {
+      "pos": "conj.",
+      "meaning": "因为",
+      "context": "引出原因"
+    },
+    "been": {
+      "pos": "v.",
+      "meaning": "是；处于",
+      "context": "be的过去分词，用于完成时或被动语态"
+    },
+    "behaviors": {
+      "pos": "n.",
+      "meaning": "行为；举止",
+      "context": "锻炼和进食等行为"
+    },
+    "believe": {
+      "pos": "v.",
+      "meaning": "相信；认为",
+      "context": "作者认为考虑用药时间有益"
+    },
+    "best": {
+      "pos": "adj./adv.",
+      "meaning": "最好的；最佳地",
+      "context": "最佳的服药或治疗时间"
+    },
+    "better": {
+      "pos": "adj./adv.",
+      "meaning": "更好的；更好地",
+      "context": "药物在某个时间疗效更好"
+    },
+    "body": {
+      "pos": "n.",
+      "meaning": "身体；躯体",
+      "context": "人体"
+    },
+    "by": {
+      "pos": "prep.",
+      "meaning": "通过；由；在……之前",
+      "context": "通过考虑用药时间"
+    },
+    "can": {
+      "pos": "modal v.",
+      "meaning": "能；可能",
+      "context": "表示能力或可能性"
+    },
+    "cause": {
+      "pos": "v./n.",
+      "meaning": "造成；原因",
+      "context": "造成伤害"
+    },
+    "certain": {
+      "pos": "adj.",
+      "meaning": "某些；确定的",
+      "context": "某些药物"
+    },
+    "changes": {
+      "pos": "v./n.",
+      "meaning": "变化；改变",
+      "context": "蛋白质对药物的反应发生变化"
+    },
+    "cholesterol": {
+      "pos": "n.",
+      "meaning": "胆固醇",
+      "context": "血液中的胆固醇",
+      "pattern": "cholesterol levels"
+    },
+    "clock": {
+      "pos": "n.",
+      "meaning": "钟；时钟",
+      "context": "internal clock指生物钟"
+    },
+    "colleagues": {
+      "pos": "n.",
+      "meaning": "同事",
+      "context": "作者一起开展研究的同事"
+    },
+    "common": {
+      "pos": "adj.",
+      "meaning": "常见的；共同的",
+      "context": "最常见的镇静剂"
+    },
+    "complaints": {
+      "pos": "n.",
+      "meaning": "抱怨；投诉",
+      "context": "干扰项中患者的抱怨"
+    },
+    "complex": {
+      "pos": "adj.",
+      "meaning": "复杂的",
+      "context": "干扰项中治疗的复杂程度"
+    },
+    "compliance": {
+      "pos": "n.",
+      "meaning": "遵从；依从性",
+      "context": "患者遵照医嘱服药",
+      "pattern": "ensure compliance; comply with instructions",
+      "ipa": "kəmˈplaɪəns"
+    },
+    "comply": {
+      "pos": "v.",
+      "meaning": "遵从；遵守",
+      "context": "遵循药品制造商的说明"
+    },
+    "conducting": {
+      "pos": "v.",
+      "meaning": "开展；进行",
+      "context": "开展更多研究"
+    },
+    "confines": {
+      "pos": "v.",
+      "meaning": "限制",
+      "context": "选项中指将人限制在某种循环中",
+      "pattern": "confine ... to ..."
+    },
+    "consequently": {
+      "pos": "adv.",
+      "meaning": "因此；所以",
+      "context": "引出人体功能遵循每日节律的结果",
+      "pattern": "consequently, ..."
+    },
+    "consider": {
+      "pos": "v.",
+      "meaning": "考虑；认为",
+      "context": "考虑最佳服药时间"
+    },
+    "considerable": {
+      "pos": "adj.",
+      "meaning": "相当大的",
+      "context": "对健康的影响相当大",
+      "pattern": "a considerable impact"
+    },
+    "considering": {
+      "pos": "v.",
+      "meaning": "考虑",
+      "context": "开药时考虑用药时间"
+    },
+    "could": {
+      "pos": "modal v.",
+      "meaning": "可能；能够",
+      "context": "表示潜在的治疗益处"
+    },
+    "course": {
+      "pos": "n.",
+      "meaning": "过程；课程",
+      "context": "over the course of：在……期间"
+    },
+    "currently": {
+      "pos": "adv.",
+      "meaning": "目前；当前",
+      "context": "目前尚无相关给药时间指南"
+    },
+    "cycle": {
+      "pos": "n.",
+      "meaning": "周期；循环",
+      "context": "24小时昼夜循环",
+      "pattern": "a 24-hour day-night cycle",
+      "ipa": "ˈsaɪkəl"
+    },
+    "daily": {
+      "pos": "adj./adv.",
+      "meaning": "每日的；每天",
+      "context": "每日生理节律"
+    },
+    "day": {
+      "pos": "n.",
+      "meaning": "一天；白天",
+      "context": "与夜间相对的白天"
+    },
+    "day-night": {
+      "pos": "adj.",
+      "meaning": "昼夜的",
+      "context": "24小时昼夜循环"
+    },
+    "depending": {
+      "pos": "v.",
+      "meaning": "取决于；依赖",
+      "context": "depending on：取决于……"
+    },
+    "design": {
+      "pos": "n./v.",
+      "meaning": "设计；构思",
+      "context": "选项中指蛋白质的设计"
+    },
+    "designed": {
+      "pos": "v.",
+      "meaning": "设计；旨在",
+      "context": "be designed to：被设计用来……"
+    },
+    "determine": {
+      "pos": "v.",
+      "meaning": "确定；查明",
+      "context": "通过研究确定最佳治疗时间",
+      "pattern": "determine the best times"
+    },
+    "determines": {
+      "pos": "v.",
+      "meaning": "决定；确定",
+      "context": "选项中指决定反应的差异"
+    },
+    "differ": {
+      "pos": "v.",
+      "meaning": "不同；有区别",
+      "context": "身体对药物的反应因时间而异"
+    },
+    "different": {
+      "pos": "adj.",
+      "meaning": "不同的",
+      "context": "不同的效果或疾病"
+    },
+    "differently": {
+      "pos": "adv.",
+      "meaning": "不同地",
+      "context": "蛋白质对药物作出不同反应"
+    },
+    "directed": {
+      "pos": "v.",
+      "meaning": "指示；指导",
+      "context": "患者被告知在早晨或晚上服药"
+    },
+    "directions": {
+      "pos": "n.",
+      "meaning": "说明；指示；方向",
+      "context": "药品制造商提供的用药说明"
+    },
+    "discourage": {
+      "pos": "v.",
+      "meaning": "劝阻；使泄气",
+      "context": "选项中指阻止患者抱怨"
+    },
+    "diseases": {
+      "pos": "n.",
+      "meaning": "疾病",
+      "context": "不同的疾病"
+    },
+    "do": {
+      "pos": "v./aux.",
+      "meaning": "做；用于构成疑问句",
+      "context": "在题干中构成一般现在时疑问句"
+    },
+    "doctors": {
+      "pos": "n.",
+      "meaning": "医生",
+      "context": "给患者开药的医生"
+    },
+    "does": {
+      "pos": "aux./v.",
+      "meaning": "做；用于构成疑问句",
+      "context": "do的第三人称单数形式"
+    },
+    "drug": {
+      "pos": "n.",
+      "meaning": "药物",
+      "context": "用于治疗的药物"
+    },
+    "drug-taking": {
+      "pos": "adj./n.",
+      "meaning": "服药的；服药",
+      "context": "服药时间"
+    },
+    "drugs": {
+      "pos": "n.",
+      "meaning": "药物",
+      "context": "drug的复数形式"
+    },
+    "during": {
+      "pos": "prep.",
+      "meaning": "在……期间",
+      "context": "在白天或24小时周期内"
+    },
+    "earth": {
+      "pos": "n.",
+      "meaning": "地球；土地",
+      "context": "生物所生活的地球"
+    },
+    "eating": {
+      "pos": "v./n.",
+      "meaning": "吃；进食",
+      "context": "夜间进食"
+    },
+    "effect": {
+      "pos": "n.",
+      "meaning": "效果；影响",
+      "context": "药物的疗效"
+    },
+    "effective": {
+      "pos": "adj.",
+      "meaning": "有效的",
+      "context": "降胆固醇或治疗疾病有效"
+    },
+    "effectiveness": {
+      "pos": "n.",
+      "meaning": "有效性；效力",
+      "context": "药物的疗效",
+      "pattern": "increase their effectiveness",
+      "ipa": "ɪˈfektɪvnəs"
+    },
+    "effects": {
+      "pos": "n.",
+      "meaning": "效果；影响",
+      "context": "药效或副作用"
+    },
+    "end": {
+      "pos": "n./v.",
+      "meaning": "结尾；结束",
+      "context": "文章接近结尾处"
+    },
+    "ensure": {
+      "pos": "v.",
+      "meaning": "确保；保证",
+      "context": "确保患者遵照医嘱服药"
+    },
+    "enzyme": {
+      "pos": "n.",
+      "meaning": "酶",
+      "context": "药物所针对的肝脏酶",
+      "pattern": "liver enzyme"
+    },
+    "even": {
+      "pos": "adv.",
+      "meaning": "甚至",
+      "context": "强调错误时间服药可能造成伤害"
+    },
+    "evening": {
+      "pos": "n.",
+      "meaning": "晚上；傍晚",
+      "context": "常见的服药时间之一"
+    },
+    "example": {
+      "pos": "n.",
+      "meaning": "例子",
+      "context": "for example：例如"
+    },
+    "exercise": {
+      "pos": "n./v.",
+      "meaning": "锻炼；运动",
+      "context": "影响健康的日常行为之一"
+    },
+    "exposed": {
+      "pos": "adj./v.",
+      "meaning": "暴露的；使接触",
+      "context": "处于昼夜循环的影响之下",
+      "pattern": "be exposed to"
+    },
+    "fat": {
+      "pos": "n./adj.",
+      "meaning": "脂肪；肥胖的",
+      "context": "夜间进食增加脂肪储存"
+    },
+    "find": {
+      "pos": "v.",
+      "meaning": "发现；找出",
+      "context": "找出最佳治疗时间"
+    },
+    "finding": {
+      "pos": "v./n.",
+      "meaning": "发现；研究结果",
+      "context": "通过研究找出最有效的药物"
+    },
+    "findings": {
+      "pos": "n.",
+      "meaning": "研究结果；发现",
+      "context": "新的研究发现"
+    },
+    "first": {
+      "pos": "adv./adj.",
+      "meaning": "首先；第一的",
+      "context": "引出第一个原因"
+    },
+    "follow": {
+      "pos": "v.",
+      "meaning": "遵循；跟随",
+      "context": "遵循24小时周期"
+    },
+    "follows": {
+      "pos": "v.",
+      "meaning": "遵循；由此得出",
+      "context": "it logically follows that：由此可推断"
+    },
+    "food": {
+      "pos": "n.",
+      "meaning": "食物",
+      "context": "摄入的食物"
+    },
+    "for": {
+      "pos": "prep.",
+      "meaning": "为了；对于；给",
+      "context": "用于目的、对象或持续时间"
+    },
+    "found": {
+      "pos": "v.",
+      "meaning": "发现；找到",
+      "context": "find的过去式，研究人员发现"
+    },
+    "from": {
+      "pos": "prep.",
+      "meaning": "从；来自",
+      "context": "从文章中了解；discourage ... from阻止……"
+    },
+    "functions": {
+      "pos": "n./v.",
+      "meaning": "功能；起作用",
+      "context": "人体的生理功能"
+    },
+    "further": {
+      "pos": "adj./adv.",
+      "meaning": "进一步的；更远地",
+      "context": "进一步研究"
+    },
+    "gain": {
+      "pos": "n./v.",
+      "meaning": "增加；获得",
+      "context": "weight gain：体重增加"
+    },
+    "give": {
+      "pos": "v.",
+      "meaning": "给予；提供",
+      "context": "give little thought to：很少考虑"
+    },
+    "guarantee": {
+      "pos": "v./n.",
+      "meaning": "保证；担保",
+      "context": "保证最大的药效"
+    },
+    "guidelines": {
+      "pos": "n.",
+      "meaning": "指导原则；指南",
+      "context": "关于给药时间的指导原则",
+      "pattern": "guidelines regarding when"
+    },
+    "harm": {
+      "pos": "n./v.",
+      "meaning": "伤害；危害",
+      "context": "不当用药时间造成的伤害"
+    },
+    "has": {
+      "pos": "v./aux.",
+      "meaning": "有；已经",
+      "context": "have的第三人称单数形式"
+    },
+    "have": {
+      "pos": "v./aux.",
+      "meaning": "有；已经",
+      "context": "构成完成时，表示尚未开展研究"
+    },
+    "health": {
+      "pos": "n.",
+      "meaning": "健康",
+      "context": "受行为时间影响的身体健康"
+    },
+    "heart": {
+      "pos": "n.",
+      "meaning": "心脏；内心",
+      "context": "生物钟夜间保护的器官"
+    },
+    "help": {
+      "pos": "v./n.",
+      "meaning": "帮助；有助于",
+      "context": "有助于提高治疗效果"
+    },
+    "holds": {
+      "pos": "v.",
+      "meaning": "掌握；持有",
+      "context": "hold the key to：是……的关键"
+    },
+    "hour": {
+      "pos": "n.",
+      "meaning": "小时",
+      "context": "24小时周期"
+    },
+    "hours": {
+      "pos": "n.",
+      "meaning": "小时",
+      "context": "hour的复数形式"
+    },
+    "how": {
+      "pos": "adv.",
+      "meaning": "如何；怎样",
+      "context": "人体如何对药物作出反应"
+    },
+    "human": {
+      "pos": "adj./n.",
+      "meaning": "人的；人类",
+      "context": "人体的功能"
+    },
+    "i": {
+      "pos": "pron.",
+      "meaning": "我",
+      "context": "文章作者自称"
+    },
+    "impact": {
+      "pos": "n./v.",
+      "meaning": "影响；冲击",
+      "context": "对健康产生的影响"
+    },
+    "in": {
+      "pos": "prep.",
+      "meaning": "在……内；在……中",
+      "context": "用于时间或范围"
+    },
+    "increase": {
+      "pos": "v./n.",
+      "meaning": "增加；提高",
+      "context": "提高药效"
+    },
+    "increased": {
+      "pos": "adj./v.",
+      "meaning": "增加的；增加了",
+      "context": "增多的脂肪储存"
+    },
+    "influence": {
+      "pos": "v./n.",
+      "meaning": "影响",
+      "context": "影响健康"
+    },
+    "instructed": {
+      "pos": "v.",
+      "meaning": "指示；指导",
+      "context": "as instructed：按照医嘱"
+    },
+    "intake": {
+      "pos": "n.",
+      "meaning": "摄入量；摄入",
+      "context": "进食、食物摄入",
+      "pattern": "food intake"
+    },
+    "interfere": {
+      "pos": "v.",
+      "meaning": "干扰；妨碍",
+      "context": "干扰保护心脏的生物钟",
+      "pattern": "interfere with"
+    },
+    "internal": {
+      "pos": "adj.",
+      "meaning": "内部的",
+      "context": "人体内部的",
+      "pattern": "internal clock"
+    },
+    "into": {
+      "pos": "prep.",
+      "meaning": "进入；到……之中",
+      "context": "take ... into account中的介词"
+    },
+    "is": {
+      "pos": "v./aux.",
+      "meaning": "是；处于",
+      "context": "be的第三人称单数形式"
+    },
+    "it": {
+      "pos": "pron.",
+      "meaning": "它；这",
+      "context": "代指药物、时间安排或作形式主语"
+    },
+    "its": {
+      "pos": "det.",
+      "meaning": "它的",
+      "context": "药物的副作用"
+    },
+    "key": {
+      "pos": "n./adj.",
+      "meaning": "关键；钥匙；关键的",
+      "context": "the key to：……的关键"
+    },
+    "lead": {
+      "pos": "v.",
+      "meaning": "导致；引领",
+      "context": "lead to：导致"
+    },
+    "leads": {
+      "pos": "v.",
+      "meaning": "导致；引领",
+      "context": "lead的第三人称单数形式"
+    },
+    "learn": {
+      "pos": "v.",
+      "meaning": "了解；学习",
+      "context": "从文章中了解到"
+    },
+    "less": {
+      "pos": "adv./det.",
+      "meaning": "较少；更少",
+      "context": "less complex：不那么复杂"
+    },
+    "levels": {
+      "pos": "n.",
+      "meaning": "水平；等级",
+      "context": "胆固醇水平"
+    },
+    "like": {
+      "pos": "prep./v.",
+      "meaning": "例如；像；喜欢",
+      "context": "列举锻炼和进食等行为"
+    },
+    "little": {
+      "pos": "det./adj.",
+      "meaning": "很少的；小的",
+      "context": "give little thought to：很少考虑"
+    },
+    "liver": {
+      "pos": "n.",
+      "meaning": "肝脏",
+      "context": "药物靶酶所在的器官",
+      "pattern": "liver enzyme"
+    },
+    "living": {
+      "pos": "adj./v.",
+      "meaning": "活着的；生活",
+      "context": "living organisms：生物"
+    },
+    "logically": {
+      "pos": "adv.",
+      "meaning": "合乎逻辑地",
+      "context": "由前述事实合理推出结论"
+    },
+    "lowering": {
+      "pos": "v.",
+      "meaning": "降低",
+      "context": "降低胆固醇水平"
+    },
+    "main": {
+      "pos": "adj.",
+      "meaning": "主要的",
+      "context": "两个主要原因"
+    },
+    "make": {
+      "pos": "v.",
+      "meaning": "使；制作",
+      "context": "使治疗更有效；make complaints意为抱怨"
+    },
+    "making": {
+      "pos": "v.",
+      "meaning": "使；进行",
+      "context": "使治疗不那么复杂；提出抱怨"
+    },
+    "manufacturers": {
+      "pos": "n.",
+      "meaning": "制造商；生产商",
+      "context": "药品生产商"
+    },
+    "many": {
+      "pos": "det./pron.",
+      "meaning": "许多",
+      "context": "许多药物靶点或医生"
+    },
+    "maximum": {
+      "pos": "adj./n.",
+      "meaning": "最大的；最大值",
+      "context": "药物的最大疗效"
+    },
+    "means": {
+      "pos": "v./n.",
+      "meaning": "意味着；方式",
+      "context": "this means that：这意味着"
+    },
+    "medicine": {
+      "pos": "n.",
+      "meaning": "药物；医学",
+      "context": "医生开具的药物"
+    },
+    "medicines": {
+      "pos": "n.",
+      "meaning": "药物",
+      "context": "medicine的复数形式"
+    },
+    "midazolam": {
+      "pos": "n.",
+      "meaning": "咪达唑仑",
+      "context": "文中讨论的镇静剂",
+      "pattern": "when midazolam should be administered"
+    },
+    "might": {
+      "pos": "modal v.",
+      "meaning": "可能；也许",
+      "context": "推测咪达唑仑可能干扰生物钟"
+    },
+    "modify": {
+      "pos": "v.",
+      "meaning": "改变；调整",
+      "context": "调节蛋白质的作用或状态",
+      "pattern": "be designed to modify"
+    },
+    "more": {
+      "pos": "det./adv.",
+      "meaning": "更多；更加",
+      "context": "更多研究或更好的疗效"
+    },
+    "morning": {
+      "pos": "n.",
+      "meaning": "早晨；上午",
+      "context": "常见的服药时间之一"
+    },
+    "most": {
+      "pos": "det./adv.",
+      "meaning": "大多数；最",
+      "context": "大多数药物；最常见的镇静剂"
+    },
+    "my": {
+      "pos": "det.",
+      "meaning": "我的",
+      "context": "作者的同事"
+    },
+    "near": {
+      "pos": "prep./adv.",
+      "meaning": "接近；在……附近",
+      "context": "near the end：接近结尾"
+    },
+    "needed": {
+      "pos": "v./adj.",
+      "meaning": "需要；必需的",
+      "context": "还需要更多研究"
+    },
+    "new": {
+      "pos": "adj.",
+      "meaning": "新的",
+      "context": "新的研究发现"
+    },
+    "night": {
+      "pos": "n.",
+      "meaning": "夜晚；夜间",
+      "context": "夜间服药或进食"
+    },
+    "no": {
+      "pos": "det.",
+      "meaning": "没有；无",
+      "context": "没有关于给药时间的指南"
+    },
+    "not": {
+      "pos": "adv.",
+      "meaning": "不；没有",
+      "context": "表示否定"
+    },
+    "of": {
+      "pos": "prep.",
+      "meaning": "……的",
+      "context": "连接所属、内容等关系"
+    },
+    "on": {
+      "pos": "prep.",
+      "meaning": "在……上；关于",
+      "context": "depending on：取决于"
+    },
+    "or": {
+      "pos": "conj.",
+      "meaning": "或者；或",
+      "context": "连接可选的时间或行为"
+    },
+    "organisms": {
+      "pos": "n.",
+      "meaning": "生物；有机体",
+      "context": "地球上的生物",
+      "pattern": "living organisms"
+    },
+    "our": {
+      "pos": "det.",
+      "meaning": "我们的",
+      "context": "我们的身体或行为"
+    },
+    "out": {
+      "pos": "adv.",
+      "meaning": "向外；出来",
+      "context": "find out：查明；找出"
+    },
+    "over": {
+      "pos": "prep./adv.",
+      "meaning": "超过；在……期间",
+      "context": "超过50年；在一段时间内"
+    },
+    "oversight": {
+      "pos": "n.",
+      "meaning": "疏忽；监督",
+      "context": "忽略最佳服药时间这一疏漏",
+      "pattern": "reasons for that oversight",
+      "ipa": "ˈəʊvəsaɪt"
+    },
+    "particular": {
+      "pos": "adj.",
+      "meaning": "特定的；特别的",
+      "context": "特定的节律"
+    },
+    "passage": {
+      "pos": "n.",
+      "meaning": "文章；段落",
+      "context": "题目所依据的阅读文章"
+    },
+    "patient": {
+      "pos": "n./adj.",
+      "meaning": "患者；耐心的",
+      "context": "接受治疗的患者"
+    },
+    "patients": {
+      "pos": "n.",
+      "meaning": "患者",
+      "context": "patient的复数形式"
+    },
+    "people": {
+      "pos": "n.",
+      "meaning": "人们",
+      "context": "开药或治疗的对象"
+    },
+    "period": {
+      "pos": "n.",
+      "meaning": "时期；一段时间",
+      "context": "24小时的时间段"
+    },
+    "physicians": {
+      "pos": "n.",
+      "meaning": "医生；内科医生",
+      "context": "开具处方的医生",
+      "pattern": "many physicians"
+    },
+    "possible": {
+      "pos": "adj.",
+      "meaning": "可能的",
+      "context": "可能存在的药效差异"
+    },
+    "prescribe": {
+      "pos": "v.",
+      "meaning": "开药；开处方",
+      "context": "医生开药",
+      "pattern": "prescribe medicine for people",
+      "ipa": "prɪˈskraɪb"
+    },
+    "prescribing": {
+      "pos": "v.",
+      "meaning": "开药；开处方",
+      "context": "医生给人们开药"
+    },
+    "primarily": {
+      "pos": "adv.",
+      "meaning": "主要地",
+      "context": "主要为了保证遵医嘱服药",
+      "pattern": "primarily to ensure"
+    },
+    "procedures": {
+      "pos": "n.",
+      "meaning": "程序；操作；手术",
+      "context": "surgical procedures：外科手术"
+    },
+    "protects": {
+      "pos": "v.",
+      "meaning": "保护",
+      "context": "生物钟在夜间保护心脏"
+    },
+    "proteins": {
+      "pos": "n.",
+      "meaning": "蛋白质",
+      "context": "作为药物靶点的蛋白质",
+      "pattern": "specific proteins"
+    },
+    "rarely": {
+      "pos": "adv.",
+      "meaning": "很少；难得",
+      "context": "医生很少考虑最佳用药时间"
+    },
+    "rather": {
+      "pos": "adv.",
+      "meaning": "相当；宁可",
+      "context": "rather than：而不是"
+    },
+    "react": {
+      "pos": "v.",
+      "meaning": "反应",
+      "context": "对药物作出反应",
+      "pattern": "react to the medicine"
+    },
+    "reaction": {
+      "pos": "n.",
+      "meaning": "反应",
+      "context": "蛋白质对药物的反应"
+    },
+    "reason": {
+      "pos": "n.",
+      "meaning": "原因；理由",
+      "context": "昼夜循环是作息规律的原因"
+    },
+    "reasons": {
+      "pos": "n.",
+      "meaning": "原因；理由",
+      "context": "医生忽视服药时间的两个原因"
+    },
+    "reduce": {
+      "pos": "v.",
+      "meaning": "减少；降低",
+      "context": "减少不良副作用"
+    },
+    "regarding": {
+      "pos": "prep.",
+      "meaning": "关于；就……而言",
+      "context": "关于咪达唑仑使用时间"
+    },
+    "requires": {
+      "pos": "v.",
+      "meaning": "要求；需要",
+      "context": "要求人们遵循节律"
+    },
+    "research": {
+      "pos": "n./v.",
+      "meaning": "研究",
+      "context": "关于药物作用时间的研究"
+    },
+    "researchers": {
+      "pos": "n.",
+      "meaning": "研究人员",
+      "context": "发现夜间服药更有效的研究者"
+    },
+    "responds": {
+      "pos": "v.",
+      "meaning": "反应；回应",
+      "context": "身体对药物作出反应"
+    },
+    "rest": {
+      "pos": "v./n.",
+      "meaning": "休息；剩余部分",
+      "context": "人们在夜间休息"
+    },
+    "rhythm": {
+      "pos": "n.",
+      "meaning": "节奏；节律",
+      "context": "人体的每日生理节律",
+      "pattern": "follow this daily rhythm",
+      "ipa": "ˈrɪðəm"
+    },
+    "say": {
+      "pos": "v.",
+      "meaning": "说；表明",
+      "context": "作者关于蛋白质的论述"
+    },
+    "second": {
+      "pos": "adv./adj.",
+      "meaning": "其次；第二的",
+      "context": "引出第二个原因"
+    },
+    "sedative": {
+      "pos": "n.",
+      "meaning": "镇静剂",
+      "context": "手术中使用的镇静药物",
+      "pattern": "the most common sedative"
+    },
+    "should": {
+      "pos": "modal v.",
+      "meaning": "应该",
+      "context": "药物应该何时使用"
+    },
+    "side": {
+      "pos": "n./adj.",
+      "meaning": "侧面；一旁的",
+      "context": "side effects：副作用"
+    },
+    "significantly": {
+      "pos": "adv.",
+      "meaning": "显著地",
+      "context": "显著影响健康",
+      "pattern": "significantly influence"
+    },
+    "simvastatin": {
+      "pos": "n.",
+      "meaning": "辛伐他汀",
+      "context": "文中举例的降胆固醇药物",
+      "pattern": "the cholesterol drug simvastatin"
+    },
+    "some": {
+      "pos": "det./pron.",
+      "meaning": "一些；某些",
+      "context": "某些药物"
+    },
+    "specific": {
+      "pos": "adj.",
+      "meaning": "特定的",
+      "context": "药物旨在调节的特定蛋白质",
+      "pattern": "specific proteins; at specific times",
+      "ipa": "spəˈsɪfɪk"
+    },
+    "storage": {
+      "pos": "n.",
+      "meaning": "储存",
+      "context": "脂肪储存",
+      "pattern": "fat storage"
+    },
+    "strictly": {
+      "pos": "adv.",
+      "meaning": "严格地",
+      "context": "严格遵循新的研究发现"
+    },
+    "studied": {
+      "pos": "v.",
+      "meaning": "研究；学习",
+      "context": "研究药物在不同时段的效果"
+    },
+    "studies": {
+      "pos": "n./v.",
+      "meaning": "研究；学习",
+      "context": "开展更多研究"
+    },
+    "suggest": {
+      "pos": "v.",
+      "meaning": "建议；暗示",
+      "context": "作者在结尾提出建议"
+    },
+    "surgical": {
+      "pos": "adj.",
+      "meaning": "外科的；手术的",
+      "context": "外科手术的",
+      "pattern": "surgical procedures"
+    },
+    "take": {
+      "pos": "v.",
+      "meaning": "服用；采取；拿",
+      "context": "服药；take ... into account意为考虑……"
+    },
+    "taken": {
+      "pos": "v.",
+      "meaning": "服用；采取",
+      "context": "take的过去分词，表示药物被服用"
+    },
+    "taking": {
+      "pos": "v.",
+      "meaning": "服用；考虑",
+      "context": "服药；taking ... into account意为考虑……"
+    },
+    "target": {
+      "pos": "v./n.",
+      "meaning": "以……为目标；靶点",
+      "context": "药物作用于肝脏酶"
+    },
+    "targets": {
+      "pos": "n./v.",
+      "meaning": "目标；靶点；以……为目标",
+      "context": "药物作用的靶点",
+      "pattern": "drug targets"
+    },
+    "tell": {
+      "pos": "v.",
+      "meaning": "告诉；辨别",
+      "context": "医生告诉患者用药事项"
+    },
+    "than": {
+      "pos": "conj./prep.",
+      "meaning": "比；而不是",
+      "context": "rather than或比较结构中的连接词"
+    },
+    "that": {
+      "pos": "conj./pron./det.",
+      "meaning": "引导从句；那；那个",
+      "context": "引出解释或推论，也可指代前文"
+    },
+    "the": {
+      "pos": "art.",
+      "meaning": "这；该",
+      "context": "特指已知的人或事物"
+    },
+    "their": {
+      "pos": "det.",
+      "meaning": "他们的；它们的",
+      "context": "药物的疗效或蛋白质的反应"
+    },
+    "them": {
+      "pos": "pron.",
+      "meaning": "他们；它们",
+      "context": "指患者"
+    },
+    "there": {
+      "pos": "adv./pron.",
+      "meaning": "那里；用于存在句",
+      "context": "there are：有……"
+    },
+    "therefore": {
+      "pos": "adv.",
+      "meaning": "因此；所以",
+      "context": "引出医生安排服药时间的结果"
+    },
+    "these": {
+      "pos": "det./pron.",
+      "meaning": "这些",
+      "context": "这些药物"
+    },
+    "they": {
+      "pos": "pron.",
+      "meaning": "他们；它们",
+      "context": "指医生、患者或蛋白质"
+    },
+    "this": {
+      "pos": "det./pron.",
+      "meaning": "这；这个",
+      "context": "指前述事实或特定事物"
+    },
+    "thought": {
+      "pos": "n./v.",
+      "meaning": "考虑；想法；想",
+      "context": "give little thought to：很少考虑"
+    },
+    "through": {
+      "pos": "prep.",
+      "meaning": "通过；穿过",
+      "context": "通过进一步研究"
+    },
+    "time": {
+      "pos": "n.",
+      "meaning": "时间；时刻",
+      "context": "服药或治疗的时间"
+    },
+    "times": {
+      "pos": "n.",
+      "meaning": "时间；次数",
+      "context": "最佳治疗时间"
+    },
+    "timing": {
+      "pos": "n.",
+      "meaning": "时间安排；时机",
+      "context": "行为或用药的时间安排",
+      "ipa": "ˈtaɪmɪŋ",
+      "pattern": "the timing of behaviors; drug timing"
+    },
+    "to": {
+      "pos": "prep./inf.",
+      "meaning": "向；对；用于动词不定式",
+      "context": "连接动作的目的或对象"
+    },
+    "too": {
+      "pos": "adv.",
+      "meaning": "也；过于",
+      "context": "药物靶点也遵循24小时周期"
+    },
+    "treating": {
+      "pos": "v.",
+      "meaning": "治疗；对待",
+      "context": "治疗不同疾病"
+    },
+    "treatments": {
+      "pos": "n.",
+      "meaning": "治疗；疗法",
+      "context": "针对疾病实施的治疗"
+    },
+    "two": {
+      "pos": "num.",
+      "meaning": "二；两个",
+      "context": "两个主要原因"
+    },
+    "unwanted": {
+      "pos": "adj.",
+      "meaning": "不想要的；不良的",
+      "context": "不良副作用"
+    },
+    "us": {
+      "pos": "pron.",
+      "meaning": "我们",
+      "context": "指包括说话人在内的人们"
+    },
+    "used": {
+      "pos": "v./adj.",
+      "meaning": "使用；被使用的",
+      "context": "用于外科手术的镇静剂"
+    },
+    "ways": {
+      "pos": "n.",
+      "meaning": "方式；方法",
+      "context": "以不同方式改变药效"
+    },
+    "we": {
+      "pos": "pron.",
+      "meaning": "我们",
+      "context": "题干中泛指读者"
+    },
+    "weight": {
+      "pos": "n.",
+      "meaning": "体重；重量",
+      "context": "进食时间可能影响体重"
+    },
+    "what": {
+      "pos": "pron./det.",
+      "meaning": "什么",
+      "context": "构成题干疑问句"
+    },
+    "when": {
+      "pos": "adv./conj.",
+      "meaning": "何时；当……时",
+      "context": "询问时间或引导时间状语"
+    },
+    "whether": {
+      "pos": "conj.",
+      "meaning": "是否",
+      "context": "引出作者与同事研究的问题"
+    },
+    "which": {
+      "pos": "pron./det.",
+      "meaning": "哪一个；哪种",
+      "context": "哪种药物或哪位患者"
+    },
+    "why": {
+      "pos": "adv.",
+      "meaning": "为什么",
+      "context": "询问或解释原因"
+    },
+    "with": {
+      "pos": "prep.",
+      "meaning": "与；用；和",
+      "context": "interfere with意为干扰"
+    },
+    "wondered": {
+      "pos": "v.",
+      "meaning": "想知道；感到疑惑",
+      "context": "作者想知道药物是否会干扰生物钟"
+    },
+    "work": {
+      "pos": "v./n.",
+      "meaning": "起作用；工作",
+      "context": "药物发挥疗效"
+    },
+    "works": {
+      "pos": "v.",
+      "meaning": "起作用；工作",
+      "context": "work的第三人称单数形式"
+    },
+    "worldwide": {
+      "pos": "adv./adj.",
+      "meaning": "在全世界；世界范围的",
+      "context": "世界各地的手术或患者"
+    },
+    "wrong": {
+      "pos": "adj.",
+      "meaning": "错误的；不适当的",
+      "context": "不恰当的服药时间"
+    },
+    "years": {
+      "pos": "n.",
+      "meaning": "年；岁",
+      "context": "50多年前"
+    },
+    "your": {
+      "pos": "det.",
+      "meaning": "你的；你们的",
+      "context": "读者的健康"
+    }
+  },
+  "phrases": [
+    {
+      "en": "be exposed to",
+      "zh": "接触到；受到……影响"
+    },
+    {
+      "en": "day-night cycle",
+      "zh": "昼夜循环"
+    },
+    {
+      "en": "food intake",
+      "zh": "食物摄入"
+    },
+    {
+      "en": "lead to weight gain",
+      "zh": "导致体重增加"
+    },
+    {
+      "en": "over time",
+      "zh": "随着时间推移；久而久之"
+    },
+    {
+      "en": "over the course of",
+      "zh": "在……期间"
+    },
+    {
+      "en": "respond to a drug",
+      "zh": "对药物作出反应"
+    },
+    {
+      "en": "depending on",
+      "zh": "取决于；因……而异"
+    },
+    {
+      "en": "it logically follows that",
+      "zh": "由此可合乎逻辑地推断"
+    },
+    {
+      "en": "side effects",
+      "zh": "副作用"
+    },
+    {
+      "en": "be aware that",
+      "zh": "意识到；知道"
+    },
+    {
+      "en": "ensure compliance",
+      "zh": "确保遵照医嘱"
+    },
+    {
+      "en": "rather than",
+      "zh": "而不是"
+    },
+    {
+      "en": "interfere with",
+      "zh": "干扰；妨碍"
+    },
+    {
+      "en": "internal clock",
+      "zh": "生物钟"
+    },
+    {
+      "en": "take ... into account",
+      "zh": "将……考虑在内"
+    }
+  ],
+  "questions": [
+    {
+      "number": 46,
+      "type": "choice",
+      "en": "What do we learn from the passage about the timing of our behaviors?",
+      "zh": "关于我们行为的时间安排，文章告诉了我们什么？",
+      "options": [
+        {
+          "key": "A",
+          "en": "It has a considerable impact on our health.",
+          "zh": "它对我们的健康有相当大的影响。"
+        },
+        {
+          "key": "B",
+          "en": "It confines us to a 24-hour day-night cycle.",
+          "zh": "它将我们限制在24小时的昼夜循环中。"
+        },
+        {
+          "key": "C",
+          "en": "It requires us to follow a particular rhythm.",
+          "zh": "它要求我们遵循特定的节律。"
+        },
+        {
+          "key": "D",
+          "en": "It holds the key to all human body functions.",
+          "zh": "它是人体所有功能的关键。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "定位：第1段第3句。行为发生的时间会显著影响健康；A项 has a considerable impact on our health 对应 significantly influence your health，属于同义转述。B项把行为时间受昼夜节律影响倒置成行为时间将人限制在循环中；C项将“人体功能遵循节律”改成“行为时间要求我们遵循节律”；D项的“所有人体功能的关键”原文没有提及。",
+      "evidence": "the timing of behaviors like exercise or food intake can significantly influence your health."
+    },
+    {
+      "number": 47,
+      "type": "choice",
+      "en": "What does the author say about the proteins in our body?",
+      "zh": "关于我们体内的蛋白质，作者说了什么？",
+      "options": [
+        {
+          "key": "A",
+          "en": "They can modify the effects of medicines in different ways.",
+          "zh": "它们能以不同方式改变药物的效果。"
+        },
+        {
+          "key": "B",
+          "en": "They can reduce unwanted side effects of certain medicines.",
+          "zh": "它们能减少某些药物的不良副作用。"
+        },
+        {
+          "key": "C",
+          "en": "Their reaction to medicines changes during the day-night cycle.",
+          "zh": "它们对药物的反应在昼夜周期内会发生变化。"
+        },
+        {
+          "key": "D",
+          "en": "Their design determines how differently they react to medicines.",
+          "zh": "它们的设计决定了它们对药物反应的差异。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "定位：第2段第2句。特定蛋白质在24小时内对药物的反应可能不同。C项 reaction to medicines changes 对应 react differently to the medicine，day-night cycle 对应 24-hour time period。A、D项混淆作用对象：原文是药物被设计用来调节蛋白质，蛋白质是药物靶点，并非蛋白质改变药物或其设计决定反应。B项把按时服药可能减少副作用的结果，错误归为蛋白质本身的功能。",
+      "evidence": "the specific proteins a drug is designed to modify can react differently to the medicine over the course of a 24-hour time period."
+    },
+    {
+      "number": 48,
+      "type": "choice",
+      "en": "What do doctors do when prescribing medicine for people?",
+      "zh": "医生给人们开药时通常怎么做？",
+      "options": [
+        {
+          "key": "A",
+          "en": "They give little thought to the time of taking it for maximum effect.",
+          "zh": "他们很少考虑何时服药才能获得最大药效。"
+        },
+        {
+          "key": "B",
+          "en": "They rarely consider which medicine works better for which patient.",
+          "zh": "他们很少考虑哪种药物对哪位患者效果更好。"
+        },
+        {
+          "key": "C",
+          "en": "They tell patients its possible side effects during a period of 24 hours.",
+          "zh": "他们告诉患者药物在24小时内可能产生的副作用。"
+        },
+        {
+          "key": "D",
+          "en": "They tell patients to comply with the directions of drug manufacturers.",
+          "zh": "他们让患者遵循药品制造商的说明。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "定位：第3段第1句。A项 give little thought 对应 rarely consider，taking it for maximum effect 对应 the best time to take it，说明医生很少考虑何时服药效果最佳。B项把时间选择偷换成药物与患者的匹配；C项把文中“特定时间用药可能减少副作用”改为医生告知24小时内的副作用；D项借用“遵从”的含义引入药品制造商说明，原文未提及。",
+      "evidence": "When doctors prescribe medicine for people, they rarely consider the best time to take it."
+    },
+    {
+      "number": 49,
+      "type": "choice",
+      "en": "Why do doctors advise patients to take most drugs in the morning or in the evening?",
+      "zh": "医生为什么建议患者在早晨或晚上服用大多数药物？",
+      "options": [
+        {
+          "key": "A",
+          "en": "To discourage them from making complaints.",
+          "zh": "为了让他们少抱怨。"
+        },
+        {
+          "key": "B",
+          "en": "To ensure they take the drugs as instructed.",
+          "zh": "为了确保他们遵照医嘱服药。"
+        },
+        {
+          "key": "C",
+          "en": "To comply with new research findings strictly.",
+          "zh": "为了严格遵循新的研究发现。"
+        },
+        {
+          "key": "D",
+          "en": "To guarantee the maximum effect of the drugs.",
+          "zh": "为了保证药物发挥最大效果。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "定位：第3段末句。主要目的是 ensure compliance，即确保患者遵照医嘱服药。B项 as instructed 对应 are directed to take most drugs。compliance 是 comply 的名词形式，意为遵从、依从，此处指遵从用药安排。A项 complaints（抱怨、投诉）不是 compliance，文中未提及；C项“新的研究发现”未提及；D项把研究中的最佳用药时间与医生建议的实际目的混为一谈，文中没有说晨晚用药是为了保证最大药效。",
+      "evidence": "patients are directed to take most drugs during the morning or evening primarily to ensure compliance."
+    },
+    {
+      "number": 50,
+      "type": "choice",
+      "en": "What does the author suggest near the end of the passage?",
+      "zh": "文章接近结尾时，作者提出了什么建议？",
+      "options": [
+        {
+          "key": "A",
+          "en": "Considering drug-taking timing when prescribing drugs for patients.",
+          "zh": "给患者开药时考虑服药时间。"
+        },
+        {
+          "key": "B",
+          "en": "Making treatments less complex by taking drug timing into account.",
+          "zh": "通过考虑用药时间降低治疗的复杂程度。"
+        },
+        {
+          "key": "C",
+          "en": "Conducting more studies to find out the best timing for treating different diseases.",
+          "zh": "开展更多研究，找出治疗不同疾病的最佳时间。"
+        },
+        {
+          "key": "D",
+          "en": "Finding out the most effective drugs for treating diseases through further research.",
+          "zh": "通过进一步研究找出治疗疾病最有效的药物。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "定位：第6段第1句。作者建议开展更多研究，以确定治疗不同疾病的最佳时间。C项 Conducting more studies 对应 More research is needed，the best timing 对应 the best times。A项虽呼应全文主题，但不是结尾直接提出的研究建议；B项把“治疗更有效”换成“治疗更简单”，原文没有此意；D项把研究对象由最佳治疗时间偷换为最有效的药物。",
+      "evidence": "More research is needed to determine the best times to administer treatments for different diseases."
+    }
+  ]
+}

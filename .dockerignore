@@ -1,0 +1,5 @@
+target
+.cache
+data
+.env
+.git

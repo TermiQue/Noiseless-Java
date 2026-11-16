@@ -1,0 +1,16 @@
+[Unit]
+Description=Noiseless mock AI fixture (TESTING ONLY)
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/srv/noiseless-java/testing
+ExecStart=/usr/bin/python3 /srv/noiseless-java/testing/mock_ai.py
+Restart=on-failure
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+
+[Install]
+WantedBy=multi-user.target

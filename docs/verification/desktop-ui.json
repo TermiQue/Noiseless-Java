@@ -1,0 +1,35 @@
+{
+  "verifiedOn": "2026-11-16",
+  "platform": "macOS",
+  "isolatedData": true,
+  "remoteTransport": "SSH tunnel to 127.0.0.1:18088",
+  "model": "mock-noiseless",
+  "realAiCalls": 0,
+  "passed": [
+    "foreground focus and Chinese paste",
+    "folder creation",
+    "article drag into folder and directory refresh",
+    "structured article edit save and reader refresh",
+    "translation toggle using keyboard menu",
+    "tool tab launcher and AI tab",
+    "support maximize and Escape restore",
+    "vocabulary empty page navigation",
+    "file chooser selection and attachment list",
+    "remote account login",
+    "remote article load",
+    "Chinese chat send with Enter",
+    "streamed Markdown reply displayed",
+    "chat update_article save and reader refresh"
+  ],
+  "fixes": [
+    "request foreground on desktop startup",
+    "recalculate final drop location on mouse release when intermediate events are coalesced"
+  ],
+  "limitations": [
+    "Swing popup not included in automation screenshot; validated via keyboard and resulting UI",
+    "physical trackpad gesture not tested",
+    "IME composition candidates not tested",
+    "actual audio output device not tested",
+    "Windows/Linux native UI not tested"
+  ]
+}

@@ -1,0 +1,1511 @@
+{
+  "format": "noiseless-1",
+  "id": "cet4-2025-12-set1-passage-two-retirement",
+  "type": "reading",
+  "title": "Passage Two · Delaying Retirement",
+  "subtitle": "美国老年人推迟退休的原因",
+  "level": "CET-4",
+  "source": "2025年12月大学英语四级考试真题（第1套）· Section C · Passage Two",
+  "instructions": "Questions 51 to 55 are based on the following passage.",
+  "paragraphs": [
+    {
+      "en": "Katharine Abraham, an economics professor, was chatting with her hairdresser (理发师) about retirement plans. The economist said she plans to continue working because she wants to. The hairdresser agreed but for a different reason: She needs the money.",
+      "zh": "经济学教授凯瑟琳·亚伯拉罕和她的理发师聊起了退休计划。这位经济学家说，她打算继续工作，因为她自己愿意。理发师也赞同继续工作，但理由不同：她需要这份收入。"
+    },
+    {
+      "en": "Both scenarios (情况) are contributing to a big increase in the number of people in the U.S. working into their 70s. Over the past 20 years, the share of Americans working in their 70s has risen from less than 10% to nearly 15%.",
+      "zh": "这两种情况共同促使美国70多岁仍在工作的人数大幅增加。过去20年间，美国70多岁人群中仍在工作的比例已从不足10%上升至近15%。"
+    },
+    {
+      "en": "In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the reasons people delay retirement. The decline of manufacturing and the increase in the number of people working in less labor-intensive occupations also has contributed to the trend, says Abraham, who researches work and retirement decisions of older Americans.",
+      "zh": "经济学家指出，除了人们身体更健康、寿命更长外，多种经济因素也是人们推迟退休的部分原因，例如实际工资多年来增长缓慢，以及私营部门逐渐不再采用传统退休金制度。研究美国老年人就业与退休决策的亚伯拉罕表示，制造业的衰退，以及从事劳动强度较低职业的人数增加，也促成了这一趋势。"
+    },
+    {
+      "en": "“Which matters more depends on what your history up until that point has been in the type of work you’re doing,” Abraham says.",
+      "zh": "亚伯拉罕说：“究竟哪种因素影响更大，取决于你在此之前从事这类工作的经历。”"
+    },
+    {
+      "en": "The overall trend is hitting Americans of all different levels of educational attainment, although the percentages vary by category. The share of Americans with bachelor’s degrees who were working into their 70s reached nearly 20% in 2018. For those with a high school degree or less, the proportion of those working in their 70s had risen to around 10%, while those with some college education were in the middle at around 15%.",
+      "zh": "这一总体趋势影响着不同教育水平的美国人，尽管各类人群的比例有所不同。2018年，拥有学士学位的美国人中，70多岁仍在工作的比例达到近20%。对于高中及以下学历者，这一比例已上升至约10%；接受过部分大学教育的人群则处于中间水平，约为15%。"
+    },
+    {
+      "en": "Martin Neil Baily, an economist who is leading a research project on retirement security, notes that quitting a career can lead to feelings of isolation and loneliness, particularly for men. He suggests that many college-educated workers are choosing to stay in the labor force more for social benefits than for financial reasons. They’re also more likely to be in professional occupations where they tend to enjoy their work more.",
+      "zh": "经济学家马丁·尼尔·贝利正主持一项关于退休保障的研究项目。他指出，结束职业生涯可能使人产生疏离感与孤独感，对男性而言尤其如此。他认为，许多受过大学教育的劳动者选择留在劳动力市场，更多是为了获得社交方面的益处，而非出于经济原因。他们也更可能从事专业性职业，在这类工作中往往更能获得乐趣。"
+    },
+    {
+      "en": "Workers in more physical jobs, meanwhile, may be more likely to look forward to retiring, Baily says, suggesting those who stay on are more likely doing so for financial reasons.",
+      "zh": "与此同时，贝利表示，从事体力要求较高工作的人或许更盼望退休；而那些选择继续工作的人，更可能是出于经济原因。"
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "pos": "art.",
+      "meaning": "一个；某个"
+    },
+    "about": {
+      "pos": "prep.",
+      "meaning": "关于；大约"
+    },
+    "abraham": {
+      "pos": "专名",
+      "meaning": "亚伯拉罕",
+      "context": "文中的经济学教授凯瑟琳·亚伯拉罕"
+    },
+    "according": {
+      "pos": "adv.",
+      "meaning": "根据；按照",
+      "context": "according to：据……所说"
+    },
+    "addition": {
+      "pos": "n.",
+      "meaning": "增加；补充",
+      "context": "in addition to：除……之外"
+    },
+    "after": {
+      "pos": "prep./conj.",
+      "meaning": "在……之后",
+      "context": "退休之后"
+    },
+    "agreed": {
+      "pos": "v.",
+      "meaning": "同意；赞同",
+      "context": "理发师赞同继续工作"
+    },
+    "all": {
+      "pos": "det./pron.",
+      "meaning": "所有；全部"
+    },
+    "also": {
+      "pos": "adv.",
+      "meaning": "也；还"
+    },
+    "although": {
+      "pos": "conj.",
+      "meaning": "虽然；尽管",
+      "context": "引出不同群体比例有差异的让步"
+    },
+    "americans": {
+      "pos": "n.",
+      "meaning": "美国人",
+      "context": "文中讨论的美国人群"
+    },
+    "an": {
+      "pos": "冠词",
+      "ipa": "ˈæn",
+      "meaning": "一个；一（元音音素前）"
+    },
+    "and": {
+      "pos": "conj.",
+      "meaning": "和；并且"
+    },
+    "anticipate": {
+      "pos": "v.",
+      "meaning": "预期；期待",
+      "context": "期待退休",
+      "ipa": "ænˈtɪsɪpeɪt"
+    },
+    "are": {
+      "pos": "v.",
+      "meaning": "是；处于"
+    },
+    "around": {
+      "pos": "prep./adv.",
+      "meaning": "大约；在周围",
+      "ipa": "ɝˈaʊnd"
+    },
+    "as": {
+      "pos": "conj./prep.",
+      "meaning": "按照；作为；当……时"
+    },
+    "at": {
+      "pos": "prep.",
+      "meaning": "在；处于"
+    },
+    "attainment": {
+      "pos": "n.",
+      "meaning": "获得；成就；水平",
+      "context": "educational attainment：受教育程度",
+      "ipa": "əˈteɪnmənt"
+    },
+    "away": {
+      "pos": "adv.",
+      "meaning": "离开；远离",
+      "context": "a shift away from：逐渐不再采用"
+    },
+    "bachelor’s": {
+      "pos": "n.所有格",
+      "meaning": "学士的",
+      "context": "bachelor’s degrees：学士学位"
+    },
+    "baily": {
+      "pos": "专名",
+      "meaning": "贝利",
+      "context": "经济学家马丁·尼尔·贝利"
+    },
+    "be": {
+      "pos": "v.",
+      "meaning": "是；成为；处于"
+    },
+    "because": {
+      "pos": "conj.",
+      "meaning": "因为"
+    },
+    "been": {
+      "pos": "v.",
+      "meaning": "是；处于"
+    },
+    "being": {
+      "pos": "v.",
+      "meaning": "是；处于",
+      "context": "指人们身体更加健康"
+    },
+    "benefits": {
+      "pos": "n.",
+      "meaning": "益处；福利",
+      "context": "social benefits在本文指社交益处"
+    },
+    "big": {
+      "pos": "adj.",
+      "meaning": "大的",
+      "context": "人数大幅增加"
+    },
+    "both": {
+      "pos": "限定词/代词/连词",
+      "ipa": "bˈoʊθ",
+      "meaning": "两者都；既……又……"
+    },
+    "but": {
+      "pos": "conj.",
+      "meaning": "但是；然而",
+      "ipa": "bˈʌt"
+    },
+    "by": {
+      "pos": "prep.",
+      "meaning": "通过；由；在……之前"
+    },
+    "can": {
+      "pos": "modal v.",
+      "meaning": "能；可能"
+    },
+    "career": {
+      "pos": "n.",
+      "meaning": "职业；职业生涯",
+      "context": "退休前的职业生涯"
+    },
+    "category": {
+      "pos": "n.",
+      "meaning": "类别；种类",
+      "context": "按教育程度划分的人群类别"
+    },
+    "challenging": {
+      "pos": "adj.",
+      "meaning": "有挑战性的",
+      "context": "intellectually challenging：对脑力有挑战的"
+    },
+    "chatting": {
+      "pos": "v.",
+      "meaning": "聊天；闲谈",
+      "context": "教授与理发师谈论退休计划"
+    },
+    "chief": {
+      "pos": "adj./n.",
+      "meaning": "主要的；首领",
+      "context": "chief reason：主要原因"
+    },
+    "choosing": {
+      "pos": "v.",
+      "meaning": "选择",
+      "context": "选择继续留在劳动力市场"
+    },
+    "college": {
+      "pos": "n.",
+      "meaning": "大学；学院",
+      "context": "some college education：接受过部分大学教育"
+    },
+    "college-educated": {
+      "pos": "adj.",
+      "meaning": "受过大学教育的",
+      "context": "受过大学教育的劳动者"
+    },
+    "combination": {
+      "pos": "n.",
+      "meaning": "结合；组合",
+      "context": "多种经济因素的共同作用"
+    },
+    "committed": {
+      "pos": "adj./v.",
+      "meaning": "尽心尽力的；承诺的",
+      "context": "be committed to：决心或致力于"
+    },
+    "connected": {
+      "pos": "adj./v.",
+      "meaning": "有联系的；连接的",
+      "context": "staying connected socially：保持社交联系"
+    },
+    "considerations": {
+      "pos": "n.",
+      "meaning": "考虑；考虑因素",
+      "context": "经济方面的考虑因素"
+    },
+    "continue": {
+      "pos": "v.",
+      "meaning": "继续",
+      "context": "继续工作"
+    },
+    "continuing": {
+      "pos": "v.",
+      "meaning": "继续",
+      "context": "继续工作"
+    },
+    "contributed": {
+      "pos": "v.",
+      "meaning": "促成；贡献",
+      "context": "已促成推迟退休的趋势"
+    },
+    "contributing": {
+      "pos": "v.",
+      "meaning": "促成；贡献",
+      "context": "促使70多岁仍在工作的人数增加"
+    },
+    "current": {
+      "pos": "adj./n.",
+      "meaning": "当前的；水流",
+      "context": "目前的经济状况"
+    },
+    "decisions": {
+      "pos": "n.",
+      "meaning": "决定；决策",
+      "context": "就业与退休的决策"
+    },
+    "decline": {
+      "pos": "n./v.",
+      "meaning": "下降；减少；衰退",
+      "ipa": "dɪklˈaɪn"
+    },
+    "degree": {
+      "pos": "n.",
+      "meaning": "学位；程度",
+      "context": "学历或学位"
+    },
+    "degrees": {
+      "pos": "n.",
+      "meaning": "学位；程度",
+      "context": "学士学位"
+    },
+    "delay": {
+      "pos": "v./n.",
+      "meaning": "推迟；延期",
+      "context": "推迟退休",
+      "ipa": "dɪˈleɪ"
+    },
+    "delaying": {
+      "pos": "v.",
+      "meaning": "推迟；延后",
+      "context": "推迟退休"
+    },
+    "depends": {
+      "pos": "v.",
+      "meaning": "取决于；依赖",
+      "context": "取决于以往的工作经历"
+    },
+    "differ": {
+      "pos": "v.",
+      "meaning": "不同；有区别"
+    },
+    "different": {
+      "pos": "adj.",
+      "meaning": "不同的"
+    },
+    "do": {
+      "pos": "v./aux.",
+      "meaning": "做；用于构成疑问句"
+    },
+    "does": {
+      "pos": "aux./v.",
+      "meaning": "做；用于构成疑问句"
+    },
+    "doing": {
+      "pos": "v.",
+      "meaning": "做；从事",
+      "context": "正在从事的工作"
+    },
+    "don’t": {
+      "pos": "aux.",
+      "meaning": "不；没有",
+      "context": "do not的缩写"
+    },
+    "down": {
+      "pos": "adv.",
+      "meaning": "向下；减缓",
+      "context": "slow down：放缓"
+    },
+    "eager": {
+      "pos": "adj.",
+      "meaning": "渴望的；热切的",
+      "context": "渴望退休后享受生活"
+    },
+    "earnings": {
+      "pos": "n.",
+      "meaning": "收入；工资",
+      "context": "劳动者的收入"
+    },
+    "economics": {
+      "pos": "n.",
+      "meaning": "经济学",
+      "context": "economics professor：经济学教授"
+    },
+    "economist": {
+      "pos": "n.",
+      "meaning": "经济学家",
+      "context": "文中提出观点的经济学家"
+    },
+    "economists": {
+      "pos": "n.",
+      "meaning": "经济学家",
+      "context": "economist的复数形式"
+    },
+    "education": {
+      "pos": "n.",
+      "meaning": "教育",
+      "context": "接受的大学教育"
+    },
+    "educational": {
+      "pos": "adj.",
+      "meaning": "教育的",
+      "context": "教育水平或受教育程度"
+    },
+    "enjoy": {
+      "pos": "v.",
+      "meaning": "享受；喜爱",
+      "context": "从工作中获得乐趣"
+    },
+    "enjoying": {
+      "pos": "v.",
+      "meaning": "享受；拥有",
+      "context": "享有经济保障"
+    },
+    "feelings": {
+      "pos": "n. 复数",
+      "meaning": "感受；情绪",
+      "ipa": "fˈilɪŋz"
+    },
+    "financial": {
+      "pos": "adj.",
+      "meaning": "财务的；经济的；金融的",
+      "ipa": "fʌnˈænʃʌl"
+    },
+    "find": {
+      "pos": "v.",
+      "meaning": "发现；找出"
+    },
+    "for": {
+      "pos": "prep.",
+      "meaning": "为了；对于；给"
+    },
+    "force": {
+      "pos": "n./v.",
+      "meaning": "力量；强迫",
+      "context": "labor force：劳动力；就业人群"
+    },
+    "forward": {
+      "pos": "adv.",
+      "meaning": "向前",
+      "context": "look forward to：期待"
+    },
+    "from": {
+      "pos": "prep.",
+      "meaning": "从；来自"
+    },
+    "general": {
+      "pos": "adj.",
+      "meaning": "总体的；一般的",
+      "context": "推迟退休的总体趋势"
+    },
+    "generally": {
+      "pos": "adv.",
+      "meaning": "通常；一般来说",
+      "context": "选项中指通常不喜欢工作"
+    },
+    "had": {
+      "pos": "v./aux.",
+      "meaning": "有；已经",
+      "context": "have的过去式，构成过去完成时"
+    },
+    "hairdresser": {
+      "pos": "n.",
+      "meaning": "理发师",
+      "context": "与教授聊天的理发师"
+    },
+    "happy": {
+      "pos": "adj.",
+      "meaning": "高兴的；满意的",
+      "context": "对当前经济状况满意"
+    },
+    "hard": {
+      "pos": "adj./adv.",
+      "meaning": "艰难的；坚硬的；努力地",
+      "ipa": "hˈɑɹd"
+    },
+    "has": {
+      "pos": "v./aux.",
+      "meaning": "有；已经"
+    },
+    "have": {
+      "pos": "v./aux.",
+      "meaning": "有；已经"
+    },
+    "he": {
+      "pos": "pron.",
+      "meaning": "他",
+      "context": "指经济学家贝利"
+    },
+    "healthier": {
+      "pos": "adj.",
+      "meaning": "更健康的",
+      "context": "人们的身体比过去更健康"
+    },
+    "her": {
+      "pos": "代词/限定词",
+      "ipa": "hˈɜː",
+      "meaning": "她的；她（宾格）"
+    },
+    "high": {
+      "pos": "adj.",
+      "meaning": "高的",
+      "context": "high school：高中"
+    },
+    "higher": {
+      "pos": "adj.",
+      "meaning": "更高的",
+      "context": "更高的收入或教育水平"
+    },
+    "history": {
+      "pos": "n.",
+      "meaning": "历史；经历",
+      "context": "以往的职业经历"
+    },
+    "hitting": {
+      "pos": "v.",
+      "meaning": "影响；打击",
+      "context": "总体趋势影响不同教育水平的人群"
+    },
+    "hold": {
+      "pos": "v.",
+      "meaning": "持有；握住",
+      "context": "hold different views：持不同观点"
+    },
+    "in": {
+      "pos": "prep.",
+      "meaning": "在……内；在……中"
+    },
+    "increase": {
+      "pos": "v./n.",
+      "meaning": "增加；提高"
+    },
+    "increased": {
+      "pos": "adj./v.",
+      "meaning": "增加的；增加了"
+    },
+    "increasing": {
+      "pos": "v.",
+      "meaning": "增加；提高",
+      "context": "增加社会保障金缴纳"
+    },
+    "intellectually": {
+      "pos": "adv.",
+      "meaning": "在智力上；在脑力方面",
+      "context": "工作的脑力要求"
+    },
+    "into": {
+      "pos": "prep.",
+      "meaning": "进入；到……之中"
+    },
+    "is": {
+      "pos": "v./aux.",
+      "meaning": "是；处于"
+    },
+    "isolation": {
+      "pos": "n.",
+      "meaning": "隔离；疏离",
+      "context": "结束职业生涯后的疏离感",
+      "ipa": "ˌaɪsəˈleɪʃən"
+    },
+    "it": {
+      "pos": "pron.",
+      "meaning": "它；这"
+    },
+    "job": {
+      "pos": "n.",
+      "meaning": "工作；职位",
+      "context": "job satisfaction：工作满意度"
+    },
+    "jobs": {
+      "pos": "n.",
+      "meaning": "工作；岗位",
+      "context": "体力工作或适合老年人的岗位"
+    },
+    "katharine": {
+      "pos": "专名",
+      "meaning": "凯瑟琳",
+      "context": "教授的名字"
+    },
+    "labor": {
+      "pos": "n./v.",
+      "meaning": "劳动；劳动力",
+      "context": "labor force：劳动力"
+    },
+    "labor-intensive": {
+      "pos": "adj.",
+      "meaning": "劳动密集型的；劳动强度大的",
+      "context": "less labor-intensive occupations：劳动强度较低的职业"
+    },
+    "late": {
+      "pos": "形容词/副词",
+      "ipa": "lˈeɪt",
+      "meaning": "晚的；迟的；后期的"
+    },
+    "later": {
+      "pos": "adv./adj.",
+      "meaning": "较晚；后来的",
+      "context": "较晚退休"
+    },
+    "lead": {
+      "pos": "v.",
+      "meaning": "导致；引领"
+    },
+    "leading": {
+      "pos": "v./adj.",
+      "meaning": "领导；主持；领先的",
+      "context": "主持一项退休保障研究"
+    },
+    "learn": {
+      "pos": "v.",
+      "meaning": "了解；学习"
+    },
+    "less": {
+      "pos": "adv./det.",
+      "meaning": "较少；更少"
+    },
+    "level": {
+      "pos": "n.",
+      "meaning": "水平；程度",
+      "context": "教育水平"
+    },
+    "levels": {
+      "pos": "n.",
+      "meaning": "水平；等级"
+    },
+    "life": {
+      "pos": "n.",
+      "meaning": "生活；生命",
+      "context": "退休后的生活"
+    },
+    "likely": {
+      "pos": "adj./adv.",
+      "meaning": "可能的；很可能",
+      "context": "更可能继续工作或期待退休"
+    },
+    "living": {
+      "pos": "adj./v.",
+      "meaning": "活着的；生活"
+    },
+    "loneliness": {
+      "pos": "n.",
+      "meaning": "孤独；寂寞",
+      "context": "退休后可能产生的孤独感",
+      "ipa": "ˈləʊnlinəs"
+    },
+    "longer": {
+      "pos": "adv./adj.",
+      "meaning": "更长久；更长的",
+      "context": "寿命更长"
+    },
+    "look": {
+      "pos": "v.",
+      "meaning": "看；显得",
+      "context": "look forward to retiring：盼望退休"
+    },
+    "manual": {
+      "pos": "adj./n.",
+      "meaning": "手工的；体力的；手册",
+      "context": "manual work：体力劳动"
+    },
+    "manufacturing": {
+      "pos": "n.",
+      "meaning": "制造业；生产",
+      "context": "制造业的衰退"
+    },
+    "many": {
+      "pos": "det./pron.",
+      "meaning": "许多"
+    },
+    "martin": {
+      "pos": "专名",
+      "meaning": "马丁",
+      "context": "经济学家贝利的名字"
+    },
+    "matters": {
+      "pos": "v./n.",
+      "meaning": "有关系；重要；事情",
+      "context": "which matters more：哪种因素影响更大"
+    },
+    "may": {
+      "pos": "modal v.",
+      "meaning": "可能；可以",
+      "context": "表示对体力劳动者退休意愿的推测"
+    },
+    "meanwhile": {
+      "pos": "副词",
+      "ipa": "mˈiːnwaɪl",
+      "meaning": "与此同时；另一方面"
+    },
+    "men": {
+      "pos": "n.",
+      "meaning": "男性；男人",
+      "context": "退休后较易产生孤独感的人群"
+    },
+    "middle": {
+      "pos": "n./adj.",
+      "meaning": "中间；中间的",
+      "context": "部分大学教育者的比例位于中间"
+    },
+    "money": {
+      "pos": "n.",
+      "meaning": "金钱；钱款",
+      "ipa": "mˈʌni"
+    },
+    "more": {
+      "pos": "det./adv.",
+      "meaning": "更多；更加"
+    },
+    "much": {
+      "pos": "adv./det.",
+      "meaning": "很；多",
+      "context": "much longer：长得多"
+    },
+    "nearly": {
+      "pos": "adv.",
+      "meaning": "几乎；将近",
+      "context": "比例接近15%或20%"
+    },
+    "needs": {
+      "pos": "v./n.",
+      "meaning": "需要；需求",
+      "context": "理发师需要收入"
+    },
+    "neil": {
+      "pos": "专名",
+      "meaning": "尼尔",
+      "context": "经济学家贝利名字的一部分"
+    },
+    "notes": {
+      "pos": "动词·第三人称单数/名词",
+      "ipa": "nˈoʊts",
+      "meaning": "指出；提到；笔记"
+    },
+    "number": {
+      "pos": "n.",
+      "meaning": "数量；数字",
+      "context": "继续工作的人数"
+    },
+    "occupations": {
+      "pos": "n.",
+      "meaning": "职业；工作",
+      "context": "劳动强度较低或专业性职业"
+    },
+    "of": {
+      "pos": "prep.",
+      "meaning": "……的"
+    },
+    "older": {
+      "pos": "adj.",
+      "meaning": "年长的；较老的",
+      "context": "老年美国人"
+    },
+    "on": {
+      "pos": "prep.",
+      "meaning": "在……上；关于"
+    },
+    "one": {
+      "pos": "num./pron.",
+      "meaning": "一；一个",
+      "context": "推迟退休的原因之一"
+    },
+    "or": {
+      "pos": "conj.",
+      "meaning": "或者；或"
+    },
+    "over": {
+      "pos": "prep./adv.",
+      "meaning": "超过；在……期间"
+    },
+    "overall": {
+      "pos": "adj./adv.",
+      "meaning": "总体的；总的来说",
+      "context": "总体趋势"
+    },
+    "particularly": {
+      "pos": "adv.",
+      "meaning": "尤其；特别",
+      "context": "退休后男性尤其易感到孤独"
+    },
+    "passage": {
+      "pos": "n.",
+      "meaning": "文章；段落"
+    },
+    "past": {
+      "pos": "adj./n./prep.",
+      "meaning": "过去的；过去；经过",
+      "context": "过去20年"
+    },
+    "payments": {
+      "pos": "n.",
+      "meaning": "支付款；缴纳款",
+      "context": "选项中的社会保障金缴纳"
+    },
+    "pensions": {
+      "pos": "n.",
+      "meaning": "退休金；养老金",
+      "context": "传统退休金制度"
+    },
+    "people": {
+      "pos": "n.",
+      "meaning": "人们"
+    },
+    "percentages": {
+      "pos": "n.",
+      "meaning": "百分比",
+      "context": "不同教育群体继续工作的比例"
+    },
+    "physical": {
+      "pos": "adj.",
+      "meaning": "身体的；体力的",
+      "context": "physical jobs：体力要求较高的工作"
+    },
+    "plans": {
+      "pos": "n./v.",
+      "meaning": "计划；打算",
+      "context": "退休计划；打算继续工作"
+    },
+    "point": {
+      "pos": "n.",
+      "meaning": "时间点；要点",
+      "context": "up until that point：直到那个时候"
+    },
+    "postponing": {
+      "pos": "v.",
+      "meaning": "推迟；延迟",
+      "context": "推迟退休"
+    },
+    "power": {
+      "pos": "n.",
+      "meaning": "力量；能力",
+      "context": "purchasing power：购买力"
+    },
+    "private": {
+      "pos": "adj.",
+      "meaning": "私人的；私营的",
+      "context": "private sector：私营部门"
+    },
+    "professional": {
+      "pos": "adj./n.",
+      "meaning": "专业的；职业的；专业人士",
+      "context": "专业性职业"
+    },
+    "professionally": {
+      "pos": "adv.",
+      "meaning": "在专业方面；职业上",
+      "context": "在专业领域作出贡献"
+    },
+    "professor": {
+      "pos": "n.",
+      "meaning": "教授",
+      "context": "经济学教授"
+    },
+    "project": {
+      "pos": "n./v.",
+      "meaning": "项目；规划",
+      "context": "关于退休保障的研究项目"
+    },
+    "proportion": {
+      "pos": "n.",
+      "meaning": "比例；部分",
+      "context": "70多岁仍工作的比例"
+    },
+    "purchasing": {
+      "pos": "v./adj.",
+      "meaning": "购买；购买的",
+      "context": "purchasing power：购买力"
+    },
+    "quitting": {
+      "pos": "v.",
+      "meaning": "离开；停止",
+      "context": "结束职业生涯"
+    },
+    "rate": {
+      "pos": "n.",
+      "meaning": "比率；速度",
+      "context": "工资增长率"
+    },
+    "reached": {
+      "pos": "动词·过去式",
+      "ipa": "ɹˈiːtʃt",
+      "meaning": "达到；到达；取得联系"
+    },
+    "real": {
+      "pos": "adj.",
+      "meaning": "真实的；实际的",
+      "context": "real wages：扣除物价因素后的实际工资"
+    },
+    "reason": {
+      "pos": "n.",
+      "meaning": "原因；理由"
+    },
+    "reasons": {
+      "pos": "n.",
+      "meaning": "原因；理由"
+    },
+    "rely": {
+      "pos": "v.",
+      "meaning": "依赖；依靠",
+      "context": "依赖传统退休金"
+    },
+    "research": {
+      "pos": "n./v.",
+      "meaning": "研究"
+    },
+    "researches": {
+      "pos": "v.",
+      "meaning": "研究",
+      "context": "研究老年人的就业和退休决策"
+    },
+    "retire": {
+      "pos": "v.",
+      "meaning": "退休；退职",
+      "context": "结束工作并退休"
+    },
+    "retirement": {
+      "pos": "n.",
+      "meaning": "退休；退职",
+      "context": "文章讨论的退休选择",
+      "ipa": "rɪˈtaɪəmənt"
+    },
+    "retiring": {
+      "pos": "v.",
+      "meaning": "退休；退职",
+      "context": "期待退休"
+    },
+    "rise": {
+      "pos": "名词/动词",
+      "ipa": "ɹˈaɪz",
+      "meaning": "上升；增长；起身"
+    },
+    "risen": {
+      "pos": "v.",
+      "meaning": "上升；增长",
+      "context": "rise的过去分词，指比例上升"
+    },
+    "s": {
+      "pos": "缩写",
+      "meaning": "U.S.的组成部分",
+      "context": "U.S.是United States的缩写，指美国"
+    },
+    "said": {
+      "pos": "v.",
+      "meaning": "说；表示",
+      "context": "say的过去式，教授表示"
+    },
+    "satisfaction": {
+      "pos": "n.",
+      "meaning": "满意；满足",
+      "context": "工作满意度"
+    },
+    "say": {
+      "pos": "v.",
+      "meaning": "说；表明"
+    },
+    "says": {
+      "pos": "动词·第三人称单数",
+      "ipa": "sˈɛz",
+      "meaning": "说；表示；写道"
+    },
+    "scenarios": {
+      "pos": "n.",
+      "meaning": "情况；情形",
+      "context": "自愿继续工作与为收入继续工作两种情况"
+    },
+    "school": {
+      "pos": "n.",
+      "meaning": "学校",
+      "context": "high school：高中"
+    },
+    "sector": {
+      "pos": "n.",
+      "meaning": "部门；领域",
+      "context": "private sector：私营部门"
+    },
+    "security": {
+      "pos": "n.",
+      "meaning": "保障；安全",
+      "context": "retirement security：退休保障；financial security：经济保障"
+    },
+    "seventies": {
+      "pos": "num./n.",
+      "meaning": "七十几；七十年代",
+      "context": "late seventies：七十多岁后期，接近80岁"
+    },
+    "share": {
+      "pos": "n./v.",
+      "meaning": "份额；比例；分享",
+      "context": "某类人群中仍在工作的比例"
+    },
+    "she": {
+      "pos": "代词",
+      "ipa": "ʃˈiː",
+      "meaning": "她"
+    },
+    "shift": {
+      "pos": "n./v.",
+      "meaning": "转变；转移",
+      "context": "逐渐不再采用传统退休金制度"
+    },
+    "situation": {
+      "pos": "n.",
+      "meaning": "状况；情况",
+      "context": "当前经济状况"
+    },
+    "slow": {
+      "pos": "adj./v.",
+      "meaning": "缓慢的；放慢",
+      "context": "实际工资缓慢增长"
+    },
+    "slowed": {
+      "pos": "v.",
+      "meaning": "放慢；减缓",
+      "context": "增长率长期放缓"
+    },
+    "so": {
+      "pos": "副词/连词",
+      "meaning": "如此；这么；所以",
+      "ipa": "sˈoʊ"
+    },
+    "social": {
+      "pos": "形容词",
+      "ipa": "sˈoʊʃəl",
+      "meaning": "社会的；社交的"
+    },
+    "socially": {
+      "pos": "adv.",
+      "meaning": "在社交方面；在社会上",
+      "context": "保持社交联系"
+    },
+    "some": {
+      "pos": "det./pron.",
+      "meaning": "一些；某些"
+    },
+    "stay": {
+      "pos": "v.",
+      "meaning": "留下；继续",
+      "context": "继续留在劳动力市场"
+    },
+    "staying": {
+      "pos": "v.",
+      "meaning": "保持；留下",
+      "context": "保持社交联系"
+    },
+    "such": {
+      "pos": "det./adj.",
+      "meaning": "这样的；如此的；例如",
+      "ipa": "sˈʌtʃ"
+    },
+    "suggesting": {
+      "pos": "v.",
+      "meaning": "表明；暗示",
+      "context": "表明继续工作的体力劳动者可能出于经济考虑"
+    },
+    "suggests": {
+      "pos": "v. 三单",
+      "meaning": "表明；暗示；建议",
+      "ipa": "sʌdʒˈɛsts"
+    },
+    "suitable": {
+      "pos": "adj.",
+      "meaning": "合适的；适宜的",
+      "context": "适合老年人的岗位"
+    },
+    "switched": {
+      "pos": "v.",
+      "meaning": "转变；转换",
+      "context": "转向另一类工作"
+    },
+    "tempted": {
+      "pos": "adj./v.",
+      "meaning": "心动的；受到诱惑",
+      "context": "想要推迟退休"
+    },
+    "tend": {
+      "pos": "v.",
+      "meaning": "往往；倾向于",
+      "context": "往往更享受工作或期待退休"
+    },
+    "terms": {
+      "pos": "n.",
+      "meaning": "方面；条件；术语",
+      "context": "in terms of：从……方面衡量"
+    },
+    "than": {
+      "pos": "conj./prep.",
+      "meaning": "比；而不是"
+    },
+    "that": {
+      "pos": "conj./pron./det.",
+      "meaning": "引导从句；那；那个"
+    },
+    "the": {
+      "pos": "art.",
+      "meaning": "这；该"
+    },
+    "their": {
+      "pos": "det.",
+      "meaning": "他们的；它们的"
+    },
+    "they": {
+      "pos": "pron.",
+      "meaning": "他们；它们"
+    },
+    "they’re": {
+      "pos": "pron.+v.",
+      "meaning": "他们是；他们正在",
+      "context": "they are的缩写"
+    },
+    "those": {
+      "pos": "pron./det.",
+      "meaning": "那些；那些人",
+      "context": "指具有某种教育背景或继续工作的人"
+    },
+    "to": {
+      "pos": "prep./inf.",
+      "meaning": "向；对；用于动词不定式"
+    },
+    "traditional": {
+      "pos": "adj.",
+      "meaning": "传统的",
+      "context": "传统退休金制度"
+    },
+    "trend": {
+      "pos": "名词",
+      "ipa": "tɹˈɛnd",
+      "meaning": "趋势；潮流；流行风尚"
+    },
+    "troubles": {
+      "pos": "n.",
+      "meaning": "困难；麻烦",
+      "context": "经济困难"
+    },
+    "type": {
+      "pos": "n.",
+      "meaning": "类型；种类",
+      "context": "所从事的工作类型"
+    },
+    "u": {
+      "pos": "缩写",
+      "meaning": "U.S.的组成部分",
+      "context": "U.S.是United States的缩写，指美国"
+    },
+    "until": {
+      "pos": "prep./conj.",
+      "meaning": "直到",
+      "context": "一直到某个时间点"
+    },
+    "up": {
+      "pos": "副词/介词",
+      "ipa": "ˈʌp",
+      "meaning": "向上；出现；完成"
+    },
+    "vary": {
+      "pos": "v.",
+      "meaning": "不同；变化",
+      "context": "比例因类别而异"
+    },
+    "views": {
+      "pos": "n.",
+      "meaning": "观点；看法",
+      "context": "对推迟退休的看法"
+    },
+    "wage": {
+      "pos": "n.",
+      "meaning": "工资",
+      "context": "工资增长率"
+    },
+    "wages": {
+      "pos": "n.",
+      "meaning": "工资",
+      "context": "实际工资"
+    },
+    "wants": {
+      "pos": "v.",
+      "meaning": "想要；希望",
+      "context": "教授自愿继续工作"
+    },
+    "was": {
+      "pos": "系动词/助动词·过去式",
+      "ipa": "wˈʌz",
+      "meaning": "是；处于；曾经"
+    },
+    "we": {
+      "pos": "pron.",
+      "meaning": "我们"
+    },
+    "were": {
+      "pos": "系动词/助动词·过去式",
+      "ipa": "wˈɜː",
+      "meaning": "是；处于；曾经"
+    },
+    "what": {
+      "pos": "pron./det.",
+      "meaning": "什么"
+    },
+    "where": {
+      "pos": "adv./conj.",
+      "meaning": "在哪里；在……情况下",
+      "ipa": "wˈɛɹ"
+    },
+    "which": {
+      "pos": "pron./det.",
+      "meaning": "哪一个；哪种"
+    },
+    "while": {
+      "pos": "conj.",
+      "meaning": "而；当……时",
+      "context": "对照不同教育程度人群的工作比例"
+    },
+    "who": {
+      "pos": "pron.",
+      "meaning": "谁；……的人",
+      "context": "引导修饰经济学家或劳动者的定语从句"
+    },
+    "with": {
+      "pos": "prep.",
+      "meaning": "与；用；和"
+    },
+    "women": {
+      "pos": "n.",
+      "meaning": "女性；妇女",
+      "context": "选项中与男性比较的女性"
+    },
+    "work": {
+      "pos": "n./v.",
+      "meaning": "工作；劳动",
+      "context": "工作本身或继续工作"
+    },
+    "workers": {
+      "pos": "n.",
+      "meaning": "劳动者；工作人员",
+      "context": "受过大学教育或从事体力劳动的人"
+    },
+    "working": {
+      "pos": "v./adj.",
+      "meaning": "工作；在职的",
+      "context": "70多岁仍在工作"
+    },
+    "workplace": {
+      "pos": "n.",
+      "meaning": "工作场所；职场",
+      "context": "在职场中的人"
+    },
+    "years": {
+      "pos": "n.",
+      "meaning": "年；岁"
+    },
+    "your": {
+      "pos": "det.",
+      "meaning": "你的；你们的"
+    },
+    "you’re": {
+      "pos": "pron.+v.",
+      "meaning": "你是；你正在",
+      "context": "you are的缩写"
+    },
+    "70s": {
+      "pos": "年龄表达",
+      "meaning": "七十多岁；七十年代",
+      "context": "in their 70s：在他们70至79岁期间",
+      "pattern": "work into their 70s"
+    }
+  },
+  "phrases": [
+    {
+      "en": "retirement plans",
+      "zh": "退休计划"
+    },
+    {
+      "en": "continue working",
+      "zh": "继续工作"
+    },
+    {
+      "en": "for a different reason",
+      "zh": "出于不同的原因"
+    },
+    {
+      "en": "contribute to",
+      "zh": "促成；导致"
+    },
+    {
+      "en": "in their 70s",
+      "zh": "在他们70多岁时"
+    },
+    {
+      "en": "in addition to",
+      "zh": "除……之外"
+    },
+    {
+      "en": "financial considerations",
+      "zh": "经济方面的考虑"
+    },
+    {
+      "en": "real wages",
+      "zh": "实际工资，即扣除物价因素后反映购买力的工资"
+    },
+    {
+      "en": "a shift away from",
+      "zh": "逐渐不再采用；从……转变"
+    },
+    {
+      "en": "private sector",
+      "zh": "私营部门"
+    },
+    {
+      "en": "delay retirement",
+      "zh": "推迟退休"
+    },
+    {
+      "en": "less labor-intensive occupations",
+      "zh": "劳动强度较低的职业"
+    },
+    {
+      "en": "depend on",
+      "zh": "取决于"
+    },
+    {
+      "en": "educational attainment",
+      "zh": "受教育程度；教育水平"
+    },
+    {
+      "en": "bachelor’s degrees",
+      "zh": "学士学位"
+    },
+    {
+      "en": "some college education",
+      "zh": "接受过部分大学教育，不等于已获得大学学位"
+    },
+    {
+      "en": "retirement security",
+      "zh": "退休保障"
+    },
+    {
+      "en": "lead to",
+      "zh": "导致"
+    },
+    {
+      "en": "feelings of isolation and loneliness",
+      "zh": "疏离感与孤独感"
+    },
+    {
+      "en": "labor force",
+      "zh": "劳动力；就业人群"
+    },
+    {
+      "en": "social benefits",
+      "zh": "此处指社交方面的益处"
+    },
+    {
+      "en": "professional occupations",
+      "zh": "专业性职业"
+    },
+    {
+      "en": "look forward to retiring",
+      "zh": "期待退休；to后接动名词"
+    },
+    {
+      "en": "stay on",
+      "zh": "继续留下工作"
+    },
+    {
+      "en": "in terms of purchasing power",
+      "zh": "从购买力角度衡量"
+    },
+    {
+      "en": "job satisfaction",
+      "zh": "工作满意度"
+    },
+    {
+      "en": "stay connected socially",
+      "zh": "保持社交联系"
+    },
+    {
+      "en": "manual work",
+      "zh": "体力劳动"
+    },
+    {
+      "en": "anticipate retirement",
+      "zh": "期待退休"
+    }
+  ],
+  "questions": [
+    {
+      "number": 51,
+      "type": "choice",
+      "en": "What do we learn from the passage about the economics professor and her hairdresser?",
+      "zh": "关于经济学教授和她的理发师，文章告诉了我们什么？",
+      "options": [
+        {
+          "key": "A",
+          "en": "They differ in their reasons for continuing to work.",
+          "zh": "她们继续工作的原因不同。"
+        },
+        {
+          "key": "B",
+          "en": "They are both committed to working into their 70s.",
+          "zh": "她们都决心工作到70多岁。"
+        },
+        {
+          "key": "C",
+          "en": "They are happy about their current financial situation.",
+          "zh": "她们对目前的经济状况感到满意。"
+        },
+        {
+          "key": "D",
+          "en": "They hold different views about postponing retirement.",
+          "zh": "她们对推迟退休持有不同看法。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "定位：第1段第2、3句。教授继续工作是出于意愿，理发师则是因为需要收入。A项 differ in their reasons 对应 for a different reason。B项把下一段美国老年人口的总体趋势套用到两人身上，原文未给出两人的工作年龄计划；C项与理发师需要收入不符；D项把原因不同偷换成观点不同，两人都赞成继续工作。",
+      "evidence": "The economist said she plans to continue working because she wants to. The hairdresser agreed but for a different reason: She needs the money."
+    },
+    {
+      "number": 52,
+      "type": "choice",
+      "en": "What is one of the reasons for people to delay retirement?",
+      "zh": "人们推迟退休的原因之一是什么？",
+      "options": [
+        {
+          "key": "A",
+          "en": "More and more people have switched to less intellectually challenging jobs.",
+          "zh": "越来越多的人转向了脑力要求较低的工作。"
+        },
+        {
+          "key": "B",
+          "en": "The number of jobs suitable for older people has increased in the private sector.",
+          "zh": "私营部门适合老年人的岗位数量有所增加。"
+        },
+        {
+          "key": "C",
+          "en": "The rate of wage increase in terms of purchasing power has slowed down for years.",
+          "zh": "以购买力衡量的工资增长率多年来一直放缓。"
+        },
+        {
+          "key": "D",
+          "en": "More and more people in the workplace find it hard to rely on traditional pensions.",
+          "zh": "职场中越来越多的人发现难以依靠传统退休金。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "定位：第3段第1句。years of slow rise in real wages 表示实际工资长期增长缓慢。real wages 是扣除物价因素、反映购买力的工资，对应C项 in terms of purchasing power。A项将劳动强度较低偷换为脑力要求较低；B项“适合老年人的岗位增加”没有依据；D项把私营部门传统退休金制度的转变过度解释为越来越多人难以依赖退休金。",
+      "evidence": "In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the reasons people delay retirement."
+    },
+    {
+      "number": 53,
+      "type": "choice",
+      "en": "What is the general trend in people delaying retirement?",
+      "zh": "人们推迟退休的总体趋势是什么？",
+      "options": [
+        {
+          "key": "A",
+          "en": "The higher their earnings, the more likely they are tempted to delay retirement.",
+          "zh": "收入越高，人们越可能想推迟退休。"
+        },
+        {
+          "key": "B",
+          "en": "Those who have more job satisfaction tend to retire later than those who have less.",
+          "zh": "工作满意度较高的人往往比满意度较低的人退休更晚。"
+        },
+        {
+          "key": "C",
+          "en": "More men than women are likely to stay in the labor force until their late seventies.",
+          "zh": "男性比女性更有可能留在劳动力市场直到七十七八岁。"
+        },
+        {
+          "key": "D",
+          "en": "The higher their educational level, the more likely they are to delay retirement.",
+          "zh": "教育水平越高，人们越可能推迟退休。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "定位：第5段。70多岁仍工作的比例，学士学位持有者近20%，接受过部分大学教育者约15%，高中及以下学历者约10%。这些数据支持D项：教育水平越高，推迟退休的可能性越大。A项将教育水平偷换为收入；B项把第6段部分专业工作者更享受工作的情况概括成总体趋势；C项缺少男女延迟退休比例的比较依据，原文只说男性退休后更易产生孤独感。",
+      "evidence": "The share of Americans with bachelor’s degrees who were working into their 70s reached nearly 20% in 2018. For those with a high school degree or less, the proportion of those working in their 70s had risen to around 10%, while those with some college education were in the middle at around 15%."
+    },
+    {
+      "number": 54,
+      "type": "choice",
+      "en": "What is the chief reason for college-educated workers delaying retirement according to an economist?",
+      "zh": "据一位经济学家所说，受过大学教育的劳动者推迟退休的主要原因是什么？",
+      "options": [
+        {
+          "key": "A",
+          "en": "Enjoying financial security.",
+          "zh": "享有经济保障。"
+        },
+        {
+          "key": "B",
+          "en": "Staying connected socially.",
+          "zh": "保持社交联系。"
+        },
+        {
+          "key": "C",
+          "en": "Contributing more professionally.",
+          "zh": "在专业领域做出更多贡献。"
+        },
+        {
+          "key": "D",
+          "en": "Increasing social security payments.",
+          "zh": "增加社会保障金缴纳。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "定位：第6段第2句。经济学家认为，许多受过大学教育的人继续工作，更多是为了社交益处，而非经济原因。B项 Staying connected socially 是 social benefits 在此处的同义表达。A项与 more for social benefits than for financial reasons 的比较重点不符；C项的专业贡献和D项的社会保障金缴纳都未提及。注意 social benefits 在这里指社交益处，并非社会保障福利。",
+      "evidence": "He suggests that many college-educated workers are choosing to stay in the labor force more for social benefits than for financial reasons."
+    },
+    {
+      "number": 55,
+      "type": "choice",
+      "en": "What does the passage say about people doing manual work?",
+      "zh": "文章关于从事体力劳动的人说了什么？",
+      "options": [
+        {
+          "key": "A",
+          "en": "They are eager to enjoy life after retiring.",
+          "zh": "他们渴望退休后享受生活。"
+        },
+        {
+          "key": "B",
+          "en": "They are likely to have financial troubles.",
+          "zh": "他们可能存在经济困难。"
+        },
+        {
+          "key": "C",
+          "en": "They generally don’t enjoy doing it.",
+          "zh": "他们通常不喜欢自己的工作。"
+        },
+        {
+          "key": "D",
+          "en": "They tend to anticipate retirement.",
+          "zh": "他们往往期待退休。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "定位：第7段。physical jobs 对应题干 manual work；D项 anticipate retirement 对应 look forward to retiring，表示期待退休。A项在期待退休之上添加了享受生活的目的，属于过度推断；B项把选择继续工作的部分体力劳动者出于经济考虑，扩大为所有体力劳动者可能有经济困难；C项“通常不喜欢工作”没有原文依据。",
+      "evidence": "Workers in more physical jobs, meanwhile, may be more likely to look forward to retiring, Baily says, suggesting those who stay on are more likely doing so for financial reasons."
+    }
+  ]
+}
