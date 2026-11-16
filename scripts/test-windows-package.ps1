@@ -52,7 +52,8 @@ try {
     # Inject a temporary home for the native launcher, then restore its shipped config.
     $desktopHome = Join-Path $temporary 'desktop home'
     New-Item -ItemType Directory -Path $desktopHome | Out-Null
-    [IO.File]::AppendAllText($cfg, "`r`njava-options=-Duser.home=`"$desktopHome`"`r`n", (New-Object Text.UTF8Encoding($false)))
+    # Each java-options line is one JVM argument; cfg values are not shell-quoted.
+    [IO.File]::AppendAllText($cfg, "`r`njava-options=-Duser.home=$desktopHome`r`n", (New-Object Text.UTF8Encoding($false)))
     $desktop = Start-Process -FilePath (Join-Path $app 'Noiseless.exe') -PassThru
     $ready = $false
     for ($attempt = 0; $attempt -lt 120; $attempt++) {
