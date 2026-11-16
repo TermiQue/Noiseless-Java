@@ -157,4 +157,4 @@ Compose：
 
 接口说明见 [API.md](API.md)。离线词库来源和许可证见 [THIRD_PARTY.md](THIRD_PARTY.md)。
 
-Windows CI 自动运行完整 Java 测试、PowerShell/Maven 引导、便携包打包、随包运行时后端接口与重启检查，以及原生 EXE 窗口启动检查。CI 产物下载与人工验收范围见 [WINDOWS.md](WINDOWS.md)。
+Windows CI 已通过 44 项 Java 测试、43 项随包后端检查、6 项重启检查与原生 EXE 窗口启动（[验证记录](docs/verification/windows.json)）。工作流自动运行完整 Java 测试、PowerShell/Maven 引导、便携包打包、随包运行时后端接口与重启检查，以及原生 EXE 窗口启动检查。CI 产物下载与人工验收范围见 [WINDOWS.md](WINDOWS.md)。

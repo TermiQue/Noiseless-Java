@@ -1,0 +1,27 @@
+{
+  "verifiedOn": "2026-11-16",
+  "platform": "Windows Server 2025 amd64 (GitHub-hosted runner)",
+  "java": "Temurin 21.0.13",
+  "powershell": "Windows PowerShell 5.1",
+  "codeCommit": "e444879825e2b5e474987fcbc7f845d3f5a9d882",
+  "workflowRun": "https://github.com/TermiQue/Noiseless-Java/actions/runs/43849192622",
+  "conclusion": "success",
+  "javaTests": 44,
+  "javaFailures": 0,
+  "javaErrors": 0,
+  "packagedBackendChecks": 43,
+  "restartChecks": 6,
+  "nativeExeWindowStartup": true,
+  "isolatedDesktopHome": true,
+  "realAiCalls": 0,
+  "packageSha256": "74bc33c9bd222ce0c3ddb691ec110b4a4f49fa2dcab278e8d9f86b62d845f1eb",
+  "artifactId": 14216736920,
+  "artifactDigest": "sha256:796514b585bb3b6255d5259aabd9dccdf23d3f6237b6ef03ef428b75d0226a79",
+  "manualChecksRemaining": [
+    "Windows 10/11 physical desktop interactions",
+    "IME candidate composition",
+    "physical audio output",
+    "trackpad gestures",
+    "multi-monitor DPI scaling"
+  ]
+}

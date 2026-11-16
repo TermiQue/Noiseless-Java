@@ -86,9 +86,21 @@ java --enable-native-access=ALL-UNNAMED -jar .\target\noiseless.jar server
 Invoke-RestMethod http://127.0.0.1:8080/health
 ```
 
-这只是前台启动，未安装为 Windows Service。正式单服务器部署仍建议按 README 的 Linux/Docker/HTTPS 方案。关闭服务后再替换 JAR；数据和主密钥另行保留。备份命令和数据库恢复规则见 README。
+这只是前台启动，未安装为 Windows Service。正式单服务器部署仍建议按 README 的 Linux/Docker/HTTPS 方案。关闭服务后再替换 JAR；数据和主密钥另行保留。
+
+在同一数据目录配置下备份（快照文件不能已存在）：
+
+```powershell
+$backup = Join-Path $env:USERPROFILE ('noiseless-' + (Get-Date -Format 'yyyyMMdd-HHmmss') + '.db')
+java --enable-native-access=ALL-UNNAMED -jar .\target\noiseless.jar backup $backup
+Copy-Item -LiteralPath (Join-Path $env:NOISELESS_DATA_DIR 'ai-master.key') -Destination ($backup + '.key')
+```
+
+这要求该数据目录已经启动初始化过。数据库和主密钥一起存放在你有权限的备份目录中。恢复前停止目标服务，保留恢复前副本，再按 README 替换快照、主密钥及处理 WAL/SHM 文件。
 
 ## 自动验证与故障排查
+
+2026-11-16 已在 Windows Server 2025 amd64 / Temurin 21.0.13 / Windows PowerShell 5.1 的 GitHub runner 通过完整验证：[成功运行记录](https://github.com/TermiQue/Noiseless-Java/actions/runs/43849192622)。44 项 Java 测试、43 项随包后端检查、6 项重启检查及原生 EXE 窗口启动全部通过，真实 AI 调用为 0；汇总与包校验值见 [windows.json](docs/verification/windows.json)。这不是 Windows 10/11 物理设备的完整交互验收。
 
 Windows CI 使用 Temurin JDK 21、Windows PowerShell 5.1 和带空格的仓库路径，执行：
 
@@ -106,5 +118,11 @@ Windows CI 使用 Temurin JDK 21、Windows PowerShell 5.1 和带空格的仓库�
 | 云端连接失败 | 保持 SSH 隧道运行，并确认服务地址和健康检查正确 |
 | 音频无法播放 | 确认是可访问的 HTTP(S) MP3/PCM WAV 地址、音频设备正常；其他格式先转换 |
 | 窗口或字体显示异常 | 先使用 Windows 推荐缩放比例；附上系统/JDK 版本和缩放设置用于设备回归 |
+
+如果 EXE 没有显示窗口，可在解压后的 `Noiseless` 目录中使用包内运行时，从终端查看启动错误：
+
+```powershell
+.\runtime\bin\java.exe --enable-native-access=ALL-UNNAMED -jar .\app\noiseless.jar
+```
 
 构建工具参考：[Maven Windows](https://maven.apache.org/guides/getting-started/windows-prerequisites.html)、[JDK 21 jpackage](https://docs.oracle.com/en/java/javase/21/docs/specs/man/jpackage.html)。
