@@ -1,5 +1,5 @@
 {
-  "tests": 40,
+  "tests": 44,
   "failures": 0,
   "errors": 0,
   "suites": [
@@ -26,6 +26,13 @@
     },
     {
       "suite": "io.noiseless.MigrationTest",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "suite": "io.noiseless.PrivateFilesTest",
       "tests": 1,
       "failures": 0,
       "errors": 0,
@@ -48,6 +55,13 @@
     {
       "suite": "io.noiseless.desktop.InteractionTest",
       "tests": 6,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "suite": "io.noiseless.desktop.WindowsCompatibilityTest",
+      "tests": 2,
       "failures": 0,
       "errors": 0,
       "skipped": 0

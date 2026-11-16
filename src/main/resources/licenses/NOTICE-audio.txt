@@ -1,0 +1,17 @@
+MP3 playback uses the following unmodified Java Sound libraries:
+MP3SPI 1.9.5.4 (JavaZOOM)
+JLayer 1.0.1.4 (JavaZOOM / original contributors)
+Tritonus Share 0.3.7.4 (Tritonus contributors)
+Soundlibs Maven repackaging: Patrik Dudits and Ralf Eichinger.
+
+See the copyright and license notices in each bundled source archive.
+The LGPL 2.1 license text is included as LGPL-2.1.txt.
+Corresponding sources are included in audio-sources/ and available at:
+https://repo.maven.apache.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5.4/mp3spi-1.9.5.4-sources.jar
+https://repo.maven.apache.org/maven2/com/googlecode/soundlibs/jlayer/1.0.1.4/jlayer-1.0.1.4-sources.jar
+https://repo.maven.apache.org/maven2/com/googlecode/soundlibs/tritonus-share/0.3.7.4/tritonus-share-0.3.7.4-sources.jar
+
+To replace these libraries, edit the Maven dependencies/exclusions in pom.xml
+and rebuild with mvnw verify (Windows: mvnw.cmd verify). No restriction is
+imposed on modification or reverse engineering for debugging modifications
+of these LGPL-covered libraries.

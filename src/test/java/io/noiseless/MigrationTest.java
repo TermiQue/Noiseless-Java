@@ -10,6 +10,18 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class MigrationTest {
     @TempDir Path directory;
+    @Test void importsReadOnlyLexiconFromUnicodePathWithSpacesAndHash() throws Exception {
+        Path legacy=Files.createDirectories(directory.resolve("中文 library #1"));
+        try(var connection=java.sql.DriverManager.getConnection("jdbc:sqlite:"+legacy.resolve("user-lexicon.sqlite").toAbsolutePath()); var statement=connection.createStatement()) {
+            statement.execute("CREATE TABLE words(word TEXT,data TEXT)");
+            try(var insert=connection.prepareStatement("INSERT INTO words VALUES(?,?)")) {
+                insert.setString(1,"book"); insert.setString(2,str(obj("meaning","书"))); insert.executeUpdate();
+            }
+        }
+        var backup=LegacyImport.read(legacy);
+        assertEquals("书",backup.path("lexicon").path(0).path("data").path("meaning").asText());
+        Files.delete(legacy.resolve("user-lexicon.sqlite")); // Connection must be closed, also on Windows.
+    }
     @Test void migratesClassificationAndFavoritesAtomically() throws Exception {
         Path legacy=directory.resolve("old"); Files.createDirectories(legacy.resolve(".noiseless-trash"));
         var a=obj("format","noiseless-1","title","Test","paragraphs",arr().add(obj("en","A book","zh","一本书")));

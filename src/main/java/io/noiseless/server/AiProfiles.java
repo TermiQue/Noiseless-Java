@@ -19,8 +19,7 @@ public final class AiProfiles {
         this.db=db; this.local=local; Path path=directory.resolve("ai-master.key");
         if(!Files.exists(path)){
             byte[] raw=new byte[32]; new java.security.SecureRandom().nextBytes(raw);
-            try{ Files.createFile(path,java.nio.file.attribute.PosixFilePermissions.asFileAttribute(java.nio.file.attribute.PosixFilePermissions.fromString("rw-------"))); }
-            catch(UnsupportedOperationException e){ Files.createFile(path); }
+            io.noiseless.core.PrivateFiles.create(path);
             Files.write(path,raw);
         }
         key=Files.readAllBytes(path); require(key.length==32,"AI 主密钥文件损坏");

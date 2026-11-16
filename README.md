@@ -15,7 +15,7 @@ cd Noiseless-Java
 java -jar target/noiseless.jar
 ```
 
-首次启动自动导入随包示例和分类，之后不会重新导入已删除的示例。默认打开本地模式，使用 `~/.noiseless-java/local/` 内的 SQLite，离线可阅读、管理文章和查词。客户端在随机回环端口启动本地服务，为本地模式创建独立随机密码账号；凭据文件在支持 POSIX 的系统中以 `0600` 保存。不读取旧 Electron 的密钥或修改旧资料。
+首次启动自动导入随包示例和分类，之后不会重新导入已删除的示例。默认打开本地模式，使用 `~/.noiseless-java/local/` 内的 SQLite，离线可阅读、管理文章和查词。客户端在随机回环端口启动本地服务，为本地模式创建独立随机密码账号；凭据文件在 POSIX 系统中以 `0600` 保存，在 Windows NTFS 中使用当前用户专属 ACL。不读取旧 Electron 的密钥或修改旧资料。
 
 只启动后端：
 
@@ -31,7 +31,15 @@ java -jar target/noiseless.jar desktop --cloud https://reader.example.com
 
 云端会话令牌仅保存在客户端内存。切换账号会关闭旧账号的弹窗、取消当前客户端的 AI 任务，清理阅读视图，避免串用账号资料。本地模式与云端模式使用独立资料库；不会自动覆盖或双向合并。
 
-Windows 可安装 Maven 后执行 `mvn verify`，再运行同一个 JAR。这里的 `mvnw` 是 POSIX 启动脚本；未提供 Windows Maven 引导脚本。
+Windows 10/11（x64）使用 JDK 21+，无需预装 Maven：
+
+```powershell
+.\mvnw.cmd verify
+java --enable-native-access=ALL-UNNAMED -jar .\target\noiseless.jar
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\scripts\package-desktop.ps1 -SkipBuild
+```
+
+生成 `target\native\Noiseless\Noiseless.exe` 和 `target\native\Noiseless-windows.zip`。解压完整 ZIP 后双击 EXE；包内自带 Java 运行时，使用者不需要安装 JDK。Windows 构建、连接服务器、数据目录和故障排查见 [WINDOWS.md](WINDOWS.md)。
 
 原生应用打包（使用当前系统 JDK 的 jpackage）：
 
@@ -139,7 +147,7 @@ Compose：
 - 已提供文章/文件夹内部拖拽排序、跨文件夹拖动、标题悬停滚动、标签关闭、新标签页工具选择、右栏收起/铺满/Escape 还原、段落表单编辑、单词本整页视图，以及按文章保留状态。Mac 手势使用 JDK 原生 Swipe/Phase 监听，并保留 Shift+横向滚轮回退；物理触控板与 Windows/Linux 交互仍需设备回归。
 - 正文编辑和 AI 整理/修改预览使用段落与答案表单，保留未编辑的扩展字段。聊天用 Swing 文本组件渲染 Markdown，支持列表、代码和表格；不执行 HTML/JavaScript，也不加载模型返回的远程图片。
 - 同时支持运营方模型和每用户多供应商配置；个人密钥使用 AES-GCM 加密，主密钥为数据目录中的 `ai-master.key`。可获取接口模型、手动填写未验证 ID、设默认和临时切换。云端自定义地址须加入 `NOISELESS_AI_ALLOWED_HOSTS`，避免用户请求任意内网地址。已迁移 DeepSeek 官方联网搜索开关与来源链接，以及聊天 update_article 工具。工具仅对明确修改请求启用，按当前聊天版本原子保存并留历史；独立的 AI 修改入口仍使用草稿确认。
-- macOS 下 HEIC/HEIF 通过系统 sips 转为 JPEG；其他系统需先转换。已提供原生音频播放/暂停/进度控制，macOS 通过系统 AudioConverter 解码 MP3/AAC 等；其他系统取决于 Java Sound 已安装解码器。原资料相对音频地址仍需迁移为可访问的 HTTP(S) 地址。
+- macOS 下 HEIC/HEIF 通过系统 sips 转为 JPEG；其他系统需先转换。已提供原生音频播放/暂停/进度控制，macOS 通过系统 AudioConverter 解码 MP3/AAC 等；Windows/Linux 随包提供 Java MP3 解码，支持 MP3 与 PCM WAV；AAC/M4A 等其他格式需先转成 MP3/WAV。原资料相对音频地址仍需迁移为可访问的 HTTP(S) 地址。
 - 邮箱是登录标识，未接入邮件验证、邮件找回密码、短信或付费额度系统。关闭公开注册可用于自用部署。
 - 每账号最多并行 2 个 AI 任务、30 次 AI 启动/分钟；单聊天同一时间只回答一轮，最多保留 40 轮。服务器重启会将未完成任务标记失败；已完成聊天和资料保留。
 - 当前测试覆盖文章格式、所有种子题型、多账号隔离、密码/会话撤销、并发版本冲突、原子回滚、删除恢复、分类、收藏、附件、备份、原词库、旧版迁移、AI 草稿确认、取消、语境缓存、四种协议及流中断校验。AI 使用本机模拟服务测试，没有调用真实付费模型。
@@ -148,3 +156,5 @@ Compose：
 当前服务器连接和运维方式见 [SERVER.md](SERVER.md)，交互对照及测试范围见 [UI_PARITY.md](UI_PARITY.md)。
 
 接口说明见 [API.md](API.md)。离线词库来源和许可证见 [THIRD_PARTY.md](THIRD_PARTY.md)。
+
+Windows CI 自动运行完整 Java 测试、PowerShell/Maven 引导、便携包打包、随包运行时后端接口与重启检查，以及原生 EXE 窗口启动检查。CI 产物下载与人工验收范围见 [WINDOWS.md](WINDOWS.md)。

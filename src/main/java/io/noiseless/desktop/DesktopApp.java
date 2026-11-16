@@ -77,7 +77,7 @@ public final class DesktopApp {
         JMenuBar menu=new JMenuBar(); JMenu file=new JMenu("资料"); menu.add(file); JMenuItem change=new JMenuItem("修改云端密码"); change.addActionListener(e->changePassword()); file.add(change); JMenuItem logout=new JMenuItem("退出云端账号"); logout.addActionListener(e->{ ApiClient previous=api; if(previous==local) return; work(()->previous.call("POST","auth/logout",obj()),v->switchApi(local)); }); file.add(logout); frame.setJMenuBar(menu);
         KeyboardFocusManager.getCurrentKeyboardFocusManager().addKeyEventDispatcher(event->{ if(event.getID()==KeyEvent.KEY_PRESSED&&event.getKeyCode()==KeyEvent.VK_ESCAPE&&KeyboardFocusManager.getCurrentKeyboardFocusManager().getActiveWindow()==frame){ var view=views.get(current); if(view!=null&&view.maximized){ view.restoreSupport(); return true; } } return false; });
         new SwipeNavigation(frame,d->position+d>=0&&position+d<history.size(),this::navigate);
-        bind("alt LEFT",()->navigate(-1)); bind("alt RIGHT",()->navigate(1)); bind("meta OPEN_BRACKET",()->navigate(-1)); bind("meta CLOSE_BRACKET",()->navigate(1)); bind("ESCAPE",()->{ var view=views.get(current); if(view!=null) view.restoreSupport(); });
+        bind("alt LEFT",()->navigate(-1)); bind("alt RIGHT",()->navigate(1)); bind(Platform.menuShortcut("OPEN_BRACKET"),()->navigate(-1)); bind(Platform.menuShortcut("CLOSE_BRACKET"),()->navigate(1)); bind("ESCAPE",()->{ var view=views.get(current); if(view!=null) view.restoreSupport(); });
         frame.setVisible(true);
         if(java.awt.Desktop.isDesktopSupported()&&java.awt.Desktop.getDesktop().isSupported(java.awt.Desktop.Action.APP_REQUEST_FOREGROUND)) java.awt.Desktop.getDesktop().requestForeground(true);
         frame.toFront(); frame.requestFocus(); refresh();
@@ -92,8 +92,7 @@ public final class DesktopApp {
         if(Files.exists(credentials)) auth=parse(Files.readString(credentials));
         else {
             auth=obj("email","local@noiseless.local","name","本地用户","password",id()+id());
-            try { Files.createFile(credentials,java.nio.file.attribute.PosixFilePermissions.asFileAttribute(java.nio.file.attribute.PosixFilePermissions.fromString("rw-------"))); }
-            catch(UnsupportedOperationException e) { Files.createFile(credentials); }
+            io.noiseless.core.PrivateFiles.create(credentials);
             Files.writeString(credentials,str(auth));
         }
         JsonNode logged; try { logged=local.call("POST","auth/login",auth); } catch(Fault e) { if(e.status!=401) throw e; logged=local.call("POST","auth/register",auth); }

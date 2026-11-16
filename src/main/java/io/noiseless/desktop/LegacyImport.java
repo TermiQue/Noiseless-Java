@@ -21,7 +21,7 @@ public final class LegacyImport {
         Path metadata=root.resolve(".noiseless-library.json"); if(Files.exists(metadata)) lib=parse(Files.readString(metadata));
         Path vocabulary=root.resolve(".noiseless-vocabulary.json"); if(Files.exists(vocabulary)) vocab=parse(Files.readString(vocabulary)).path("words");
         Path user=root.resolve("user-lexicon.sqlite");
-        if(Files.exists(user)) try(Connection c=DriverManager.getConnection("jdbc:sqlite:file:"+user.toAbsolutePath()+"?mode=ro"); var s=c.createStatement(); var r=s.executeQuery("SELECT word,data FROM words")) { while(r.next()) lexicon.add(obj("id",r.getString(1),"data",parse(r.getString(2)))); }
+        if(Files.exists(user)) try(Connection c=DriverManager.getConnection("jdbc:sqlite:"+user.toUri().toASCIIString()+"?mode=ro"); var s=c.createStatement(); var r=s.executeQuery("SELECT word,data FROM words")) { while(r.next()) lexicon.add(obj("id",r.getString(1),"data",parse(r.getString(2)))); }
         return obj("format","noiseless-cloud-backup-1","articles",articles,"library",lib,"vocabulary",vocab,"lexicon",lexicon);
     }
 }
