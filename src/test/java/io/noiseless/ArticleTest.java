@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class ArticleTest {
     @Test void allBundledSixTypesRemainCompatible() throws Exception {
         try(var in=getClass().getResourceAsStream("/seed/index.txt")) {
-            for(String file:new String(in.readAllBytes(),java.nio.charset.StandardCharsets.UTF_8).split("\n")) if(!file.isBlank()) try(var data=getClass().getResourceAsStream("/seed/"+file)) { assertDoesNotThrow(()->Article.validate(MAPPER.readTree(data)),file); }
+            for(String file:new String(in.readAllBytes(),java.nio.charset.StandardCharsets.UTF_8).lines().toList()) if(!file.isBlank()) try(var data=getClass().getResourceAsStream("/seed/"+file)) { assertDoesNotThrow(()->Article.validate(MAPPER.readTree(data)),file); }
         }
     }
     @Test void rejectsAnswersOutsideOptionsAndDuplicateNumbers() {

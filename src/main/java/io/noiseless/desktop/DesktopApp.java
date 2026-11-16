@@ -100,7 +100,7 @@ public final class DesktopApp {
         String user=logged.path("user").path("id").asText();
         if(server.db.query("SELECT 1 FROM docs WHERE user_id=? AND kind='meta' AND id='seeded'",user).isEmpty()){
             if(server.db.list(user,"articles").isEmpty()){
-                var samples=arr(); try(var index=DesktopApp.class.getResourceAsStream("/seed/index.txt")){ for(String name:new String(index.readAllBytes(),java.nio.charset.StandardCharsets.UTF_8).split("\n")) if(!name.isBlank()) try(var in=DesktopApp.class.getResourceAsStream("/seed/"+name)){ samples.add(obj("id",name,"data",MAPPER.readTree(in))); } }
+                var samples=arr(); try(var index=DesktopApp.class.getResourceAsStream("/seed/index.txt")){ for(String name:new String(index.readAllBytes(),java.nio.charset.StandardCharsets.UTF_8).lines().toList()) if(!name.isBlank()) try(var in=DesktopApp.class.getResourceAsStream("/seed/"+name)){ samples.add(obj("id",name,"data",MAPPER.readTree(in))); } }
                 JsonNode lib; try(var in=DesktopApp.class.getResourceAsStream("/seed/library.json")){ lib=MAPPER.readTree(in); }
                 new Importer(server.db,new Library(server.db)).apply(user,obj("format","noiseless-cloud-backup-1","articles",samples,"library",lib,"vocabulary",arr(),"lexicon",arr()));
             }
@@ -248,7 +248,7 @@ public final class DesktopApp {
     }
     private void seed() {
         ApiClient client=api; work(()-> { int count=0; try(var in=getClass().getResourceAsStream("/seed/index.txt")) {
-            for(String file:new String(in.readAllBytes(),java.nio.charset.StandardCharsets.UTF_8).split("\n")) if(!file.isBlank()) {
+            for(String file:new String(in.readAllBytes(),java.nio.charset.StandardCharsets.UTF_8).lines().toList()) if(!file.isBlank()) {
                 try(var data=getClass().getResourceAsStream("/seed/"+file)) { client.call("POST","articles",MAPPER.readTree(data)); count++; }
             }
         } return count; },v->{ JOptionPane.showMessageDialog(frame,"已导入 "+v+" 篇示例"); refresh(); });
